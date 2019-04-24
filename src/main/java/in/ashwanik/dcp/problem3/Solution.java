@@ -58,21 +58,19 @@ class Solution {
         int index = 0;
         while (!queue.isEmpty()) {
             node = queue.poll();
-            if (!node.getData().equals("#")) {
-                node.setData(nodes[Integer.parseInt(node.getData())]);
-                int left = index + 1;
-                int right = index + 2;
+            node.setData(nodes[Integer.parseInt(node.getData())]);
+            int left = index + 1;
+            int right = index + 2;
 
-                if (left < nodes.length - 1 && !nodes[left].equals("#")) {
-                    TreeNode<String> leftNode = new TreeNode<>(Integer.toString(left));
-                    node.setLeft(leftNode);
-                    queue.offer(leftNode);
-                }
-                if (right < nodes.length - 1 && !nodes[right].equals("#")) {
-                    TreeNode<String> rightNode = new TreeNode<>(Integer.toString(right));
-                    node.setRight(rightNode);
-                    queue.offer(rightNode);
-                }
+            if (left < nodes.length - 1 && !nodes[left].equals("#")) {
+                TreeNode<String> leftNode = new TreeNode<>(Integer.toString(left));
+                node.setLeft(leftNode);
+                queue.offer(leftNode);
+            }
+            if (right < nodes.length - 1 && !nodes[right].equals("#")) {
+                TreeNode<String> rightNode = new TreeNode<>(Integer.toString(right));
+                node.setRight(rightNode);
+                queue.offer(rightNode);
             }
             index += 2;
         }
