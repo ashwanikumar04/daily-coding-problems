@@ -1,5 +1,5 @@
 # daily-coding-problem
-Solutions to the daily coding problems
+Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
 
 ## **Google**
