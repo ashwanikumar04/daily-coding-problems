@@ -1,4 +1,4 @@
-package in.ashwanik.dcp.problem3;
+package in.ashwanik.dcp.problems.p3;
 
 import in.ashwanik.dcp.common.TreeNode;
 

@@ -1,4 +1,4 @@
-package in.ashwanik.dcp.problem1;
+package in.ashwanik.dcp.problems.p1;
 
 import org.junit.jupiter.api.Test;
 

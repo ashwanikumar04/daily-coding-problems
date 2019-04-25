@@ -1,4 +1,4 @@
-package in.ashwanik.dcp.problem2;
+package in.ashwanik.dcp.problems.p2;
 
 class Solution {
     int[] product(int[] array) {
