@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     @Test
-    void testProduct() {
+    void testSerializeAndDeserialize() {
         /*
                     2
                 3       4

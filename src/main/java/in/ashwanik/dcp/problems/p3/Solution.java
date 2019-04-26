@@ -9,7 +9,7 @@ import java.util.List;
 
 class Solution {
 
-    String serialize(TreeNode<String> root) {
+    public String serialize(TreeNode<String> root) {
         if (root == null) {
             return "";
         }

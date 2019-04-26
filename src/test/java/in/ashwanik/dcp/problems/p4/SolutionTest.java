@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void testProduct() {
+    void testMissingNumber() {
         assertEquals(1, new Solution().missingInteger(new int[]{}));
         assertEquals(1, new Solution().missingInteger(new int[]{2, 3, 7, 6, 8, -1, -10, 15}));
         assertEquals(4, new Solution().missingInteger(new int[]{2, 3, -7, 6, 8, 1, -10, 15}));

@@ -11,3 +11,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Stripe (1)**
 - [Problem4](src/main/java/in/ashwanik/dcp/problems/p4)
+
+## **Facebook (1)**
+- [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)

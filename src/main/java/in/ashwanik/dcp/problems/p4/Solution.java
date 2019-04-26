@@ -1,8 +1,8 @@
 package in.ashwanik.dcp.problems.p4;
 
-public class Solution {
+class Solution {
 
-    public int missingInteger(int[] array) {
+    int missingInteger(int[] array) {
         if (array == null || array.length == 0) {
             return 1;
         }
