@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
+ *
  */
 public class TreeNode<T> {
 
@@ -15,6 +16,12 @@ public class TreeNode<T> {
         this.data = data;
         this.left = null;
         this.right = null;
+    }
+
+    public TreeNode(T data, TreeNode<T> left, TreeNode<T> right) {
+        this.data = data;
+        this.left = left;
+        this.right = right;
     }
 
     public TreeNode<T> getRight() {
