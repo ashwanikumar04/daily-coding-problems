@@ -14,3 +14,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Facebook (1)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)
+
+## **Airbnb (1)**
+- [Problem9](src/main/java/in/ashwanik/dcp/problems/p9)
