@@ -21,3 +21,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Twitter (1)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
+
+## **Amazon (1)**
+- [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
