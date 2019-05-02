@@ -7,6 +7,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p3)
 - [Problem8](src/main/java/in/ashwanik/dcp/problems/p8)
 
+## **Amazon (2)**
+- [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
+- [Problem13](src/main/java/in/ashwanik/dcp/problems/p13)
+
 ## **Uber (1)**
 - [Problem2](src/main/java/in/ashwanik/dcp/problems/p2)
 
@@ -21,6 +25,3 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Twitter (1)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
-
-## **Amazon (1)**
-- [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
