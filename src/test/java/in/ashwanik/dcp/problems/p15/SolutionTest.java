@@ -8,8 +8,6 @@ class SolutionTest {
 
     @Test
     void testGetRandom() {
-
-
         assertEquals(2, new Solution().getRandom(2));
     }
 }
