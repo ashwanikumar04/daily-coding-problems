@@ -1,11 +1,19 @@
 # daily-coding-problem
 Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
-
-## **Google (3)**
+## **Google (4)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p3)
 - [Problem8](src/main/java/in/ashwanik/dcp/problems/p8)
+- [Problem14](src/main/java/in/ashwanik/dcp/problems/p14)
+
+## **Facebook (2)**
+- [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)
+- [Problem15](src/main/java/in/ashwanik/dcp/problems/p15)
+
+## **Twitter (2)**
+- [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
+- [Problem16](src/main/java/in/ashwanik/dcp/problems/p16)
 
 ## **Amazon (2)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
@@ -17,11 +25,5 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 ## **Stripe (1)**
 - [Problem4](src/main/java/in/ashwanik/dcp/problems/p4)
 
-## **Facebook (1)**
-- [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)
-
 ## **Airbnb (1)**
 - [Problem9](src/main/java/in/ashwanik/dcp/problems/p9)
-
-## **Twitter (1)**
-- [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
