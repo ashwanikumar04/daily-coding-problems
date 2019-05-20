@@ -31,3 +31,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Airbnb (1)**
 - [Problem9](src/main/java/in/ashwanik/dcp/problems/p9)
+
+## **Snapchat (1)**
+- [Problem21](src/main/java/in/ashwanik/dcp/problems/p21)
+
