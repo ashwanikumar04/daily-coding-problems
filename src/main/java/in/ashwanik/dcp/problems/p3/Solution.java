@@ -2,10 +2,7 @@ package in.ashwanik.dcp.problems.p3;
 
 import in.ashwanik.dcp.common.TreeNode;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.List;
+import java.util.*;
 
 class Solution {
 
@@ -42,6 +39,15 @@ class Solution {
 
     }
 
+    String serializeV2(TreeNode<String> root) {
+        if (root == null) {
+            return "#,";
+        }
+        String left = serializeV2(root.getLeft());
+        String right = serializeV2(root.getRight());
+        return root.getData() + "," + left + right;
+    }
+
     TreeNode<String> deserialize(String data) {
         if (data == null || data.isEmpty() || data.startsWith("#")) {
             return null;
@@ -75,6 +81,30 @@ class Solution {
             index += 2;
         }
 
+        return root;
+    }
+
+    TreeNode<String> deserializeV2(String data) {
+        if (data == null) {
+            return null;
+        }
+        Deque<String> nodes = new ArrayDeque<>(Arrays.asList(data.split(",")));
+
+        return deserializeHelper(nodes);
+    }
+
+    private TreeNode<String> deserializeHelper(Deque<String> nodes) {
+        if (nodes.isEmpty()) {
+            return null;
+        }
+        String node = nodes.poll();
+        if (node.equals("#")) {
+            return null;
+        }
+
+        TreeNode<String> root = new TreeNode<>(node);
+        root.setLeft(deserializeHelper(nodes));
+        root.setRight(deserializeHelper(nodes));
         return root;
     }
 }
