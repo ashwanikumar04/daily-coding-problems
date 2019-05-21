@@ -35,3 +35,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 ## **Snapchat (1)**
 - [Problem21](src/main/java/in/ashwanik/dcp/problems/p21)
 
+## **Microsoft (1)**
+- [Problem22](src/main/java/in/ashwanik/dcp/problems/p22)
+
+
