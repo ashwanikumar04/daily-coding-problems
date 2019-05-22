@@ -27,7 +27,7 @@ class Solution {
         visited[start.x][start.y] = true;
 
         while (!queue.isEmpty()) {
-            QNode current = queue.getFirst();
+            QNode current = queue.removeFirst();
             if (current.point.x == end.x && current.point.y == end.y) {
                 return current.distance;
             }
@@ -36,7 +36,6 @@ class Solution {
                 if (isValid(neighbour, matrix.length, matrix[0].length) &&
                         matrix[neighbour.x][neighbour.y] &&
                         !visited[neighbour.x][neighbour.y]) {
-
                     QNode neighbourNode = new QNode();
                     neighbourNode.distance = current.distance + 1;
                     neighbourNode.point = neighbour;
@@ -44,7 +43,6 @@ class Solution {
                     queue.add(neighbourNode);
                 }
             }
-
         }
         return -1;
     }
