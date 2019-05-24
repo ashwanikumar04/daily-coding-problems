@@ -4,27 +4,16 @@ import java.util.*;
 
 class Solution {
 
-    private Map<Character, Character> openBrackets;
-    private Map<Character, Character> closeBrackets;
-
-    private Set<Character> brackets;
-
-    Solution() {
+    boolean checkIfBracketsAreBalanced(String data) {
+        Map<Character, Character> openBrackets;
+        Set<Character> brackets;
         openBrackets = new HashMap<>();
         openBrackets.put('{', '}');
         openBrackets.put('[', ']');
         openBrackets.put('(', ')');
 
-        closeBrackets = new HashMap<>();
-        closeBrackets.put('}', '{');
-        closeBrackets.put(']', '[');
-        closeBrackets.put(')', '(');
-
         brackets = new HashSet<>();
         brackets.addAll(Arrays.asList('(', ')', '{', '}', '[', ']'));
-    }
-
-    boolean checkIfBracketsAreBalanced(String data) {
         if (data == null || data.isEmpty()) {
             return true;
         }
@@ -33,11 +22,14 @@ class Solution {
         for (Character c : data.toCharArray()) {
             if (brackets.contains(c)) {
                 if (openBrackets.containsKey(c)) {
-                    stack.addLast(c);
+                    stack.push(c);
                 } else {
-                    Character last = stack.peekLast();
-                    if (last != null && last.equals(closeBrackets.get(c))) {
-                        stack.removeLast();
+                    if (stack.isEmpty()) {
+                        return false;
+                    }
+                    Character last = stack.pop();
+                    if (!c.equals(openBrackets.get(last))) {
+                        return false;
                     }
                 }
             }

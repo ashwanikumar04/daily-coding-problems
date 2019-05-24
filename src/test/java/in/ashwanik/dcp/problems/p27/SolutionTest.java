@@ -15,5 +15,6 @@ class SolutionTest {
         assertTrue(new Solution().checkIfBracketsAreBalanced("([])[]({})"));
         assertFalse(new Solution().checkIfBracketsAreBalanced("([)]"));
         assertFalse(new Solution().checkIfBracketsAreBalanced("((()"));
+        assertFalse(new Solution().checkIfBracketsAreBalanced("{(([])[])[]]}"));
     }
 }
