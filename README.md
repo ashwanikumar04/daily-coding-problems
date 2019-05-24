@@ -13,10 +13,11 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem23](src/main/java/in/ashwanik/dcp/problems/p23)
 - [Problem24](src/main/java/in/ashwanik/dcp/problems/p24)
 
-## **Facebook (3)**
+## **Facebook (4)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)
 - [Problem15](src/main/java/in/ashwanik/dcp/problems/p15)
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p19)
+- [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
 
 ## **Twitter (2)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
@@ -40,6 +41,11 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Microsoft (1)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p22)
+
+ # Pending Questions:
+- [Problem19](src/main/java/in/ashwanik/dcp/problems/p19)
+- [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
+
 
 
 
