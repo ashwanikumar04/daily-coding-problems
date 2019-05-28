@@ -1,4 +1,4 @@
-#:sunny:-Implemented, :new_moon:-Ignored, :waxing_crescent_moon:-Pending
+# :sunny:-Implemented, :new_moon:-Ignored, :waxing_crescent_moon:-Pending
 
 
 ## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1):sunny:
