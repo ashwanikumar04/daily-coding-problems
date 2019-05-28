@@ -1,4 +1,7 @@
-## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1)
+#:sunny:-Implemented, :new_moon:-Ignored, :waxing_crescent_moon:-Pending
+
+
+## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1):sunny:
 
 
 This problem was recently asked by Google.
@@ -10,7 +13,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-## [Problem-2](src/main/java/in/ashwanik/dcp/problems/p2)
+## [Problem-2](src/main/java/in/ashwanik/dcp/problems/p2):sunny:
 
 
 This problem was asked by Uber.
@@ -25,7 +28,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be
 
 Follow-up: what if you can't use division?
 
-## [Problem-3](src/main/java/in/ashwanik/dcp/problems/p3)
+## [Problem-3](src/main/java/in/ashwanik/dcp/problems/p3):sunny:
 
 
 This problem was asked by Google.
@@ -49,7 +52,7 @@ node = Node('root', Node('left', Node('left.left')), Node('right'))
 assert deserialize(serialize(node)).left.left.val == 'left.left'
 
 
-## [Problem-4](src/main/java/in/ashwanik/dcp/problems/p4)
+## [Problem-4](src/main/java/in/ashwanik/dcp/problems/p4):sunny:
 
 
 This problem was asked by Stripe.
@@ -64,7 +67,7 @@ give 3.
 
 You can modify the input array in-place.
 
-## [Problem-5](src/main/java/in/ashwanik/dcp/problems/p5)
+## Problem-5:new_moon:
 
 
 This problem was asked by Jane Street.
@@ -83,7 +86,7 @@ def cons(a, b):
 
 Implement car and cdr.
 
-## [Problem-6](src/main/java/in/ashwanik/dcp/problems/p6)
+## Problem-6:new_moon:
 
 
 This problem was asked by Google.
@@ -98,7 +101,7 @@ If using a language that has no pointers (such as Python), you can assume you
 have access to get_pointer anddereference_pointer functions that converts
 between nodes and memory addresses.
 
-## [Problem-7](src/main/java/in/ashwanik/dcp/problems/p7)
+## [Problem-7](src/main/java/in/ashwanik/dcp/problems/p7):sunny:
 
 
 This problem was asked by Facebook.
@@ -112,7 +115,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 You can assume that the messages are decodable. For example, '001' is not
 allowed.
 
-## [Problem-8](src/main/java/in/ashwanik/dcp/problems/p8)
+## [Problem-8](src/main/java/in/ashwanik/dcp/problems/p8):sunny:
 
 
 This problem was asked by Google.
@@ -133,7 +136,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 
 
-## [Problem-9](src/main/java/in/ashwanik/dcp/problems/p9)
+## [Problem-9](src/main/java/in/ashwanik/dcp/problems/p9):sunny:
 
 
 This problem was asked by Airbnb.
@@ -146,7 +149,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-## [Problem-10](src/main/java/in/ashwanik/dcp/problems/p10)
+## Problem-10:new_moon:
 
 
 This problem was asked by Apple.
@@ -154,7 +157,7 @@ This problem was asked by Apple.
 Implement a job scheduler which takes in a function f and an integer n, and
 calls f after n milliseconds.
 
-## [Problem-11](src/main/java/in/ashwanik/dcp/problems/p11)
+## [Problem-11](src/main/java/in/ashwanik/dcp/problems/p11):sunny:
 
 
 This problem was asked by Twitter.
@@ -169,7 +172,7 @@ return [deer, deal].
 Hint: Try preprocessing the dictionary into a more efficient data structure to
 speed up queries.
 
-## [Problem-12](src/main/java/in/ashwanik/dcp/problems/p12)
+## [Problem-12](src/main/java/in/ashwanik/dcp/problems/p12):sunny:
 
 
 This problem was asked by Amazon.
@@ -190,7 +193,7 @@ What if, instead of being able to climb 1 or 2 steps at a time, you could climb
 any number from a set of positive integers X? For example, if X = {1, 3, 5}, you
 could climb 1, 3, or 5 steps at a time.
 
-## [Problem-13](src/main/java/in/ashwanik/dcp/problems/p13)
+## [Problem-13](src/main/java/in/ashwanik/dcp/problems/p13):sunny:
 
 
 This problem was asked by Amazon.
@@ -201,7 +204,7 @@ contains at most k distinct characters.
 For example, given s = "abcba" and k = 2, the longest substring with k distinct
 characters is "bcb".
 
-## [Problem-14](src/main/java/in/ashwanik/dcp/problems/p14)
+## [Problem-14](src/main/java/in/ashwanik/dcp/problems/p14):sunny:
 
 
 This problem was asked by Google.
@@ -211,7 +214,7 @@ Monte Carlo method.
 
 Hint: The basic equation of a circle is x2 + y2 = r2.
 
-## [Problem-15](src/main/java/in/ashwanik/dcp/problems/p15)
+## [Problem-15](src/main/java/in/ashwanik/dcp/problems/p15):sunny:
 
 
 This problem was asked by Facebook.
@@ -219,7 +222,7 @@ This problem was asked by Facebook.
 Given a stream of elements too large to store in memory, pick a random element
 from the stream with uniform probability.
 
-## [Problem-16](src/main/java/in/ashwanik/dcp/problems/p16)
+## [Problem-16](src/main/java/in/ashwanik/dcp/problems/p16):sunny:
 
 
 This problem was asked by Twitter.
@@ -233,7 +236,7 @@ Implement a data structure to accomplish this, with the following API:
 
 You should be as efficient with time and space as possible.
 
-## [Problem-17](src/main/java/in/ashwanik/dcp/problems/p17)
+## [Problem-17](src/main/java/in/ashwanik/dcp/problems/p17):sunny:
 
 
 This problem was asked by Google.
@@ -284,7 +287,7 @@ The name of a file contains at least a period and an extension.
 
 The name of a directory or sub-directory will not contain a period.
 
-## [Problem-18](src/main/java/in/ashwanik/dcp/problems/p18)
+## [Problem-18](src/main/java/in/ashwanik/dcp/problems/p18):sunny:
 
 
 This problem was asked by Google.
@@ -304,7 +307,7 @@ Do this in O(n) time and O(k) space. You can modify the input array in-place and
 you do not need to store the results. You can simply print them out as you
 compute them.
 
-## [Problem-19](src/main/java/in/ashwanik/dcp/problems/p19)
+## Problem-19:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -317,7 +320,7 @@ Given an N by K matrix where the nth row and kth column represents the cost to
 build the nthhouse with kth color, return the minimum cost which achieves this
 goal.
 
-## [Problem-20](src/main/java/in/ashwanik/dcp/problems/p20)
+## [Problem-20](src/main/java/in/ashwanik/dcp/problems/p20):sunny:
 
 
 This problem was asked by Google.
@@ -334,7 +337,7 @@ objects.
 Do this in O(M + N) time (where M and N are the lengths of the lists) and
 constant space.
 
-## [Problem-21](src/main/java/in/ashwanik/dcp/problems/p21)
+## [Problem-21](src/main/java/in/ashwanik/dcp/problems/p21):sunny:
 
 
 This problem was asked by Snapchat.
@@ -344,7 +347,7 @@ overlapping), find the minimum number of rooms required.
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-## [Problem-22](src/main/java/in/ashwanik/dcp/problems/p22)
+## [Problem-22](src/main/java/in/ashwanik/dcp/problems/p22):sunny:
 
 
 This problem was asked by Microsoft.
@@ -361,7 +364,7 @@ Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string
 "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath',
 'and', 'beyond'].
 
-## [Problem-23](src/main/java/in/ashwanik/dcp/problems/p23)
+## [Problem-23](src/main/java/in/ashwanik/dcp/problems/p23):sunny:
 
 
 This problem was asked by Google.
@@ -387,7 +390,7 @@ and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number
 of steps required to reach the end is 7, since we would need to go through (1,
 2) because there is a wall everywhere else on the second row.
 
-## [Problem-24](src/main/java/in/ashwanik/dcp/problems/p24)
+## [Problem-24](src/main/java/in/ashwanik/dcp/problems/p24):sunny:
 
 
 This problem was asked by Google.
@@ -408,7 +411,7 @@ like. You may assume the class is used in a single-threaded program, so there is
 no need for actual locks or mutexes. Each method should run in O(h), where h is
 the height of the tree.
 
-## [Problem-25](src/main/java/in/ashwanik/dcp/problems/p25)
+## Problem-25:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -429,7 +432,7 @@ Given the regular expression ".*at" and the string "chat", your function should
 return true. The same regular expression on the string "chats" should return
 false.
 
-## [Problem-26](src/main/java/in/ashwanik/dcp/problems/p26)
+## [Problem-26](src/main/java/in/ashwanik/dcp/problems/p26):sunny:
 
 
 This problem was asked by Google.
@@ -441,7 +444,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-## [Problem-27](src/main/java/in/ashwanik/dcp/problems/p27)
+## [Problem-27](src/main/java/in/ashwanik/dcp/problems/p27):sunny:
 
 
 This problem was asked by Facebook.
@@ -453,7 +456,7 @@ For example, given the string "([])[]({})", you should return true.
 
 Given the string "([)]" or "((()", you should return false.
 
-## [Problem-28](src/main/java/in/ashwanik/dcp/problems/p28)
+## Problem-28:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -480,7 +483,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps",
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 
 
-## [Problem-29](src/main/java/in/ashwanik/dcp/problems/p29)
+## Problem-29:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -494,7 +497,7 @@ Implement run-length encoding and decoding. You can assume the string to be
 encoded have no digits and consists solely of alphabetic characters. You can
 assume the string to be decoded is valid.
 
-## [Problem-30](src/main/java/in/ashwanik/dcp/problems/p30)
+## Problem-30:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -514,7 +517,7 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in
 the second, and 3 in the fourth index (we cannot hold 5 since it would run off
 to the left), so we can trap 8 units of water.
 
-## [Problem-31](src/main/java/in/ashwanik/dcp/problems/p31)
+## Problem-31:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -526,7 +529,7 @@ substitute the “k” for “s”, substitute the “e” for “i”, and appe
 
 Given two strings, compute the edit distance between them.
 
-## [Problem-32](src/main/java/in/ashwanik/dcp/problems/p32)
+## Problem-32:waxing_crescent_moon:
 
 
 This problem was asked by Jane Street.
@@ -539,7 +542,7 @@ currency.
 
 There are no transaction costs and you can trade fractional quantities.
 
-## [Problem-33](src/main/java/in/ashwanik/dcp/problems/p33)
+## Problem-33:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -562,7 +565,7 @@ print out:
 2
 
 
-## [Problem-34](src/main/java/in/ashwanik/dcp/problems/p34)
+## Problem-34:waxing_crescent_moon:
 
 
 This problem was asked by Quora.
@@ -579,7 +582,7 @@ letters, but "ecarace" comes first alphabetically.
 
 As another example, given the string "google", you should return "elgoogle".
 
-## [Problem-35](src/main/java/in/ashwanik/dcp/problems/p35)
+## Problem-35:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -593,7 +596,7 @@ Do this in linear time and in-place.
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should
 become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-## [Problem-36](src/main/java/in/ashwanik/dcp/problems/p36)
+## Problem-36:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -601,7 +604,7 @@ This problem was asked by Dropbox.
 Given the root to a binary search tree, find the second largest node in the
 tree.
 
-## [Problem-37](src/main/java/in/ashwanik/dcp/problems/p37)
+## Problem-37:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -614,7 +617,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1,
 
 You may also use a list or array to represent a set.
 
-## [Problem-38](src/main/java/in/ashwanik/dcp/problems/p38)
+## Problem-38:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -624,7 +627,7 @@ possible arrangements of the board where N queens can be placed on the board
 without threatening each other, i.e. no two queens share the same row, column,
 or diagonal.
 
-## [Problem-39](src/main/java/in/ashwanik/dcp/problems/p39)
+## Problem-39:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -650,7 +653,7 @@ top-leftmost live cell to bottom-rightmost live cell.
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.
 ).
 
-## [Problem-40](src/main/java/in/ashwanik/dcp/problems/p40)
+## Problem-40:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -663,7 +666,7 @@ return 19.
 
 Do this in O(N) time and O(1) space.
 
-## [Problem-41](src/main/java/in/ashwanik/dcp/problems/p41)
+## Problem-41:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -686,7 +689,7 @@ starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even
 though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first
 one is lexicographically smaller.
 
-## [Problem-42](src/main/java/in/ashwanik/dcp/problems/p42)
+## Problem-42:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -701,7 +704,7 @@ the list are positive.
 For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1]
 since it sums up to 24.
 
-## [Problem-43](src/main/java/in/ashwanik/dcp/problems/p43)
+## Problem-43:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -716,7 +719,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-## [Problem-44](src/main/java/in/ashwanik/dcp/problems/p44)
+## Problem-44:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -734,7 +737,7 @@ For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has
 three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten
 inversions: every distinct pair forms an inversion.
 
-## [Problem-45](src/main/java/in/ashwanik/dcp/problems/p45)
+## Problem-45:waxing_crescent_moon:
 
 
 This problem was asked by Two Sigma.
@@ -743,7 +746,7 @@ Using a function rand5() that returns an integer from 1 to 5 (inclusive) with
 uniform probability, implement a function rand7() that returns an integer from 1
 to 7 (inclusive).
 
-## [Problem-46](src/main/java/in/ashwanik/dcp/problems/p46)
+## Problem-46:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -754,7 +757,7 @@ more than one with the maximum length, return any one.
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The
 longest palindromic substring of "bananas" is "anana".
 
-## [Problem-47](src/main/java/in/ashwanik/dcp/problems/p47)
+## Problem-47:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -767,7 +770,7 @@ can sell it.
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could
 buy the stock at 5 dollars and sell it at 10 dollars.
 
-## [Problem-48](src/main/java/in/ashwanik/dcp/problems/p48)
+## Problem-48:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -792,7 +795,7 @@ You should return the following tree:
 d  e f  g
 
 
-## [Problem-49](src/main/java/in/ashwanik/dcp/problems/p49)
+## Problem-49:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -808,7 +811,7 @@ take any elements.
 
 Do this in O(N) time.
 
-## [Problem-50](src/main/java/in/ashwanik/dcp/problems/p50)
+## Problem-50:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -829,7 +832,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-## [Problem-51](src/main/java/in/ashwanik/dcp/problems/p51)
+## Problem-51:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -842,7 +845,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-## [Problem-52](src/main/java/in/ashwanik/dcp/problems/p52)
+## Problem-52:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -857,7 +860,7 @@ initialized with a cache size n, and contain the following methods:
 
 Each operation should run in O(1) time.
 
-## [Problem-53](src/main/java/in/ashwanik/dcp/problems/p53)
+## Problem-53:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -866,7 +869,7 @@ Implement a queue using two stacks. Recall that a queue is a FIFO (first-in,
 first-out) data structure with the following methods: enqueue, which inserts an
 element into the queue, and dequeue, which removes it.
 
-## [Problem-54](src/main/java/in/ashwanik/dcp/problems/p54)
+## Problem-54:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -877,7 +880,7 @@ column, and box (3 by 3 subgrid) must contain all of the digits from 1 to 9.
 
 Implement an efficient sudoku solver.
 
-## [Problem-55](src/main/java/in/ashwanik/dcp/problems/p55)
+## Problem-55:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -891,7 +894,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-## [Problem-56](src/main/java/in/ashwanik/dcp/problems/p56)
+## Problem-56:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -900,7 +903,7 @@ Given an undirected graph represented as an adjacency matrix and an integer k,
 write a function to determine whether each vertex in the graph can be colored
 such that no two adjacent vertices share the same color using at most k colors.
 
-## [Problem-57](src/main/java/in/ashwanik/dcp/problems/p57)
+## Problem-57:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -917,7 +920,7 @@ For example, given the string "the quick brown fox jumps over the lazy dog" and
 k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy",
 "dog"]. No string in the list has a length of more than 10.
 
-## [Problem-58](src/main/java/in/ashwanik/dcp/problems/p58)
+## Problem-58:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -932,7 +935,7 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4
 
 You can assume all the integers in the array are unique.
 
-## [Problem-59](src/main/java/in/ashwanik/dcp/problems/p59)
+## Problem-59:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -940,7 +943,7 @@ This problem was asked by Google.
 Implement a file syncing algorithm for two computers over a low-bandwidth
 network. What if we know the files in the two computers are mostly the same?
 
-## [Problem-60](src/main/java/in/ashwanik/dcp/problems/p60)
+## Problem-60:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -955,7 +958,7 @@ add up to 55.
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't
 split it up into two subsets that add up to the same sum.
 
-## [Problem-61](src/main/java/in/ashwanik/dcp/problems/p61)
+## Problem-61:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -967,7 +970,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-## [Problem-62](src/main/java/in/ashwanik/dcp/problems/p62)
+## Problem-62:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -984,7 +987,7 @@ ways to get to the bottom-right:
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-## [Problem-63](src/main/java/in/ashwanik/dcp/problems/p63)
+## Problem-63:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1005,7 +1008,7 @@ and the target word 'FOAM', you should return true, since it's the leftmost
 column. Similarly, given the target word 'MASS', you should return true, since
 it's the last row.
 
-## [Problem-64](src/main/java/in/ashwanik/dcp/problems/p64)
+## Problem-64:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1016,7 +1019,7 @@ squares are visited once.
 Given N, write a function to return the number of knight's tours on an N by N
 chessboard.
 
-## [Problem-65](src/main/java/in/ashwanik/dcp/problems/p65)
+## Problem-65:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -1055,7 +1058,7 @@ You should print out the following:
 12
 
 
-## [Problem-66](src/main/java/in/ashwanik/dcp/problems/p66)
+## Problem-66:waxing_crescent_moon:
 
 
 This problem was asked by Square.
@@ -1066,7 +1069,7 @@ bias of the coin.
 
 Write a function to simulate an unbiased coin toss.
 
-## [Problem-67](src/main/java/in/ashwanik/dcp/problems/p67)
+## Problem-67:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1082,7 +1085,7 @@ initialized with a cache size n, and contain the following methods:
 
 Each operation should run in O(1) time.
 
-## [Problem-68](src/main/java/in/ashwanik/dcp/problems/p68)
+## Problem-68:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1115,7 +1118,7 @@ The board would look like this:
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 3 and 4.
 
-## [Problem-69](src/main/java/in/ashwanik/dcp/problems/p69)
+## Problem-69:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1128,7 +1131,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-## [Problem-70](src/main/java/in/ashwanik/dcp/problems/p70)
+## Problem-70:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1139,7 +1142,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-## [Problem-71](src/main/java/in/ashwanik/dcp/problems/p71)
+## Problem-71:waxing_crescent_moon:
 
 
 This problem was asked by Two Sigma.
@@ -1148,7 +1151,7 @@ Using a function rand7() that returns an integer from 1 to 7 (inclusive) with
 uniform probability, implement a function rand5() that returns an integer from 1
 to 5 (inclusive).
 
-## [Problem-72](src/main/java/in/ashwanik/dcp/problems/p72)
+## Problem-72:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1190,14 +1193,14 @@ A
 
 Should return null, since we have an infinite loop.
 
-## [Problem-73](src/main/java/in/ashwanik/dcp/problems/p73)
+## Problem-73:waxing_crescent_moon:
 
 
 This problem was asked by Google.
 
 Given the head of a singly linked list, reverse it in-place.
 
-## [Problem-74](src/main/java/in/ashwanik/dcp/problems/p74)
+## Problem-74:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -1226,7 +1229,7 @@ multiplication table looks like this:
 
 And there are 4 12's in the table.
 
-## [Problem-75](src/main/java/in/ashwanik/dcp/problems/p75)
+## Problem-75:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1237,7 +1240,7 @@ in the array. The subsequence does not necessarily have to be contiguous.
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7,
 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
-## [Problem-76](src/main/java/in/ashwanik/dcp/problems/p76)
+## Problem-76:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1283,7 +1286,7 @@ tsr
 Your function should return 3, since we would need to remove all the columns to
 order it.
 
-## [Problem-77](src/main/java/in/ashwanik/dcp/problems/p77)
+## Problem-77:waxing_crescent_moon:
 
 
 This problem was asked by Snapchat.
@@ -1296,7 +1299,7 @@ The input list is not necessarily ordered in any way.
 For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1,
 3), (4, 10), (20, 25)].
 
-## [Problem-78](src/main/java/in/ashwanik/dcp/problems/p78)
+## Problem-78:waxing_crescent_moon:
 
 
 This problem was asked recently by Google.
@@ -1304,7 +1307,7 @@ This problem was asked recently by Google.
 Given k sorted singly linked lists, write a function to merge all the lists into
 one sorted singly linked list.
 
-## [Problem-79](src/main/java/in/ashwanik/dcp/problems/p79)
+## Problem-79:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1318,7 +1321,7 @@ modify the 10 into a 1 to make the array non-decreasing.
 Given the array [10, 5, 1], you should return false, since we can't modify any
 one element to get a non-decreasing array.
 
-## [Problem-80](src/main/java/in/ashwanik/dcp/problems/p80)
+## Problem-80:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1333,7 +1336,7 @@ following tree, return d.
 d
 
 
-## [Problem-81](src/main/java/in/ashwanik/dcp/problems/p81)
+## Problem-81:waxing_crescent_moon:
 
 
 This problem was asked by Yelp.
@@ -1345,7 +1348,7 @@ valid number in the mapping is a single digit.
 For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should
 return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
-## [Problem-82](src/main/java/in/ashwanik/dcp/problems/p82)
+## Problem-82:waxing_crescent_moon:
 
 
 This problem was asked Microsoft.
@@ -1356,7 +1359,7 @@ which reads n characters.
 For example, given a file with the content “Hello world”, three read7() returns
 “Hello w”, “orld” and then “”.
 
-## [Problem-83](src/main/java/in/ashwanik/dcp/problems/p83)
+## Problem-83:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1381,7 +1384,7 @@ should become:
   f e  d
 
 
-## [Problem-84](src/main/java/in/ashwanik/dcp/problems/p84)
+## Problem-84:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -1400,7 +1403,7 @@ For example, this matrix has 4 islands.
 1 1 0 0 1
 
 
-## [Problem-85](src/main/java/in/ashwanik/dcp/problems/p85)
+## Problem-85:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1408,7 +1411,7 @@ This problem was asked by Facebook.
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0,
 using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
-## [Problem-86](src/main/java/in/ashwanik/dcp/problems/p86)
+## Problem-86:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1420,7 +1423,7 @@ is eventually closed).
 For example, given the string "()())()", you should return 1. Given the string
 ")(", you should return 2, since we must remove all of them.
 
-## [Problem-87](src/main/java/in/ashwanik/dcp/problems/p87)
+## Problem-87:waxing_crescent_moon:
 
 
 This problem was asked by Uber.
@@ -1450,7 +1453,7 @@ A N B
 
 is considered valid.
 
-## [Problem-88](src/main/java/in/ashwanik/dcp/problems/p88)
+## Problem-88:waxing_crescent_moon:
 
 
 This question was asked by ContextLogic.
@@ -1459,7 +1462,7 @@ Implement division of two positive integers without using the division,
 multiplication, or modulus operators. Return the quotient as an integer,
 ignoring the remainder.
 
-## [Problem-89](src/main/java/in/ashwanik/dcp/problems/p89)
+## Problem-89:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -1470,7 +1473,7 @@ A binary search tree is a tree with two children, left and right, and satisfies
 the constraint that the key in the left child must be less than or equal to the
 root and the key in the right child must be greater than or equal to the root.
 
-## [Problem-90](src/main/java/in/ashwanik/dcp/problems/p90)
+## Problem-90:waxing_crescent_moon:
 
 
 This question was asked by Google.
@@ -1478,7 +1481,7 @@ This question was asked by Google.
 Given an integer n and a list of integers l, write a function that randomly
 generates a number from 0 to n-1 that isn't in l (uniform).
 
-## [Problem-91](src/main/java/in/ashwanik/dcp/problems/p91)
+## Problem-91:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -1494,7 +1497,7 @@ for f in functions:
     print(f())
 
 
-## [Problem-92](src/main/java/in/ashwanik/dcp/problems/p92)
+## Problem-92:waxing_crescent_moon:
 
 
 This problem was asked by Airbnb.
@@ -1508,7 +1511,7 @@ Return null if there is no such ordering.
 For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'],
 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
-## [Problem-93](src/main/java/in/ashwanik/dcp/problems/p93)
+## Problem-93:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -1517,7 +1520,7 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-## [Problem-94](src/main/java/in/ashwanik/dcp/problems/p94)
+## Problem-94:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1526,7 +1529,7 @@ Given a binary tree of integers, find the maximum path sum between two nodes.
 The path must go through at least one node, and does not need to go through the
 root.
 
-## [Problem-95](src/main/java/in/ashwanik/dcp/problems/p95)
+## Problem-95:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -1542,7 +1545,7 @@ return [2,1,3]. The list [3,2,1] should return [1,2,3].
 Can you perform the operation without allocating extra memory (disregarding the
 input memory)?
 
-## [Problem-96](src/main/java/in/ashwanik/dcp/problems/p96)
+## Problem-96:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1553,7 +1556,7 @@ permutations.
 For example, given [1,2,3], return 
 [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]].
 
-## [Problem-97](src/main/java/in/ashwanik/dcp/problems/p97)
+## Problem-97:waxing_crescent_moon:
 
 
 This problem was asked by Stripe.
@@ -1589,7 +1592,7 @@ d.set(1, 2, 0) # set key 1 to value 2 at time 0
 d.get(1, 0) # get key 1 at time 0 should be 2
 
 
-## [Problem-98](src/main/java/in/ashwanik/dcp/problems/p98)
+## Problem-98:waxing_crescent_moon:
 
 
 This problem was asked by Coursera.
@@ -1612,7 +1615,7 @@ For example, given the following board:
 exists(board, "ABCCED") returns true,exists(board, "SEE") returns true,
 exists(board, "ABCB") returns false.
 
-## [Problem-99](src/main/java/in/ashwanik/dcp/problems/p99)
+## Problem-99:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1625,7 +1628,7 @@ sequence is [1, 2, 3, 4]. Return its length: 4.
 
 Your algorithm should run in O(n) complexity.
 
-## [Problem-100](src/main/java/in/ashwanik/dcp/problems/p100)
+## Problem-100:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1656,7 +1659,7 @@ Output: 2
 It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move
 from (1, 1) to (1, 2).
 
-## [Problem-101](src/main/java/in/ashwanik/dcp/problems/p101)
+## Problem-101:waxing_crescent_moon:
 
 
 This problem was asked by Alibaba.
@@ -1684,7 +1687,7 @@ d, then
 
 If a < c OR a==c AND b < d.
 
-## [Problem-102](src/main/java/in/ashwanik/dcp/problems/p102)
+## Problem-102:waxing_crescent_moon:
 
 
 This problem was asked by Lyft.
@@ -1695,7 +1698,7 @@ list sum to K.
 For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return
 [2, 3, 4].
 
-## [Problem-103](src/main/java/in/ashwanik/dcp/problems/p103)
+## Problem-103:waxing_crescent_moon:
 
 
 This problem was asked by Square.
@@ -1708,7 +1711,7 @@ you should return "aeci".
 
 If there is no substring containing all the characters in the set, return null.
 
-## [Problem-104](src/main/java/in/ashwanik/dcp/problems/p104)
+## Problem-104:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1718,7 +1721,7 @@ linked?
 
 For example, 1 -> 4 -> 3 -> 4 -> 1 returns true while 1 -> 4 returns false.
 
-## [Problem-105](src/main/java/in/ashwanik/dcp/problems/p105)
+## Problem-105:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1728,7 +1731,7 @@ Given a function f, and N return a debounced f of N milliseconds.
 That is, as long as the debounced f continues to be invoked, f itself will not
 be called for N milliseconds.
 
-## [Problem-106](src/main/java/in/ashwanik/dcp/problems/p106)
+## Problem-106:waxing_crescent_moon:
 
 
 This problem was asked by Pinterest.
@@ -1738,7 +1741,7 @@ make, determine whether you can reach to the last index starting at index 0.
 
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
-## [Problem-107](src/main/java/in/ashwanik/dcp/problems/p107)
+## Problem-107:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1753,7 +1756,7 @@ print 1, 2, 3, 4, 5.
   4   5
 
 
-## [Problem-108](src/main/java/in/ashwanik/dcp/problems/p108)
+## Problem-108:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1764,7 +1767,7 @@ times to get B.
 For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb
 , return false.
 
-## [Problem-109](src/main/java/in/ashwanik/dcp/problems/p109)
+## Problem-109:waxing_crescent_moon:
 
 
 This problem was asked by Cisco.
@@ -1776,7 +1779,7 @@ For example, 10101010 should be 01010101. 11100010 should be 11010001.
 
 Bonus: Can you do this in one line?
 
-## [Problem-110](src/main/java/in/ashwanik/dcp/problems/p110)
+## Problem-110:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1794,7 +1797,7 @@ For example, given the tree
 
 it should return [[1, 2], [1, 3, 4], [1, 3, 5]].
 
-## [Problem-111](src/main/java/in/ashwanik/dcp/problems/p111)
+## Problem-111:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1804,7 +1807,7 @@ of W.
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-## [Problem-112](src/main/java/in/ashwanik/dcp/problems/p112)
+## Problem-112:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -1818,7 +1821,7 @@ ancestor is defined between two nodes v and w as the lowest node in T that has
 both v and w as descendants (where we allow a node to be a descendant of
 itself).”
 
-## [Problem-113](src/main/java/in/ashwanik/dcp/problems/p113)
+## Problem-113:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1829,7 +1832,7 @@ example, given "hello world here", return "here world hello"
 Follow-up: given a mutable string representation, can you perform this operation
 in-place?
 
-## [Problem-114](src/main/java/in/ashwanik/dcp/problems/p114)
+## Problem-114:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1841,7 +1844,7 @@ maintaining the relative order of the delimiters. For example, given
 Follow-up: Does your solution work for the following cases: "hello/world:here/",
 "hello//world:here"
 
-## [Problem-115](src/main/java/in/ashwanik/dcp/problems/p115)
+## Problem-115:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1851,7 +1854,7 @@ same structure and node values with a subtree of s. A subtree of s is a tree
 consists of a node in s and all of this node's descendants. The tree s could
 also be considered as a subtree of itself.
 
-## [Problem-116](src/main/java/in/ashwanik/dcp/problems/p116)
+## Problem-116:waxing_crescent_moon:
 
 
 This problem was asked by Jane Street.
@@ -1860,14 +1863,14 @@ Generate a finite, but an arbitrarily large binary tree quickly in O(1).
 
 That is, generate() should return a tree whose size is unbounded but finite.
 
-## [Problem-117](src/main/java/in/ashwanik/dcp/problems/p117)
+## Problem-117:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
 
 Given a binary tree, return the level of the tree with minimum sum.
 
-## [Problem-118](src/main/java/in/ashwanik/dcp/problems/p118)
+## Problem-118:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1877,7 +1880,7 @@ sorted order.
 
 For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
 
-## [Problem-119](src/main/java/in/ashwanik/dcp/problems/p119)
+## Problem-119:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1888,7 +1891,7 @@ all the intervals. If there are multiple smallest sets, return any of them.
 For example, given the intervals [0, 3], [2, 6], [3, 4], [6, 9], one set of
 numbers that covers all these intervals is {3, 6}.
 
-## [Problem-120](src/main/java/in/ashwanik/dcp/problems/p120)
+## Problem-120:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1898,7 +1901,7 @@ instance, store two instances. And in every even call of getInstance(), return
 the first instance and in every odd call of getInstance(), return the second
 instance.
 
-## [Problem-121](src/main/java/in/ashwanik/dcp/problems/p121)
+## Problem-121:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1909,7 +1912,7 @@ palindrome.
 For example, given 'waterrfetawx' and a k of 2, you could delete f and x to get
 'waterretaw'.
 
-## [Problem-122](src/main/java/in/ashwanik/dcp/problems/p122)
+## Problem-122:waxing_crescent_moon:
 
 
 This question was asked by Zillow.
@@ -1927,7 +1930,7 @@ For example, in this matrix
 
 The most we can collect is 0 + 2 + 1 + 5 + 3 + 1 = 12 coins.
 
-## [Problem-123](src/main/java/in/ashwanik/dcp/problems/p123)
+## Problem-123:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -1948,7 +1951,7 @@ And here are examples of non-numbers:
  * "a -2"
  * "-"
 
-## [Problem-124](src/main/java/in/ashwanik/dcp/problems/p124)
+## Problem-124:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -1960,7 +1963,7 @@ do you expect to play before only one coin remains?
 Write a function that, given n, returns the number of rounds you'd expect to
 play until one coin remains.
 
-## [Problem-125](src/main/java/in/ashwanik/dcp/problems/p125)
+## Problem-125:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -1979,7 +1982,7 @@ For example, given the following tree and K of 20
 
 Return the nodes 5 and 15.
 
-## [Problem-126](src/main/java/in/ashwanik/dcp/problems/p126)
+## Problem-126:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -1988,7 +1991,7 @@ Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5,
 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating
 a copy of the list. How many swap or move operations do you need?
 
-## [Problem-127](src/main/java/in/ashwanik/dcp/problems/p127)
+## Problem-127:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -2019,7 +2022,7 @@ return 124 (99 + 25) as:
 4 -> 2 -> 1
 
 
-## [Problem-128](src/main/java/in/ashwanik/dcp/problems/p128)
+## Problem-128:waxing_crescent_moon:
 
 
 The Tower of Hanoi is a puzzle game with three rods and n disks, each a
@@ -2051,13 +2054,13 @@ Move 2 to 3
 Move 1 to 3
 
 
-## [Problem-129](src/main/java/in/ashwanik/dcp/problems/p129)
+## Problem-129:waxing_crescent_moon:
 
 
 Given a real number n, find the square root of n. For example, given n = 9,
 return 3.
 
-## [Problem-130](src/main/java/in/ashwanik/dcp/problems/p130)
+## Problem-130:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2069,7 +2072,7 @@ must sell the stock before you can buy it again.
 
 For example, given k = 2 and the array [5, 2, 4, 0, 1], you should return 3.
 
-## [Problem-131](src/main/java/in/ashwanik/dcp/problems/p131)
+## Problem-131:waxing_crescent_moon:
 
 
 This question was asked by Snapchat.
@@ -2077,7 +2080,7 @@ This question was asked by Snapchat.
 Given the head to a singly linked list, where each node also has a “random”
 pointer that points to anywhere in the linked list, deep clone the list.
 
-## [Problem-132](src/main/java/in/ashwanik/dcp/problems/p132)
+## Problem-132:waxing_crescent_moon:
 
 
 This question was asked by Riot Games.
@@ -2092,7 +2095,7 @@ It should support the following operations:
 
 Follow-up: What if our system has limited memory?
 
-## [Problem-133](src/main/java/in/ashwanik/dcp/problems/p133)
+## Problem-133:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2111,7 +2114,7 @@ For example, the inorder successor of 22 is 30.
 
 You can assume each node has a parent pointer.
 
-## [Problem-134](src/main/java/in/ashwanik/dcp/problems/p134)
+## Problem-134:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2125,7 +2128,7 @@ interface:
  * set(i, val): updates index at i with val.
  * get(i): gets the value at index i.
 
-## [Problem-135](src/main/java/in/ashwanik/dcp/problems/p135)
+## Problem-135:waxing_crescent_moon:
 
 
 This question was asked by Apple.
@@ -2143,7 +2146,7 @@ For example, the minimum path in this tree is [10, 5, 1, -1], which has sum 15.
      -1
 
 
-## [Problem-136](src/main/java/in/ashwanik/dcp/problems/p136)
+## Problem-136:waxing_crescent_moon:
 
 
 This question was asked by Google.
@@ -2161,7 +2164,7 @@ For example, given the following matrix:
 
 Return 4.
 
-## [Problem-137](src/main/java/in/ashwanik/dcp/problems/p137)
+## Problem-137:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2175,7 +2178,7 @@ index.
  * set(i, val): updates index at i with val where val is either 1 or 0.
  * get(i): gets the value at index i.
 
-## [Problem-138](src/main/java/in/ashwanik/dcp/problems/p138)
+## Problem-138:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2187,7 +2190,7 @@ You can use standard American denominations, that is, 1¢, 5¢, 10¢, and 25¢.
 For example, given n = 16, return 3 since we can make it with a 10¢, a 5¢, and a
 1¢.
 
-## [Problem-139](src/main/java/in/ashwanik/dcp/problems/p139)
+## Problem-139:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2212,7 +2215,7 @@ class PeekableInterface(object):
         pass
 
 
-## [Problem-140](src/main/java/in/ashwanik/dcp/problems/p140)
+## Problem-140:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2226,7 +2229,7 @@ order does not matter.
 
 Follow-up: Can you do this in linear time and constant space?
 
-## [Problem-141](src/main/java/in/ashwanik/dcp/problems/p141)
+## Problem-141:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -2244,7 +2247,7 @@ class Stack:
         pass
 
 
-## [Problem-142](src/main/java/in/ashwanik/dcp/problems/p142)
+## Problem-142:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2254,7 +2257,7 @@ You're given a string consisting solely of (, ), and *. * can represent either a
 
 For example, (()* and (*) are balanced. )*( is not balanced.
 
-## [Problem-143](src/main/java/in/ashwanik/dcp/problems/p143)
+## Problem-143:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2270,7 +2273,7 @@ Ordering within a part can be arbitrary.
 For example, given x = 10 and lst = [9, 12, 3, 5, 14, 10, 10], one partition may
 be `[9, 3, 5, 10, 10, 12, 14].
 
-## [Problem-144](src/main/java/in/ashwanik/dcp/problems/p144)
+## Problem-144:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2285,7 +2288,7 @@ If the array at i doesn't have a nearest larger integer, then return null.
 
 Follow-up: If you can preprocess the array, can you do this in constant time?
 
-## [Problem-145](src/main/java/in/ashwanik/dcp/problems/p145)
+## Problem-145:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2295,7 +2298,7 @@ head.
 
 For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
 
-## [Problem-146](src/main/java/in/ashwanik/dcp/problems/p146)
+## Problem-146:waxing_crescent_moon:
 
 
 This question was asked by BufferBox.
@@ -2326,13 +2329,13 @@ should be pruned to:
 We do not remove the tree at the root or its left child because it still has a 1 
 as a descendant.
 
-## [Problem-147](src/main/java/in/ashwanik/dcp/problems/p147)
+## Problem-147:waxing_crescent_moon:
 
 
 Given a list, sort it using this method: reverse(lst, i, j), which sorts lst 
 from i to j`.
 
-## [Problem-148](src/main/java/in/ashwanik/dcp/problems/p148)
+## Problem-148:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -2346,7 +2349,7 @@ Given a number of bits n, generate a possible gray code for it.
 
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
-## [Problem-148](src/main/java/in/ashwanik/dcp/problems/p148)
+## Problem-148:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -2360,7 +2363,7 @@ Given a number of bits n, generate a possible gray code for it.
 
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
-## [Problem-149](src/main/java/in/ashwanik/dcp/problems/p149)
+## Problem-149:waxing_crescent_moon:
 
 
 This problem was asked by Goldman Sachs.
@@ -2374,7 +2377,7 @@ which is 5.
 You can assume that you can do some pre-processing. sum() should be optimized
 over the pre-processing step.
 
-## [Problem-150](src/main/java/in/ashwanik/dcp/problems/p150)
+## Problem-150:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -2385,7 +2388,7 @@ points from the central point.
 For example, given the list of points [(0, 0), (5, 4), (3, 1)], the central
 point (1, 2), and k = 2, return[(0, 0), (3, 1)].
 
-## [Problem-151](src/main/java/in/ashwanik/dcp/problems/p151)
+## Problem-151:waxing_crescent_moon:
 
 
 Given a 2-D matrix representing an image, a location of a pixel in the screen
@@ -2409,7 +2412,7 @@ G G G
 B B B
 
 
-## [Problem-152](src/main/java/in/ashwanik/dcp/problems/p152)
+## Problem-152:waxing_crescent_moon:
 
 
 This problem was asked by Triplebyte.
@@ -2423,7 +2426,7 @@ and 4 20% of the time.
 
 You can generate random numbers between 0 and 1 uniformly.
 
-## [Problem-153](src/main/java/in/ashwanik/dcp/problems/p153)
+## Problem-153:waxing_crescent_moon:
 
 
 Find an efficient algorithm to find the smallest distance (measured in number of
@@ -2433,7 +2436,7 @@ For example, given words "hello", and "world" and a text content of "dog cat
 hello cat dog dog hello cat world", return 1 because there's only one word "cat"
 in between the two words.
 
-## [Problem-154](src/main/java/in/ashwanik/dcp/problems/p154)
+## Problem-154:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2450,7 +2453,7 @@ Recall that a heap has the following operations:
  * push(item), which adds a new key to the heap
  * pop(), which removes and returns the max value of the heap
 
-## [Problem-155](src/main/java/in/ashwanik/dcp/problems/p155)
+## Problem-155:waxing_crescent_moon:
 
 
 This problem was asked by MongoDB.
@@ -2462,7 +2465,7 @@ You can assume that such element exists.
 
 For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
-## [Problem-156](src/main/java/in/ashwanik/dcp/problems/p156)
+## Problem-156:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2474,7 +2477,7 @@ For example, given n = 13, return 2 since 13 = 32 + 22 = 9 + 4.
 
 Given n = 27, return 3 since 27 = 32 + 32 + 32 = 9 + 9 + 9.
 
-## [Problem-157](src/main/java/in/ashwanik/dcp/problems/p157)
+## Problem-157:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2485,7 +2488,7 @@ For example, carrace should return true, since it can be rearranged to form
 racecar, which is a palindrome. daily should return false, since there's no
 rearrangement that can form a palindrome.
 
-## [Problem-158](src/main/java/in/ashwanik/dcp/problems/p158)
+## Problem-158:waxing_crescent_moon:
 
 
 This problem was asked by Slack.
@@ -2510,7 +2513,7 @@ Return two, as there are only two ways to get to the bottom right:
 
 The top left corner and bottom right corner will always be 0.
 
-## [Problem-159](src/main/java/in/ashwanik/dcp/problems/p159)
+## Problem-159:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2521,7 +2524,7 @@ no recurring character.
 For example, given the string "acbbac", return "b". Given the string "abcdef",
 return null.
 
-## [Problem-160](src/main/java/in/ashwanik/dcp/problems/p160)
+## Problem-160:waxing_crescent_moon:
 
 
 This problem was asked by Uber.
@@ -2546,7 +2549,7 @@ longest path would be c -> a -> d -> f, with a length of 17.
 The path does not have to pass through the root, and each node can have any
 amount of children.
 
-## [Problem-161](src/main/java/in/ashwanik/dcp/problems/p161)
+## Problem-161:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2556,7 +2559,7 @@ Given a 32-bit integer, return the number with its bits reversed.
 For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000,
 return 0000 1111 0000 1111 0000 1111 0000 1111.
 
-## [Problem-162](src/main/java/in/ashwanik/dcp/problems/p162)
+## Problem-162:waxing_crescent_moon:
 
 
 This problem was asked by Square.
@@ -2578,7 +2581,7 @@ Return the list:
  * apr
  * f
 
-## [Problem-163](src/main/java/in/ashwanik/dcp/problems/p163)
+## Problem-163:waxing_crescent_moon:
 
 
 This problem was asked by Jane Street.
@@ -2596,7 +2599,7 @@ return 5, since it is equivalent to ((15 / (7 - (1 + 1))) * 3) - (2 + (1 + 1)) =
 
 You can assume the given expression is always valid.
 
-## [Problem-164](src/main/java/in/ashwanik/dcp/problems/p164)
+## Problem-164:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2605,7 +2608,7 @@ You are given an array of length n + 1 whose elements belong to the set {1, 2,
 ..., n}. By the pigeonhole principle, there must be a duplicate. Find it in
 linear time and space.
 
-## [Problem-165](src/main/java/in/ashwanik/dcp/problems/p165)
+## Problem-165:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2622,7 +2625,7 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
  * There is 1 smaller element to the right of 6
  * There are no smaller elements to the right of 1
 
-## [Problem-166](src/main/java/in/ashwanik/dcp/problems/p166)
+## Problem-166:waxing_crescent_moon:
 
 
 This problem was asked by Uber.
@@ -2640,7 +2643,7 @@ repeatedly should output 1, 2, 3, 4, 5, 6.
 Do not use flatten or otherwise clone the arrays. Some of the arrays can be
 empty.
 
-## [Problem-167](src/main/java/in/ashwanik/dcp/problems/p167)
+## Problem-167:waxing_crescent_moon:
 
 
 This problem was asked by Airbnb.
@@ -2651,7 +2654,7 @@ concatenation of the two words is a palindrome.
 For example, given the list ["code", "edoc", "da", "d"], return [(0, 1), (1, 0),
 (2, 3)].
 
-## [Problem-168](src/main/java/in/ashwanik/dcp/problems/p168)
+## Problem-168:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2674,7 +2677,7 @@ you should return:
 
 Follow-up: What if you couldn't use any extra space?
 
-## [Problem-169](src/main/java/in/ashwanik/dcp/problems/p169)
+## Problem-169:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2684,7 +2687,7 @@ Given a linked list, sort it in O(n log n) time and constant space.
 For example, the linked list 4 -> 1 -> -3 -> 99 should become -3 -> 1 -> 4 -> 99
 .
 
-## [Problem-170](src/main/java/in/ashwanik/dcp/problems/p170)
+## Problem-170:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2701,7 +2704,7 @@ For example, given start = "dog", end = "cat", and dictionary = {"dot", "dop",
 Given start = "dog", end = "cat", and dictionary = {"dot", "tod", "dat", "dar"},
 return null as there is no possible transformation from dog to cat.
 
-## [Problem-171](src/main/java/in/ashwanik/dcp/problems/p171)
+## Problem-171:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2722,7 +2725,7 @@ Find the busiest period in the building, that is, the time with the most people
 in the building. Return it as a pair of (start, end) timestamps. You can assume
 the building always starts off and ends up empty, i.e. with 0 people inside.
 
-## [Problem-172](src/main/java/in/ashwanik/dcp/problems/p172)
+## Problem-172:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -2739,7 +2742,7 @@ are no substrings composed of "dog" and "cat" in s.
 
 The order of the indices does not matter.
 
-## [Problem-173](src/main/java/in/ashwanik/dcp/problems/p173)
+## Problem-173:waxing_crescent_moon:
 
 
 This problem was asked by Stripe.
@@ -2771,7 +2774,7 @@ it should become:
 
 You can assume keys do not contain dots in them, i.e. no clobbering will occur.
 
-## [Problem-174](src/main/java/in/ashwanik/dcp/problems/p174)
+## Problem-174:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -2782,7 +2785,7 @@ Describe and give an example of each of the following types of polymorphism:
  * Parametric polymorphism
  * Subtype polymorphism
 
-## [Problem-175](src/main/java/in/ashwanik/dcp/problems/p175)
+## Problem-175:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2810,7 +2813,7 @@ transition probabilities:
 One instance of running this Markov chain might produce { 'a': 3012, 'b': 1656,
 'c': 332 }.
 
-## [Problem-176](src/main/java/in/ashwanik/dcp/problems/p176)
+## Problem-176:waxing_crescent_moon:
 
 
 This problem was asked by Bloomberg.
@@ -2824,7 +2827,7 @@ to c, and c to d.
 Given s1 = foo and s2 = bar, return false since the o cannot map to two
 characters.
 
-## [Problem-177](src/main/java/in/ashwanik/dcp/problems/p177)
+## Problem-177:waxing_crescent_moon:
 
 
 This problem was asked by Airbnb.
@@ -2838,7 +2841,7 @@ For example, given the linked list 7 -> 7 -> 3 -> 5 and k = 2, it should become
 Given the linked list 1 -> 2 -> 3 -> 4 -> 5 and k = 3, it should become 3 -> 4
 -> 5 -> 1 -> 2.
 
-## [Problem-178](src/main/java/in/ashwanik/dcp/problems/p178)
+## Problem-178:waxing_crescent_moon:
 
 
 This problem was asked by Two Sigma.
@@ -2855,7 +2858,7 @@ a five.
 Which of the two games should Alice elect to play? Does it even matter? Write a
 program to simulate the two games and calculate their expected value.
 
-## [Problem-179](src/main/java/in/ashwanik/dcp/problems/p179)
+## Problem-179:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2873,7 +2876,7 @@ following tree:
 2   4   8
 
 
-## [Problem-180](src/main/java/in/ashwanik/dcp/problems/p180)
+## Problem-180:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2889,7 +2892,7 @@ If the stack is [1, 2, 3, 4], it should become [1, 4, 2, 3].
 
 Hint: Try working backwards from the end state.
 
-## [Problem-181](src/main/java/in/ashwanik/dcp/problems/p181)
+## Problem-181:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2902,7 +2905,7 @@ For example, given the input string racecarannakayak, return ["racecar", "anna",
 
 Given the input string abc, return ["a", "b", "c"].
 
-## [Problem-182](src/main/java/in/ashwanik/dcp/problems/p182)
+## Problem-182:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -2914,14 +2917,14 @@ is minimally-connected.
 Given an undirected graph, check if the graph is minimally-connected. You can
 choose to represent the graph as either an adjacency matrix or adjacency list.
 
-## [Problem-183](src/main/java/in/ashwanik/dcp/problems/p183)
+## Problem-183:waxing_crescent_moon:
 
 
 This problem was asked by Twitch.
 
 Describe what happens when you type a URL into your browser and press Enter.
 
-## [Problem-184](src/main/java/in/ashwanik/dcp/problems/p184)
+## Problem-184:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -2930,7 +2933,7 @@ Given n numbers, find the greatest common denominator between them.
 
 For example, given the numbers [42, 56, 14], return 14.
 
-## [Problem-185](src/main/java/in/ashwanik/dcp/problems/p185)
+## Problem-185:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2956,7 +2959,7 @@ and
 
 return 6.
 
-## [Problem-186](src/main/java/in/ashwanik/dcp/problems/p186)
+## Problem-186:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -2967,7 +2970,7 @@ the difference between the sum of the subsets is as small as possible.
 For example, given [5, 10, 15, 20, 25], return the sets {10, 25} and {5, 15, 20}
 , which has a difference of 5, which is the smallest possible difference.
 
-## [Problem-187](src/main/java/in/ashwanik/dcp/problems/p187)
+## Problem-187:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -2994,7 +2997,7 @@ For example, given the following rectangles:
 
 return true as the first and third rectangle overlap each other.
 
-## [Problem-188](src/main/java/in/ashwanik/dcp/problems/p188)
+## Problem-188:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3018,7 +3021,7 @@ for f in functions:
 
 How can we make it print out what we apparently want?
 
-## [Problem-189](src/main/java/in/ashwanik/dcp/problems/p189)
+## Problem-189:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3029,7 +3032,7 @@ its elements are distinct.
 For example, given the array [5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest
 subarray of distinct elements is [5, 2, 3, 4, 1].
 
-## [Problem-190](src/main/java/in/ashwanik/dcp/problems/p190)
+## Problem-190:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3041,7 +3044,7 @@ where the 8 is obtained from wrapping around.
 
 Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
 
-## [Problem-191](src/main/java/in/ashwanik/dcp/problems/p191)
+## Problem-191:waxing_crescent_moon:
 
 
 This problem was asked by Stripe.
@@ -3057,7 +3060,7 @@ interval can be removed and the first two won't overlap.
 
 The intervals are not necessarily sorted in any order.
 
-## [Problem-192](src/main/java/in/ashwanik/dcp/problems/p192)
+## Problem-192:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3072,7 +3075,7 @@ For example, given the array [1, 3, 1, 2, 0, 1], we can go from indices 0 -> 1
 
 Given the array [1, 2, 1, 0, 0], we can't reach the end, so return false.
 
-## [Problem-193](src/main/java/in/ashwanik/dcp/problems/p193)
+## Problem-193:waxing_crescent_moon:
 
 
 This problem was asked by Affirm.
@@ -3090,7 +3093,7 @@ you could buy the stock at 1 dollar, and sell at 8 dollars, and then buy it at 4
 dollars and sell it at 10 dollars. Since we did two transactions, there is a 4
 dollar fee, so we have 7 + 6 = 13 profit minus 4 dollars of fees.
 
-## [Problem-194](src/main/java/in/ashwanik/dcp/problems/p194)
+## Problem-194:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3100,7 +3103,7 @@ y = 0 and the other list q1, q2, ..., qn on the line y = 1. Imagine a set of n
 line segments connecting each point pi to qi. Write an algorithm to determine
 how many pairs of the line segments intersect.
 
-## [Problem-195](src/main/java/in/ashwanik/dcp/problems/p195)
+## Problem-195:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3122,7 +3125,7 @@ For example, given the following matrix:
 And i1 = 1, j1 = 1, i2 = 3, j2 = 3, return 15 as there are 15 numbers in the
 matrix smaller than 6 or greater than 23.
 
-## [Problem-196](src/main/java/in/ashwanik/dcp/problems/p196)
+## Problem-196:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -3140,7 +3143,7 @@ For example, given the following tree:
 Return 2 as it occurs twice: once as the left leaf, and once as the sum of 2 + 5
 - 5.
 
-## [Problem-197](src/main/java/in/ashwanik/dcp/problems/p197)
+## Problem-197:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -3148,7 +3151,7 @@ This problem was asked by Amazon.
 Given an array and a number k that's smaller than the length of the array,
 rotate the array to the right k elements in-place.
 
-## [Problem-198](src/main/java/in/ashwanik/dcp/problems/p198)
+## Problem-198:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3160,7 +3163,7 @@ every pair of elements in the subset (i, j) satisfies either i % j = 0 or j % i
 For example, given the set [3, 5, 10, 20, 21], you should return [5, 10, 20].
 Given [1, 3, 6, 24], return [1, 3, 6, 24].
 
-## [Problem-199](src/main/java/in/ashwanik/dcp/problems/p199)
+## Problem-199:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3172,7 +3175,7 @@ multiple solutions, return any of them.
 For example, given "(()", you could return "(())". Given "))()(", you could
 return "()()()()".
 
-## [Problem-200](src/main/java/in/ashwanik/dcp/problems/p200)
+## Problem-200:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -3184,7 +3187,7 @@ smallest set of points that stabs X.
 For example, given the intervals [(1, 4), (4, 5), (7, 9), (9, 12)], you should
 return [4, 9].
 
-## [Problem-201](src/main/java/in/ashwanik/dcp/problems/p201)
+## Problem-201:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3204,7 +3207,7 @@ For example, 1 -> 3 -> 5. The weight of the path is the sum of the entries.
 
 Write a program that returns the weight of the maximum weight path.
 
-## [Problem-202](src/main/java/in/ashwanik/dcp/problems/p202)
+## Problem-202:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -3213,7 +3216,7 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the
 integer into a string.
 
-## [Problem-203](src/main/java/in/ashwanik/dcp/problems/p203)
+## Problem-203:waxing_crescent_moon:
 
 
 This problem was asked by Uber.
@@ -3224,7 +3227,7 @@ array does not contain duplicates.
 
 For example, given [5, 7, 10, 3, 4], return 3.
 
-## [Problem-204](src/main/java/in/ashwanik/dcp/problems/p204)
+## Problem-204:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -3233,7 +3236,7 @@ Given a complete binary tree, count the number of nodes in faster than O(n)
 time. Recall that a complete binary tree has every level filled except the last,
 and the nodes in the last level are filled starting from the left.
 
-## [Problem-205](src/main/java/in/ashwanik/dcp/problems/p205)
+## Problem-205:waxing_crescent_moon:
 
 
 This problem was asked by IBM.
@@ -3241,7 +3244,7 @@ This problem was asked by IBM.
 Given an integer, find the next permutation of it in absolute order. For
 example, given 48975, the next permutation would be 49578.
 
-## [Problem-206](src/main/java/in/ashwanik/dcp/problems/p206)
+## Problem-206:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -3254,7 +3257,7 @@ Given an array and a permutation, apply the permutation to the array. For
 example, given the array ["a", "b", "c"] and the permutation [2, 1, 0], return 
 ["c", "b", "a"].
 
-## [Problem-207](src/main/java/in/ashwanik/dcp/problems/p207)
+## Problem-207:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -3263,7 +3266,7 @@ Given an undirected graph G, check whether it is bipartite. Recall that a graph
 is bipartite if its vertices can be divided into two independent sets, U and V,
 such that no edge connects vertices of the same set.
 
-## [Problem-208](src/main/java/in/ashwanik/dcp/problems/p208)
+## Problem-208:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -3274,7 +3277,7 @@ all nodes less than k come before nodes greater than or equal to k.
 For example, given the linked list 5 -> 1 -> 8 -> 0 -> 3 and k = 3, the solution
 could be 1 -> 0 -> 5 -> 8 -> 3.
 
-## [Problem-209](src/main/java/in/ashwanik/dcp/problems/p209)
+## Problem-209:waxing_crescent_moon:
 
 
 This problem was asked by YouTube.
@@ -3284,7 +3287,7 @@ three given strings. For example, given "epidemiologist", "refrigeration", and
 "supercalifragilisticexpialodocious", it should return 5, since the longest
 common subsequence is "eieio".
 
-## [Problem-210](src/main/java/in/ashwanik/dcp/problems/p210)
+## Problem-210:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -3300,7 +3303,7 @@ this conjecture.
 
 Bonus: What input n <= 1000000 gives the longest sequence?
 
-## [Problem-211](src/main/java/in/ashwanik/dcp/problems/p211)
+## Problem-211:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -3309,7 +3312,7 @@ Given a string and a pattern, find the starting indices of all occurrences of
 the pattern in the string. For example, given the string "abracadabra" and the
 pattern "abr", you should return [0, 7].
 
-## [Problem-212](src/main/java/in/ashwanik/dcp/problems/p212)
+## Problem-212:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -3320,7 +3323,7 @@ Spreadsheets often use this alphabetical encoding for its columns: "A", "B",
 Given a column number, return its alphabetical column id. For example, given 1,
 return "A". Given 27, return "AA".
 
-## [Problem-213](src/main/java/in/ashwanik/dcp/problems/p213)
+## Problem-213:waxing_crescent_moon:
 
 
 This problem was asked by Snapchat.
@@ -3334,7 +3337,7 @@ except for 0 itself.
 For example, given "2542540123", you should return ['254.25.40.123',
 '254.254.0.123'].
 
-## [Problem-214](src/main/java/in/ashwanik/dcp/problems/p214)
+## Problem-214:waxing_crescent_moon:
 
 
 This problem was asked by Stripe.
@@ -3344,7 +3347,7 @@ its binary representation.
 
 For example, given 156, you should return 3.
 
-## [Problem-215](src/main/java/in/ashwanik/dcp/problems/p215)
+## Problem-215:waxing_crescent_moon:
 
 
 This problem was asked by Yelp.
@@ -3377,7 +3380,7 @@ For this tree, for example, the bottom view could be [0, 1, 3, 6, 8, 9].
 
 Given the root to a binary tree, return its bottom view.
 
-## [Problem-216](src/main/java/in/ashwanik/dcp/problems/p216)
+## Problem-216:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3404,7 +3407,7 @@ XL.
 
 For the input XIV, for instance, you should return 14.
 
-## [Problem-217](src/main/java/in/ashwanik/dcp/problems/p217)
+## Problem-217:waxing_crescent_moon:
 
 
 This problem was asked by Oracle.
@@ -3415,7 +3418,7 @@ given input N, find the smallest sparse number greater than or equal to N.
 
 Do this in faster than O(N log N) time.
 
-## [Problem-218](src/main/java/in/ashwanik/dcp/problems/p218)
+## Problem-218:waxing_crescent_moon:
 
 
 This problem was asked by Yahoo.
@@ -3423,7 +3426,7 @@ This problem was asked by Yahoo.
 Write an algorithm that computes the reversal of a directed graph. For example,
 if a graph consists of A -> B -> C, it should become A <- B <- C.
 
-## [Problem-219](src/main/java/in/ashwanik/dcp/problems/p219)
+## Problem-219:waxing_crescent_moon:
 
 
 This problem was asked by Salesforce.
@@ -3435,7 +3438,7 @@ diagonally), or when there are no more spots left in the grid.
 
 Design and implement Connect 4.
 
-## [Problem-220](src/main/java/in/ashwanik/dcp/problems/p220)
+## Problem-220:waxing_crescent_moon:
 
 
 This problem was asked by Square.
@@ -3449,7 +3452,7 @@ and receiving the value of the coin.
 Write a program that returns the maximum amount of money you can win with
 certainty, if you move first, assuming your opponent plays optimally.
 
-## [Problem-221](src/main/java/in/ashwanik/dcp/problems/p221)
+## Problem-221:waxing_crescent_moon:
 
 
 This problem was asked by Zillow.
@@ -3458,7 +3461,7 @@ Let's define a "sevenish" number to be one which is either a power of 7, or the
 sum of unique powers of 7. The first few sevenish numbers are 1, 7, 8, 49, and
 so on. Create an algorithm to find the nth sevenish number.
 
-## [Problem-222](src/main/java/in/ashwanik/dcp/problems/p222)
+## Problem-222:waxing_crescent_moon:
 
 
 This problem was asked by Quora.
@@ -3468,7 +3471,7 @@ shortest standardized path.
 
 For example, given "/usr/bin/../bin/./scripts/../", return "/usr/bin/".
 
-## [Problem-223](src/main/java/in/ashwanik/dcp/problems/p223)
+## Problem-223:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -3477,7 +3480,7 @@ Typically, an implementation of in-order traversal of a binary tree has O(h)
 space complexity, where h is the height of the tree. Write a program to compute
 the in-order traversal of a binary tree using O(1) space.
 
-## [Problem-224](src/main/java/in/ashwanik/dcp/problems/p224)
+## Problem-224:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -3489,7 +3492,7 @@ For example, for the input [1, 2, 3, 10], you should return 7.
 
 Do this in O(N) time.
 
-## [Problem-225](src/main/java/in/ashwanik/dcp/problems/p225)
+## Problem-225:waxing_crescent_moon:
 
 
 This problem was asked by Bloomberg.
@@ -3506,7 +3509,7 @@ For example, if N = 5 and k = 2, the order of executions would be [2, 4, 1, 5,
 
 Bonus: Find an O(log N) solution if k = 2.
 
-## [Problem-226](src/main/java/in/ashwanik/dcp/problems/p226)
+## Problem-226:waxing_crescent_moon:
 
 
 This problem was asked by Airbnb.
@@ -3518,7 +3521,7 @@ language.
 For example, given ['xww', 'wxyz', 'wxyw', 'ywx', 'ywz'], you should return 
 ['x', 'z', 'w', 'y'].
 
-## [Problem-227](src/main/java/in/ashwanik/dcp/problems/p227)
+## Problem-227:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3528,7 +3531,7 @@ words as possible that can be formed by a sequence of adjacent letters in the
 grid, using each cell at most once. Given a game board and a dictionary of valid
 words, implement a Boggle solver.
 
-## [Problem-228](src/main/java/in/ashwanik/dcp/problems/p228)
+## Problem-228:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -3537,7 +3540,7 @@ Given a list of numbers, create an algorithm that arranges them in order to form
 the largest possible integer. For example, given [10, 7, 76, 415], you should
 return 77641510.
 
-## [Problem-229](src/main/java/in/ashwanik/dcp/problems/p229)
+## Problem-229:waxing_crescent_moon:
 
 
 This problem was asked by Flipkart.
@@ -3557,7 +3560,7 @@ snakes = {16: 6, 48: 26, 49: 11, 56: 53, 62: 19, 64: 60, 87: 24, 93: 73, 95: 75,
 ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
 
 
-## [Problem-230](src/main/java/in/ashwanik/dcp/problems/p230)
+## Problem-230:waxing_crescent_moon:
 
 
 This problem was asked by Goldman Sachs.
@@ -3575,7 +3578,7 @@ For example, if N = 1 and k = 5, we will need to try dropping the egg at every
 floor, beginning with the first, until we reach the fifth floor, so our solution
 will be 5.
 
-## [Problem-231](src/main/java/in/ashwanik/dcp/problems/p231)
+## Problem-231:waxing_crescent_moon:
 
 
 This problem was asked by IBM.
@@ -3586,7 +3589,7 @@ adjacent characters are the same. If this is not possible, return None.
 For example, given "aaabbc", you could return "ababac". Given "aaab", return 
 None.
 
-## [Problem-232](src/main/java/in/ashwanik/dcp/problems/p232)
+## Problem-232:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3607,7 +3610,7 @@ mapsum.insert("column", 2)
 assert mapsum.sum("col") == 5
 
 
-## [Problem-233](src/main/java/in/ashwanik/dcp/problems/p233)
+## Problem-233:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -3615,7 +3618,7 @@ This problem was asked by Apple.
 Implement the function fib(n), which returns the nth number in the Fibonacci
 sequence, using only O(1) space.
 
-## [Problem-234](src/main/java/in/ashwanik/dcp/problems/p234)
+## Problem-234:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -3624,7 +3627,7 @@ Recall that the minimum spanning tree is the subset of edges of a tree that
 connect all its vertices with the smallest possible total edge weight. Given an
 undirected graph with weighted edges, compute the maximum weight spanning tree.
 
-## [Problem-235](src/main/java/in/ashwanik/dcp/problems/p235)
+## Problem-235:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -3632,7 +3635,7 @@ This problem was asked by Facebook.
 Given an array of numbers of length N, find both the minimum and maximum using
 less than 2 * (N - 2) comparisons.
 
-## [Problem-236](src/main/java/in/ashwanik/dcp/problems/p236)
+## Problem-236:waxing_crescent_moon:
 
 
 This problem was asked by Nvidia.
@@ -3645,7 +3648,7 @@ so on, finally looping around to connect point N to point 1.
 Determine if a new point p lies inside this polygon. (If p is on the boundary of
 the polygon, you should return False).
 
-## [Problem-237](src/main/java/in/ashwanik/dcp/problems/p237)
+## Problem-237:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -3662,7 +3665,7 @@ about the root node. The following tree is an example:
 
 Given a k-ary tree, determine whether it is symmetric.
 
-## [Problem-238](src/main/java/in/ashwanik/dcp/problems/p238)
+## Problem-238:waxing_crescent_moon:
 
 
 This problem was asked by MIT.
@@ -3683,7 +3686,7 @@ For this problem, cards values are counted as follows: each card between 2 and
 Given perfect knowledge of the sequence of cards in the deck, implement a
 blackjack solver that maximizes the player's score (that is, wins minus losses).
 
-## [Problem-239](src/main/java/in/ashwanik/dcp/problems/p239)
+## Problem-239:waxing_crescent_moon:
 
 
 This problem was asked by Uber.
@@ -3701,7 +3704,7 @@ For example, 4 - 2 - 1 - 7 is a valid pattern, whereas 2 - 1 - 7 is not.
 
 Find the total number of valid unlock patterns of length N, where 1 <= N <= 9.
 
-## [Problem-240](src/main/java/in/ashwanik/dcp/problems/p240)
+## Problem-240:waxing_crescent_moon:
 
 
 This problem was asked by Spotify.
@@ -3712,7 +3715,7 @@ can sit side by side.
 
 What is the minimum number of swaps necessary for this to happen?
 
-## [Problem-241](src/main/java/in/ashwanik/dcp/problems/p241)
+## Problem-241:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -3729,7 +3732,7 @@ at least 3 citations.
 
 Given a list of paper citations of a researcher, calculate their h-index.
 
-## [Problem-242](src/main/java/in/ashwanik/dcp/problems/p242)
+## Problem-242:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -3745,7 +3748,7 @@ efficiently supports the following:
 You can assume that all values get cleared at the end of the day, and that you
 will not be asked for start and end values that wrap around midnight.
 
-## [Problem-243](src/main/java/in/ashwanik/dcp/problems/p243)
+## Problem-243:waxing_crescent_moon:
 
 
 This problem was asked by Etsy.
@@ -3757,7 +3760,7 @@ sum.
 For example, given N = [5, 1, 2, 7, 3, 4] and k = 3, you should return 8, since
 the optimal partition is [5, 1, 2], [7], [3, 4].
 
-## [Problem-244](src/main/java/in/ashwanik/dcp/problems/p244)
+## Problem-244:waxing_crescent_moon:
 
 
 This problem was asked by Square.
@@ -3776,7 +3779,7 @@ Implement this algorithm.
 Bonus: Create a generator that produces primes indefinitely (that is, without
 taking N as an input).
 
-## [Problem-245](src/main/java/in/ashwanik/dcp/problems/p245)
+## Problem-245:waxing_crescent_moon:
 
 
 This problem was asked by Yelp.
@@ -3789,7 +3792,7 @@ from the start to the end of the array.
 For example, given [6, 2, 4, 0, 5, 1, 1, 4, 2, 9], you should return 2, as the
 optimal solution involves jumping from 6 to 5, and then from 5 to 9.
 
-## [Problem-246](src/main/java/in/ashwanik/dcp/problems/p246)
+## Problem-246:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -3801,7 +3804,7 @@ last character of X is same as the first character of Y.
 For example, the words ['chair', 'height', 'racket', touch', 'tunic'] can form
 the following circle: chair --> racket --> touch --> height --> tunic --> chair.
 
-## [Problem-247](src/main/java/in/ashwanik/dcp/problems/p247)
+## Problem-247:waxing_crescent_moon:
 
 
 This problem was asked by PayPal.
@@ -3810,7 +3813,7 @@ Given a binary tree, determine whether or not it is height-balanced. A
 height-balanced binary tree can be defined as one in which the heights of the
 two subtrees of any node never differ by more than one.
 
-## [Problem-248](src/main/java/in/ashwanik/dcp/problems/p248)
+## Problem-248:waxing_crescent_moon:
 
 
 This problem was asked by Nvidia.
@@ -3818,14 +3821,14 @@ This problem was asked by Nvidia.
 Find the maximum of two numbers without using any if-else statements, branching,
 or direct comparisons.
 
-## [Problem-249](src/main/java/in/ashwanik/dcp/problems/p249)
+## Problem-249:waxing_crescent_moon:
 
 
 This problem was asked by Salesforce.
 
 Given an array of integers, find the maximum XOR of any two elements.
 
-## [Problem-250](src/main/java/in/ashwanik/dcp/problems/p250)
+## Problem-250:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -3849,7 +3852,7 @@ may have the solution:
 Given a three-word puzzle like the one above, create an algorithm that finds a
 solution.
 
-## [Problem-251](src/main/java/in/ashwanik/dcp/problems/p251)
+## Problem-251:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -3858,7 +3861,7 @@ Given an array of a million integers between zero and a billion, out of order,
 how can you efficiently sort it? Assume that you cannot store an array of a
 billion elements in memory.
 
-## [Problem-252](src/main/java/in/ashwanik/dcp/problems/p252)
+## Problem-252:waxing_crescent_moon:
 
 
 This problem was asked by Palantir.
@@ -3873,7 +3876,7 @@ Egyptian fraction.
 
 --------------------------------------------------------------------------------
 
-## [Problem-253](src/main/java/in/ashwanik/dcp/problems/p253)
+## Problem-253:waxing_crescent_moon:
 
 
 This problem was asked by PayPal.
@@ -3893,7 +3896,7 @@ t     a     g
 
 --------------------------------------------------------------------------------
 
-## [Problem-254](src/main/java/in/ashwanik/dcp/problems/p254)
+## Problem-254:waxing_crescent_moon:
 
 
 This problem was asked by Yahoo.
@@ -3925,7 +3928,7 @@ You should convert it to:
 
 --------------------------------------------------------------------------------
 
-## [Problem-255](src/main/java/in/ashwanik/dcp/problems/p255)
+## Problem-255:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -3957,7 +3960,7 @@ Given a graph, find its transitive closure.
 
 --------------------------------------------------------------------------------
 
-## [Problem-256](src/main/java/in/ashwanik/dcp/problems/p256)
+## Problem-256:waxing_crescent_moon:
 
 
 This problem was asked by Fitbit.
@@ -3969,7 +3972,7 @@ alternating low -> high -> low -> high ... form. For example, given 1 -> 2 -> 3
 
 --------------------------------------------------------------------------------
 
-## [Problem-257](src/main/java/in/ashwanik/dcp/problems/p257)
+## Problem-257:waxing_crescent_moon:
 
 
 This problem was asked by WhatsApp.
@@ -3981,7 +3984,7 @@ example, given [3, 7, 5, 6, 9], you should return (1, 3).
 
 --------------------------------------------------------------------------------
 
-## [Problem-258](src/main/java/in/ashwanik/dcp/problems/p258)
+## Problem-258:waxing_crescent_moon:
 
 
 This problem was asked by Morgan Stanley.
@@ -4007,7 +4010,7 @@ You should return [1, 3, 2, 4, 5, 6, 7].
 
 --------------------------------------------------------------------------------
 
-## [Problem-259](src/main/java/in/ashwanik/dcp/problems/p259)
+## Problem-259:waxing_crescent_moon:
 
 
 This problem was asked by Two Sigma.
@@ -4031,7 +4034,7 @@ winning start letter would be b.
 
 --------------------------------------------------------------------------------
 
-## [Problem-260](src/main/java/in/ashwanik/dcp/problems/p260)
+## Problem-260:waxing_crescent_moon:
 
 
 This problem was asked by Pinterest.
@@ -4044,7 +4047,7 @@ For example, given [None, +, +, -, +], you could return [1, 2, 3, 0, 4].
 
 --------------------------------------------------------------------------------
 
-## [Problem-261](src/main/java/in/ashwanik/dcp/problems/p261)
+## Problem-261:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -4075,7 +4078,7 @@ determine a mapping between characters and their encoded binary strings.
 
 --------------------------------------------------------------------------------
 
-## [Problem-262](src/main/java/in/ashwanik/dcp/problems/p262)
+## Problem-262:waxing_crescent_moon:
 
 
 This problem was asked by Mozilla.
@@ -4086,7 +4089,7 @@ the graph to become disconnected. Find all the bridges in a graph.
 
 --------------------------------------------------------------------------------
 
-## [Problem-263](src/main/java/in/ashwanik/dcp/problems/p263)
+## Problem-263:waxing_crescent_moon:
 
 
 This problem was asked by Nest.
@@ -4107,7 +4110,7 @@ We can consider a sentence valid if it conforms to the following rules:
 
 --------------------------------------------------------------------------------
 
-## [Problem-264](src/main/java/in/ashwanik/dcp/problems/p264)
+## Problem-264:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -4125,7 +4128,7 @@ Create an algorithm that finds a De Bruijn sequence.
 
 --------------------------------------------------------------------------------
 
-## [Problem-265](src/main/java/in/ashwanik/dcp/problems/p265)
+## Problem-265:waxing_crescent_moon:
 
 
 This problem was asked by Atlassian.
@@ -4144,7 +4147,7 @@ For example, given [10, 40, 200, 1000, 60, 30], you should return [1, 2, 3, 4,
 
 --------------------------------------------------------------------------------
 
-## [Problem-266](src/main/java/in/ashwanik/dcp/problems/p266)
+## Problem-266:waxing_crescent_moon:
 
 
 This problem was asked by Pivotal.
@@ -4159,7 +4162,7 @@ all valid step words.
 
 --------------------------------------------------------------------------------
 
-## [Problem-267](src/main/java/in/ashwanik/dcp/problems/p267)
+## Problem-267:waxing_crescent_moon:
 
 
 This problem was asked by Oracle.
@@ -4188,7 +4191,7 @@ You should return True, since the bishop is attacking the king diagonally.
 
 --------------------------------------------------------------------------------
 
-## [Problem-268](src/main/java/in/ashwanik/dcp/problems/p268)
+## Problem-268:waxing_crescent_moon:
 
 
 This problem was asked by Indeed.
@@ -4199,7 +4202,7 @@ faster than O(log N) time.
 
 --------------------------------------------------------------------------------
 
-## [Problem-269](src/main/java/in/ashwanik/dcp/problems/p269)
+## Problem-269:waxing_crescent_moon:
 
 
 This problem was asked by Microsoft.
@@ -4222,7 +4225,7 @@ Given the string ..R...L.L, you should return ..RR.LLLL.
 
 --------------------------------------------------------------------------------
 
-## [Problem-270](src/main/java/in/ashwanik/dcp/problems/p270)
+## Problem-270:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -4254,7 +4257,7 @@ take that much time.
 
 --------------------------------------------------------------------------------
 
-## [Problem-271](src/main/java/in/ashwanik/dcp/problems/p271)
+## Problem-271:waxing_crescent_moon:
 
 
 This problem was asked by Netflix.
@@ -4267,7 +4270,7 @@ Do this in O(log N) time.
 
 --------------------------------------------------------------------------------
 
-## [Problem-272](src/main/java/in/ashwanik/dcp/problems/p272)
+## Problem-272:waxing_crescent_moon:
 
 
 This problem was asked by Spotify.
@@ -4281,7 +4284,7 @@ For example, throw_dice(3, 6, 7) should equal 15.
 
 --------------------------------------------------------------------------------
 
-## [Problem-273](src/main/java/in/ashwanik/dcp/problems/p273)
+## Problem-273:waxing_crescent_moon:
 
 
 This problem was asked by Apple.
@@ -4296,7 +4299,7 @@ should return False.
 
 --------------------------------------------------------------------------------
 
-## [Problem-274](src/main/java/in/ashwanik/dcp/problems/p274)
+## Problem-274:waxing_crescent_moon:
 
 
 This problem was asked by Facebook.
@@ -4312,7 +4315,7 @@ For example, given '-1 + (2 + 3)', you should return 4.
 
 --------------------------------------------------------------------------------
 
-## [Problem-275](src/main/java/in/ashwanik/dcp/problems/p275)
+## Problem-275:waxing_crescent_moon:
 
 
 This problem was asked by Epic.
@@ -4336,7 +4339,7 @@ Given an integer N, print the Nth term of this sequence.
 
 --------------------------------------------------------------------------------
 
-## [Problem-276](src/main/java/in/ashwanik/dcp/problems/p276)
+## Problem-276:waxing_crescent_moon:
 
 
 This problem was asked by Dropbox.
@@ -4353,7 +4356,7 @@ False.
 
 --------------------------------------------------------------------------------
 
-## [Problem-277](src/main/java/in/ashwanik/dcp/problems/p277)
+## Problem-277:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -4384,7 +4387,7 @@ returns whether it is a valid UTF-8 encoding.
 
 --------------------------------------------------------------------------------
 
-## [Problem-278](src/main/java/in/ashwanik/dcp/problems/p278)
+## Problem-278:waxing_crescent_moon:
 
 
 This problem was asked by Amazon.
@@ -4394,7 +4397,7 @@ Given an integer N, construct all possible binary search trees with N nodes.
 
 --------------------------------------------------------------------------------
 
-## [Problem-279](src/main/java/in/ashwanik/dcp/problems/p279)
+## Problem-279:waxing_crescent_moon:
 
 
 This problem was asked by Twitter.
@@ -4424,7 +4427,7 @@ groups in the class.
 
 --------------------------------------------------------------------------------
 
-## [Problem-280](src/main/java/in/ashwanik/dcp/problems/p280)
+## Problem-280:waxing_crescent_moon:
 
 
 This problem was asked by Pandora.
@@ -4434,7 +4437,7 @@ Given an undirected graph, determine if it contains a cycle.
 
 --------------------------------------------------------------------------------
 
-## [Problem-281](src/main/java/in/ashwanik/dcp/problems/p281)
+## Problem-281:waxing_crescent_moon:
 
 
 This problem was asked by LinkedIn.
@@ -4464,7 +4467,7 @@ return the fewest number of bricks that must be cut to create a vertical line.
 
 --------------------------------------------------------------------------------
 
-## [Problem-282](src/main/java/in/ashwanik/dcp/problems/p282)
+## Problem-282:waxing_crescent_moon:
 
 
 This problem was asked by Netflix.
@@ -4476,7 +4479,7 @@ Recall that a Pythogorean triplet (a, b, c) is defined by the equation a2+ b2= c
 
 --------------------------------------------------------------------------------
 
-## [Problem-283](src/main/java/in/ashwanik/dcp/problems/p283)
+## Problem-283:waxing_crescent_moon:
 
 
 This problem was asked by Google.
@@ -4494,7 +4497,7 @@ numbers.
 
 --------------------------------------------------------------------------------
 
-## [Problem-284](src/main/java/in/ashwanik/dcp/problems/p284)
+## Problem-284:waxing_crescent_moon:
 
 
 This problem was asked by Yext.
@@ -4515,7 +4518,7 @@ Given a binary tree and a particular node, find all cousins of that node.
 
 --------------------------------------------------------------------------------
 
-## [Problem-285](src/main/java/in/ashwanik/dcp/problems/p285)
+## Problem-285:waxing_crescent_moon:
 
 
 This problem was asked by Mailchimp.
@@ -4534,7 +4537,7 @@ Can you do this using just one forward pass through the array?
 
 --------------------------------------------------------------------------------
 
-## [Problem-286](src/main/java/in/ashwanik/dcp/problems/p286)
+## Problem-286:waxing_crescent_moon:
 
 
 This problem was asked by VMware.
@@ -4569,7 +4572,7 @@ As a result, your function should return [(0, 3), (4, 5), (11, 3), (15, 0), (19,
 
 --------------------------------------------------------------------------------
 
-## [Problem-287](src/main/java/in/ashwanik/dcp/problems/p287)
+## Problem-287:waxing_crescent_moon:
 
 
 This problem was asked by Quora.
@@ -4593,7 +4596,7 @@ the most similar, so your program should return [('a', 'e')].
 
 --------------------------------------------------------------------------------
 
-## [Problem-288](src/main/java/in/ashwanik/dcp/problems/p288)
+## Problem-288:waxing_crescent_moon:
 
 
 This problem was asked by Salesforce.
@@ -4618,7 +4621,7 @@ Write a function that returns how many steps this will take for a given input N.
 
 --------------------------------------------------------------------------------
 
-## [Problem-289](src/main/java/in/ashwanik/dcp/problems/p289)
+## Problem-289:waxing_crescent_moon:
 
 
 This problem was asked by Google.
