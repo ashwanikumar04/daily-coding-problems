@@ -1,7 +1,7 @@
 # :sunny:-Implemented, :new_moon:-Ignored, :waxing_crescent_moon:-Pending
 
 
-## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1):sunny:
+## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1_30/p1):sunny:
 
 
 This problem was recently asked by Google.
@@ -13,7 +13,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-## [Problem-2](src/main/java/in/ashwanik/dcp/problems/p2):sunny:
+## [Problem-2](src/main/java/in/ashwanik/dcp/problems/p1_30/p2):sunny:
 
 
 This problem was asked by Uber.
@@ -28,7 +28,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be
 
 Follow-up: what if you can't use division?
 
-## [Problem-3](src/main/java/in/ashwanik/dcp/problems/p3):sunny:
+## [Problem-3](src/main/java/in/ashwanik/dcp/problems/p1_30/p3):sunny:
 
 
 This problem was asked by Google.
@@ -52,7 +52,7 @@ node = Node('root', Node('left', Node('left.left')), Node('right'))
 assert deserialize(serialize(node)).left.left.val == 'left.left'
 
 
-## [Problem-4](src/main/java/in/ashwanik/dcp/problems/p4):sunny:
+## [Problem-4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4):sunny:
 
 
 This problem was asked by Stripe.
@@ -101,7 +101,7 @@ If using a language that has no pointers (such as Python), you can assume you
 have access to get_pointer anddereference_pointer functions that converts
 between nodes and memory addresses.
 
-## [Problem-7](src/main/java/in/ashwanik/dcp/problems/p7):sunny:
+## [Problem-7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7):sunny:
 
 
 This problem was asked by Facebook.
@@ -115,7 +115,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 You can assume that the messages are decodable. For example, '001' is not
 allowed.
 
-## [Problem-8](src/main/java/in/ashwanik/dcp/problems/p8):sunny:
+## [Problem-8](src/main/java/in/ashwanik/dcp/problems/p1_30/p8):sunny:
 
 
 This problem was asked by Google.
@@ -136,7 +136,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 
 
-## [Problem-9](src/main/java/in/ashwanik/dcp/problems/p9):sunny:
+## [Problem-9](src/main/java/in/ashwanik/dcp/problems/p1_30/p9):sunny:
 
 
 This problem was asked by Airbnb.
@@ -157,7 +157,7 @@ This problem was asked by Apple.
 Implement a job scheduler which takes in a function f and an integer n, and
 calls f after n milliseconds.
 
-## [Problem-11](src/main/java/in/ashwanik/dcp/problems/p11):sunny:
+## [Problem-11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11):sunny:
 
 
 This problem was asked by Twitter.
@@ -172,7 +172,7 @@ return [deer, deal].
 Hint: Try preprocessing the dictionary into a more efficient data structure to
 speed up queries.
 
-## [Problem-12](src/main/java/in/ashwanik/dcp/problems/p12):sunny:
+## [Problem-12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12):sunny:
 
 
 This problem was asked by Amazon.
@@ -193,7 +193,7 @@ What if, instead of being able to climb 1 or 2 steps at a time, you could climb
 any number from a set of positive integers X? For example, if X = {1, 3, 5}, you
 could climb 1, 3, or 5 steps at a time.
 
-## [Problem-13](src/main/java/in/ashwanik/dcp/problems/p13):sunny:
+## [Problem-13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13):sunny:
 
 
 This problem was asked by Amazon.
@@ -204,7 +204,7 @@ contains at most k distinct characters.
 For example, given s = "abcba" and k = 2, the longest substring with k distinct
 characters is "bcb".
 
-## [Problem-14](src/main/java/in/ashwanik/dcp/problems/p14):sunny:
+## [Problem-14](src/main/java/in/ashwanik/dcp/problems/p1_30/p14):sunny:
 
 
 This problem was asked by Google.
@@ -214,7 +214,7 @@ Monte Carlo method.
 
 Hint: The basic equation of a circle is x2 + y2 = r2.
 
-## [Problem-15](src/main/java/in/ashwanik/dcp/problems/p15):sunny:
+## [Problem-15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15):sunny:
 
 
 This problem was asked by Facebook.
@@ -222,7 +222,7 @@ This problem was asked by Facebook.
 Given a stream of elements too large to store in memory, pick a random element
 from the stream with uniform probability.
 
-## [Problem-16](src/main/java/in/ashwanik/dcp/problems/p16):sunny:
+## [Problem-16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16):sunny:
 
 
 This problem was asked by Twitter.
@@ -236,7 +236,7 @@ Implement a data structure to accomplish this, with the following API:
 
 You should be as efficient with time and space as possible.
 
-## [Problem-17](src/main/java/in/ashwanik/dcp/problems/p17):sunny:
+## [Problem-17](src/main/java/in/ashwanik/dcp/problems/p1_30/p17):sunny:
 
 
 This problem was asked by Google.
@@ -287,7 +287,7 @@ The name of a file contains at least a period and an extension.
 
 The name of a directory or sub-directory will not contain a period.
 
-## [Problem-18](src/main/java/in/ashwanik/dcp/problems/p18):sunny:
+## [Problem-18](src/main/java/in/ashwanik/dcp/problems/p1_30/p18):sunny:
 
 
 This problem was asked by Google.
@@ -320,7 +320,7 @@ Given an N by K matrix where the nth row and kth column represents the cost to
 build the nthhouse with kth color, return the minimum cost which achieves this
 goal.
 
-## [Problem-20](src/main/java/in/ashwanik/dcp/problems/p20):sunny:
+## [Problem-20](src/main/java/in/ashwanik/dcp/problems/p1_30/p20):sunny:
 
 
 This problem was asked by Google.
@@ -337,7 +337,7 @@ objects.
 Do this in O(M + N) time (where M and N are the lengths of the lists) and
 constant space.
 
-## [Problem-21](src/main/java/in/ashwanik/dcp/problems/p21):sunny:
+## [Problem-21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21):sunny:
 
 
 This problem was asked by Snapchat.
@@ -347,7 +347,7 @@ overlapping), find the minimum number of rooms required.
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-## [Problem-22](src/main/java/in/ashwanik/dcp/problems/p22):sunny:
+## [Problem-22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22):sunny:
 
 
 This problem was asked by Microsoft.
@@ -364,7 +364,7 @@ Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string
 "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath',
 'and', 'beyond'].
 
-## [Problem-23](src/main/java/in/ashwanik/dcp/problems/p23):sunny:
+## [Problem-23](src/main/java/in/ashwanik/dcp/problems/p1_30/p23):sunny:
 
 
 This problem was asked by Google.
@@ -390,7 +390,7 @@ and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number
 of steps required to reach the end is 7, since we would need to go through (1,
 2) because there is a wall everywhere else on the second row.
 
-## [Problem-24](src/main/java/in/ashwanik/dcp/problems/p24):sunny:
+## [Problem-24](src/main/java/in/ashwanik/dcp/problems/p1_30/p24):sunny:
 
 
 This problem was asked by Google.
@@ -432,7 +432,7 @@ Given the regular expression ".*at" and the string "chat", your function should
 return true. The same regular expression on the string "chats" should return
 false.
 
-## [Problem-26](src/main/java/in/ashwanik/dcp/problems/p26):sunny:
+## [Problem-26](src/main/java/in/ashwanik/dcp/problems/p1_30/p26):sunny:
 
 
 This problem was asked by Google.
@@ -444,7 +444,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-## [Problem-27](src/main/java/in/ashwanik/dcp/problems/p27):sunny:
+## [Problem-27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27):sunny:
 
 
 This problem was asked by Facebook.
@@ -456,7 +456,7 @@ For example, given the string "([])[]({})", you should return true.
 
 Given the string "([)]" or "((()", you should return false.
 
-## [Problem-28](src/main/java/in/ashwanik/dcp/problems/p28):sunny:
+## [Problem-28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28):sunny:
 
 
 This problem was asked by Palantir.
@@ -483,7 +483,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps",
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 
 
-## [Problem-29](src/main/java/in/ashwanik/dcp/problems/p29):sunny:
+## [Problem-29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29):sunny:
 
 
 This problem was asked by Amazon.
@@ -497,7 +497,7 @@ Implement run-length encoding and decoding. You can assume the string to be
 encoded have no digits and consists solely of alphabetic characters. You can
 assume the string to be decoded is valid.
 
-## [Problem-30](src/main/java/in/ashwanik/dcp/problems/p30):sunny:
+## [Problem-30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30):sunny:
 
 
 This problem was asked by Facebook.
@@ -517,7 +517,7 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in
 the second, and 3 in the fourth index (we cannot hold 5 since it would run off
 to the left), so we can trap 8 units of water.
 
-## [Problem-31](src/main/java/in/ashwanik/dcp/problems/p31):sunny:
+## [Problem-31](src/main/java/in/ashwanik/dcp/problems/p31_60/p31):sunny:
 
 
 This problem was asked by Google.
@@ -542,7 +542,7 @@ currency.
 
 There are no transaction costs and you can trade fractional quantities.
 
-## [Problem-33](src/main/java/in/ashwanik/dcp/problems/p33):sunny:
+## [Problem-33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33):sunny:
 
 
 This problem was asked by Microsoft.
@@ -582,7 +582,7 @@ letters, but "ecarace" comes first alphabetically.
 
 As another example, given the string "google", you should return "elgoogle".
 
-## [Problem-35](src/main/java/in/ashwanik/dcp/problems/p35):sunny:
+## [Problem-35](src/main/java/in/ashwanik/dcp/problems/p31_60/p35):sunny:
 
 
 This problem was asked by Google.
