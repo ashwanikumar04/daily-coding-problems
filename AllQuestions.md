@@ -582,7 +582,7 @@ letters, but "ecarace" comes first alphabetically.
 
 As another example, given the string "google", you should return "elgoogle".
 
-## Problem-35:waxing_crescent_moon:
+## [Problem-35](src/main/java/in/ashwanik/dcp/problems/p35):sunny:
 
 
 This problem was asked by Google.
