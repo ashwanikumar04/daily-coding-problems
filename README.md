@@ -1,7 +1,8 @@
 # daily-coding-problem
 Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
-## **Google (10)**
+
+## **Google (11)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p3)
 - [Problem8](src/main/java/in/ashwanik/dcp/problems/p8)
@@ -12,6 +13,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem23](src/main/java/in/ashwanik/dcp/problems/p23)
 - [Problem24](src/main/java/in/ashwanik/dcp/problems/p24)
 - [Problem26](src/main/java/in/ashwanik/dcp/problems/p26)
+- [Problem31](src/main/java/in/ashwanik/dcp/problems/p31)
 
 ## **Facebook (6)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p7)
