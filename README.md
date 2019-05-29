@@ -20,13 +20,14 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
 - [Problem27](src/main/java/in/ashwanik/dcp/problems/p27)
 
+## **Amazon (3)**
+- [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
+- [Problem13](src/main/java/in/ashwanik/dcp/problems/p13)
+- [Problem29](src/main/java/in/ashwanik/dcp/problems/p29)
+
 ## **Twitter (2)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
 - [Problem16](src/main/java/in/ashwanik/dcp/problems/p16)
-
-## **Amazon (2)**
-- [Problem12](src/main/java/in/ashwanik/dcp/problems/p12)
-- [Problem13](src/main/java/in/ashwanik/dcp/problems/p13)
 
 ## **Uber (1)**
 - [Problem2](src/main/java/in/ashwanik/dcp/problems/p2)
@@ -49,6 +50,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
  # Pending Questions:
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
+
 
 
 
