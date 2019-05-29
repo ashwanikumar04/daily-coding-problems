@@ -1,4 +1,4 @@
-package in.ashwanik.dcp.problems.P31_60.p35;
+package in.ashwanik.dcp.problems.p31_60.p35;
 
 class Solution {
 
