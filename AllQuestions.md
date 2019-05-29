@@ -456,7 +456,7 @@ For example, given the string "([])[]({})", you should return true.
 
 Given the string "([)]" or "((()", you should return false.
 
-## Problem-28:waxing_crescent_moon:
+## [Problem-28](src/main/java/in/ashwanik/dcp/problems/p28):sunny:
 
 
 This problem was asked by Palantir.
@@ -483,7 +483,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps",
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 
 
-## Problem-29:waxing_crescent_moon:
+## [Problem-29](src/main/java/in/ashwanik/dcp/problems/p29):sunny:
 
 
 This problem was asked by Amazon.
@@ -497,7 +497,7 @@ Implement run-length encoding and decoding. You can assume the string to be
 encoded have no digits and consists solely of alphabetic characters. You can
 assume the string to be decoded is valid.
 
-## Problem-30:waxing_crescent_moon:
+## [Problem-30](src/main/java/in/ashwanik/dcp/problems/p30):sunny:
 
 
 This problem was asked by Facebook.
@@ -517,7 +517,7 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in
 the second, and 3 in the fourth index (we cannot hold 5 since it would run off
 to the left), so we can trap 8 units of water.
 
-## Problem-31:waxing_crescent_moon:
+## [Problem-31](src/main/java/in/ashwanik/dcp/problems/p31):sunny:
 
 
 This problem was asked by Google.
@@ -529,7 +529,7 @@ substitute the “k” for “s”, substitute the “e” for “i”, and appe
 
 Given two strings, compute the edit distance between them.
 
-## Problem-32:waxing_crescent_moon:
+## Problem-32:new_moon:
 
 
 This problem was asked by Jane Street.
@@ -542,7 +542,7 @@ currency.
 
 There are no transaction costs and you can trade fractional quantities.
 
-## Problem-33:waxing_crescent_moon:
+## [Problem-33](src/main/java/in/ashwanik/dcp/problems/p33):sunny:
 
 
 This problem was asked by Microsoft.

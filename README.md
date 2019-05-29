@@ -1,7 +1,6 @@
 # daily-coding-problem
 Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
-
 ## **Google (11)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p3)
@@ -32,6 +31,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p11)
 - [Problem16](src/main/java/in/ashwanik/dcp/problems/p16)
 
+## **Microsoft (2)**
+- [Problem22](src/main/java/in/ashwanik/dcp/problems/p22)
+- [Problem33](src/main/java/in/ashwanik/dcp/problems/p33)
+
 ## **Uber (1)**
 - [Problem2](src/main/java/in/ashwanik/dcp/problems/p2)
 
@@ -44,17 +47,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 ## **Snapchat (1)**
 - [Problem21](src/main/java/in/ashwanik/dcp/problems/p21)
 
-## **Microsoft (1)**
-- [Problem22](src/main/java/in/ashwanik/dcp/problems/p22)
-
 ## **Palantir (1)**
 - [Problem28](src/main/java/in/ashwanik/dcp/problems/p28)
 
  # Pending Questions:
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
-
-
 
 
 
