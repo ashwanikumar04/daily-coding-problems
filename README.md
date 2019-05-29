@@ -43,9 +43,13 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 ## **Microsoft (1)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p22)
 
+## **Palantir (1)**
+- [Problem28](src/main/java/in/ashwanik/dcp/problems/p28)
+
  # Pending Questions:
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p25)
+
 
 
 

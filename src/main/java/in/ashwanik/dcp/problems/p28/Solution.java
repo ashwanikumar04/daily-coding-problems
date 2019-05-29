@@ -31,13 +31,14 @@ class Solution {
         String joined = String.join(" ", line);
         int difference = k - joined.length();
         if (difference > 0 && line.size() > 1) {
-            int mod = difference % (line.size() - 1);
-            int div = difference / (line.size() - 1);
+            int rooms = line.size() - 1;
+            int mod = difference % (rooms);
+            int div = difference / (rooms);
             for (int index = 0; index < line.size() - 1; index += 2) {
                 line.add(index + 1, spaceString(div + 1));
             }
             if (mod != 0) {
-                int remaining = difference - (div * (line.size() - 1));
+                int remaining = difference - (div * rooms);
                 for (int index = 0; index < line.size() - 1 && remaining > 0; index++) {
                     if (line.get(index).charAt(0) == ' ') {
                         line.set(index, line.get(index) + " ");
