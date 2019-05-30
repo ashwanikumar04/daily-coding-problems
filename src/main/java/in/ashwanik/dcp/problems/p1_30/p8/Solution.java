@@ -4,7 +4,7 @@ import in.ashwanik.dcp.common.TreeNode;
 
 class Solution {
 
-    int univalSubtreeCount(TreeNode<Integer> root) {
+   public int univalSubtreeCount(TreeNode<Integer> root) {
         if (root == null) {
             return 0;
         }

@@ -596,7 +596,7 @@ Do this in linear time and in-place.
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should
 become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-## Problem-36:waxing_crescent_moon:
+## [Problem-36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36):sunny:
 
 
 This problem was asked by Dropbox.

@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SolutionTest {
 
     @Test
-    void testMissingNumber() {
+    void testUnivalTreeCount() {
         assertEquals(5, new Solution()
                 .univalSubtreeCount(new TreeNode<>(0,
                         new TreeNode<>(1),
