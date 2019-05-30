@@ -604,7 +604,7 @@ This problem was asked by Dropbox.
 Given the root to a binary search tree, find the second largest node in the
 tree.
 
-## Problem-37:waxing_crescent_moon:
+## [Problem-37](src/main/java/in/ashwanik/dcp/problems/p31_60/p37):sunny:
 
 
 This problem was asked by Google.
