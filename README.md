@@ -16,13 +16,14 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem35](src/main/java/in/ashwanik/dcp/problems/p31_60/p35)
 - [Problem37](src/main/java/in/ashwanik/dcp/problems/p31_60/p37)
 
-## **Facebook (6)**
+## **Facebook (7)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)
 - [Problem15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15)
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)
 - [Problem27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27)
 - [Problem30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)
+- [Problem41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)
 
 ## **Amazon (3)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
@@ -64,7 +65,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)
 - [Problem34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)
-
 
 
 

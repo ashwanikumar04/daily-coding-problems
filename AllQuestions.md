@@ -666,7 +666,7 @@ return 19.
 
 Do this in O(N) time and O(1) space.
 
-## Problem-41:waxing_crescent_moon:
+## [Problem-41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41):sunny:
 
 
 This problem was asked by Facebook.
