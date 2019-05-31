@@ -627,7 +627,7 @@ possible arrangements of the board where N queens can be placed on the board
 without threatening each other, i.e. no two queens share the same row, column,
 or diagonal.
 
-## Problem-39:waxing_crescent_moon:
+## [Problem-39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39):sunny:
 
 
 This problem was asked by Dropbox.
