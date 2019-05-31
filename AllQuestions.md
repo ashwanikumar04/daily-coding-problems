@@ -617,7 +617,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1,
 
 You may also use a list or array to represent a set.
 
-## Problem-38:waxing_crescent_moon:
+## [Problem-38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38):sunny:
 
 
 This problem was asked by Microsoft.
@@ -653,7 +653,7 @@ top-leftmost live cell to bottom-rightmost live cell.
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.
 ).
 
-## Problem-40:waxing_crescent_moon:
+## Problem-40:new_moon:
 
 
 This problem was asked by Google.

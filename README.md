@@ -29,13 +29,14 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)
 - [Problem29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)
 
+## **Microsoft (3)**
+- [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
+- [Problem33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)
+- [Problem38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38)
+
 ## **Twitter (2)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)
 - [Problem16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16)
-
-## **Microsoft (2)**
-- [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
-- [Problem33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)
 
 ## **Uber (1)**
 - [Problem2](src/main/java/in/ashwanik/dcp/problems/p1_30/p2)
