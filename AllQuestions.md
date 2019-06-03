@@ -689,7 +689,7 @@ starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even
 though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first
 one is lexicographically smaller.
 
-## Problem-42:waxing_crescent_moon:
+## [Problem-42](src/main/java/in/ashwanik/dcp/problems/p31_60/p42):sunny:
 
 
 This problem was asked by Google.
