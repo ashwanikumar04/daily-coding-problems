@@ -2,9 +2,9 @@
 
 
 ## [Problem-1](src/main/java/in/ashwanik/dcp/problems/p1_30/p1):sunny:
-> 
 
-This problem was recently asked by Google.
+
+> This problem was recently asked by Google.
 
 Given a list of numbers and a number k, return whether any two numbers from the
 list add up to k.
@@ -14,9 +14,9 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 Bonus: Can you do this in one pass?
 
 ## [Problem-2](src/main/java/in/ashwanik/dcp/problems/p1_30/p2):sunny:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 Given an array of integers, return a new array such that each element at index i 
 of the new array is the product of all the numbers in the original array except
@@ -29,9 +29,9 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be
 Follow-up: what if you can't use division?
 
 ## [Problem-3](src/main/java/in/ashwanik/dcp/problems/p1_30/p3):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the root to a binary tree, implement serialize(root), which serializes the
 tree into a string, and deserialize(s), which deserializes the string back into
@@ -53,9 +53,9 @@ assert deserialize(serialize(node)).left.left.val == 'left.left'
 
 
 ## [Problem-4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4):sunny:
-> 
 
-This problem was asked by Stripe.
+
+> This problem was asked by Stripe.
 
 Given an array of integers, find the first missing positive integer in linear
 time and constant space. In other words, find the lowest positive integer that
@@ -68,9 +68,9 @@ give 3.
 You can modify the input array in-place.
 
 ## Problem-5:new_moon:
-> 
 
-This problem was asked by Jane Street.
+
+> This problem was asked by Jane Street.
 
 cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and
 last element of that pair. For example, car(cons(3, 4)) returns 3, and 
@@ -87,9 +87,9 @@ def cons(a, b):
 Implement car and cdr.
 
 ## Problem-6:new_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 An XOR linked list is a more memory efficient doubly linked list. Instead of
 each node holding next and prev fields, it holds a field named both, which is an
@@ -102,9 +102,9 @@ have access to get_pointer anddereference_pointer functions that converts
 between nodes and memory addresses.
 
 ## [Problem-7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7):sunny:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the
 number of ways it can be decoded.
@@ -116,9 +116,9 @@ You can assume that the messages are decodable. For example, '001' is not
 allowed.
 
 ## [Problem-8](src/main/java/in/ashwanik/dcp/problems/p1_30/p8):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 A unival tree (which stands for "universal value") is a tree where all nodes
 under it have the same value.
@@ -137,9 +137,9 @@ For example, the following tree has 5 unival subtrees:
 
 
 ## [Problem-9](src/main/java/in/ashwanik/dcp/problems/p1_30/p9):sunny:
-> 
 
-This problem was asked by Airbnb.
+
+> This problem was asked by Airbnb.
 
 Given a list of integers, write a function that returns the largest sum of
 non-adjacent numbers. Numbers can be 0 or negative.
@@ -150,17 +150,17 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 Follow-up: Can you do this in O(N) time and constant space?
 
 ## Problem-10:new_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and
 calls f after n milliseconds.
 
 ## [Problem-11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11):sunny:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 Implement an autocomplete system. That is, given a query string s and a set of
 all possible query strings, return all strings in the set that have s as a
@@ -173,9 +173,9 @@ Hint: Try preprocessing the dictionary into a more efficient data structure to
 speed up queries.
 
 ## [Problem-12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12):sunny:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 There exists a staircase with N steps, and you can climb up either 1 or 2 steps
 at a time. Given N, write a function that returns the number of unique ways you
@@ -194,9 +194,9 @@ any number from a set of positive integers X? For example, if X = {1, 3, 5}, you
 could climb 1, 3, or 5 steps at a time.
 
 ## [Problem-13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13):sunny:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given an integer k and a string s, find the length of the longest substring that
 contains at most k distinct characters.
@@ -205,9 +205,9 @@ For example, given s = "abcba" and k = 2, the longest substring with k distinct
 characters is "bcb".
 
 ## [Problem-14](src/main/java/in/ashwanik/dcp/problems/p1_30/p14):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a
 Monte Carlo method.
@@ -215,17 +215,17 @@ Monte Carlo method.
 Hint: The basic equation of a circle is x2 + y2 = r2.
 
 ## [Problem-15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15):sunny:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element
 from the stream with uniform probability.
 
 ## [Problem-16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16):sunny:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 You run an e-commerce website and want to record the last N order ids in a log.
 Implement a data structure to accomplish this, with the following API:
@@ -237,9 +237,9 @@ Implement a data structure to accomplish this, with the following API:
 You should be as efficient with time and space as possible.
 
 ## [Problem-17](src/main/java/in/ashwanik/dcp/problems/p1_30/p17):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Suppose we represent our file system by a string in the following manner:
 
@@ -288,9 +288,9 @@ The name of a file contains at least a period and an extension.
 The name of a directory or sub-directory will not contain a period.
 
 ## [Problem-18](src/main/java/in/ashwanik/dcp/problems/p1_30/p18):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of integers and a number k, where 1 <= k <= length of the array,
 compute the maximum values of each subarray of length k.
@@ -308,9 +308,9 @@ you do not need to store the results. You can simply print them out as you
 compute them.
 
 ## Problem-19:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 A builder is looking to build a row of N houses that can be of K different
 colors. He has a goal of minimizing cost while ensuring that no two neighboring
@@ -321,9 +321,9 @@ build the nthhouse with kth color, return the minimum cost which achieves this
 goal.
 
 ## [Problem-20](src/main/java/in/ashwanik/dcp/problems/p1_30/p20):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given two singly linked lists that intersect at some point, find the
 intersecting node. The lists are non-cyclical.
@@ -338,9 +338,9 @@ Do this in O(M + N) time (where M and N are the lengths of the lists) and
 constant space.
 
 ## [Problem-21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21):sunny:
-> 
 
-This problem was asked by Snapchat.
+
+> This problem was asked by Snapchat.
 
 Given an array of time intervals (start, end) for classroom lectures (possibly
 overlapping), find the minimum number of rooms required.
@@ -348,9 +348,9 @@ overlapping), find the minimum number of rooms required.
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
 ## [Problem-22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22):sunny:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given a dictionary of words and a string made up of those words (no spaces),
 return the original sentence in a list. If there is more than one possible
@@ -365,9 +365,9 @@ Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string
 'and', 'beyond'].
 
 ## [Problem-23](src/main/java/in/ashwanik/dcp/problems/p1_30/p23):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given an M by N matrix consisting of booleans that represents a board.
 Each True boolean represents a wall. Each False boolean represents a tile you
@@ -391,9 +391,9 @@ of steps required to reach the end is 7, since we would need to go through (1,
 2) because there is a wall everywhere else on the second row.
 
 ## [Problem-24](src/main/java/in/ashwanik/dcp/problems/p1_30/p24):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement locking in a binary tree. A binary tree node can be locked or unlocked
 only if all of its descendants or ancestors are not locked.
@@ -412,9 +412,9 @@ no need for actual locks or mutexes. Each method should run in O(h), where h is
 the height of the tree.
 
 ## Problem-25:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Implement regular expression matching with the following special characters:
 
@@ -433,9 +433,9 @@ return true. The same regular expression on the string "chats" should return
 false.
 
 ## [Problem-26](src/main/java/in/ashwanik/dcp/problems/p1_30/p26):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a singly linked list and an integer k, remove the kth last element from
 the list. k is guaranteed to be smaller than the length of the list.
@@ -445,9 +445,9 @@ The list is very long, so making more than one pass is prohibitively expensive.
 Do this in constant space and in one pass.
 
 ## [Problem-27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27):sunny:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a string of round, curly, and square open and closing brackets, return
 whether the brackets are balanced (well-formed).
@@ -457,9 +457,9 @@ For example, given the string "([])[]({})", you should return true.
 Given the string "([)]" or "((()", you should return false.
 
 ## [Problem-28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28):sunny:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 Write an algorithm to justify text. Given a sequence of words and an integer
 line length k, return a list of strings which represents each line, fully
@@ -484,9 +484,9 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps",
 
 
 ## [Problem-29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29):sunny:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Run-length encoding is a fast and simple method of encoding strings. The basic
 idea is to represent repeated successive characters as a single count and
@@ -498,9 +498,9 @@ encoded have no digits and consists solely of alphabetic characters. You can
 assume the string to be decoded is valid.
 
 ## [Problem-30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30):sunny:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 You are given an array of non-negative integers that represents a
 two-dimensional elevation map where each element is unit-width wall and the
@@ -518,9 +518,9 @@ the second, and 3 in the fourth index (we cannot hold 5 since it would run off
 to the left), so we can trap 8 units of water.
 
 ## [Problem-31](src/main/java/in/ashwanik/dcp/problems/p31_60/p31):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 The edit distance between two strings refers to the minimum number of character
 insertions, deletions, and substitutions required to change one string to the
@@ -530,9 +530,9 @@ substitute the “k” for “s”, substitute the “e” for “i”, and appe
 Given two strings, compute the edit distance between them.
 
 ## Problem-32:new_moon:
-> 
 
-This problem was asked by Jane Street.
+
+> This problem was asked by Jane Street.
 
 Suppose you are given a table of currency exchange rates, represented as a 2D
 array. Determine whether there is a possible arbitrage: that is, whether there
@@ -543,9 +543,9 @@ currency.
 There are no transaction costs and you can trade fractional quantities.
 
 ## [Problem-33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33):sunny:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Compute the running median of a sequence of numbers. That is, given a stream of
 numbers, print out the median of the list so far on each new element.
@@ -566,9 +566,9 @@ print out:
 
 
 ## Problem-34:waxing_crescent_moon:
-> 
 
-This problem was asked by Quora.
+
+> This problem was asked by Quora.
 
 Given a string, find the palindrome that can be made by inserting the fewest
 number of characters as possible anywhere in the word. If there is more than one
@@ -583,9 +583,9 @@ letters, but "ecarace" comes first alphabetically.
 As another example, given the string "google", you should return "elgoogle".
 
 ## [Problem-35](src/main/java/in/ashwanik/dcp/problems/p31_60/p35):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of strictly the characters 'R', 'G', and 'B', segregate the
 values of the array so that all the Rs come first, the Gs come second, and the
@@ -597,17 +597,17 @@ For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should
 become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
 ## [Problem-36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36):sunny:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the
 tree.
 
 ## [Problem-37](src/main/java/in/ashwanik/dcp/problems/p31_60/p37):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 The power set of a set is the set of all its subsets. Write a function that,
 given a set, generates its power set.
@@ -618,9 +618,9 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1,
 You may also use a list or array to represent a set.
 
 ## [Problem-38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38):sunny:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 You have an N by N board. Write a function that, given N, returns the number of
 possible arrangements of the board where N queens can be placed on the board
@@ -628,9 +628,9 @@ without threatening each other, i.e. no two queens share the same row, column,
 or diagonal.
 
 ## [Problem-39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39):sunny:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Conway's Game of Life takes place on an infinite two-dimensional board of square
 cells. Each cell is either dead or alive, and at each tick, the following rules
@@ -654,9 +654,9 @@ You can represent a live cell with an asterisk (*) and a dead cell with a dot (.
 ).
 
 ## Problem-40:new_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of integers where every integer occurs three times except for one
 integer, which only occurs once, find and return the non-duplicated integer.
@@ -667,9 +667,9 @@ return 19.
 Do this in O(N) time and O(1) space.
 
 ## [Problem-41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41):sunny:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an unordered list of flights taken by someone, each represented as
 (origin, destination) pairs, and a starting airport, compute the person's
@@ -690,9 +690,9 @@ though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first
 one is lexicographically smaller.
 
 ## [Problem-42](src/main/java/in/ashwanik/dcp/problems/p31_60/p42):sunny:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a list of integers S and a target number k, write a function that returns
 a subset of S that adds up to k. If such a subset cannot be made, then return
@@ -705,9 +705,9 @@ For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1]
 since it sums up to 24.
 
 ## [Problem-43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43):sunny:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Implement a stack that has the following methods:
 
@@ -720,9 +720,9 @@ Implement a stack that has the following methods:
 Each method should run in constant time.
 
 ## Problem-44:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 We can determine how "out of order" an array A is by counting the number of
 inversions it has. Two elements A[i] and A[j] form an inversion if A[i] > A[j] 
@@ -738,18 +738,18 @@ three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten
 inversions: every distinct pair forms an inversion.
 
 ## Problem-45:waxing_crescent_moon:
-> 
 
-This problem was asked by Two Sigma.
+
+> This problem was asked by Two Sigma.
 
 Using a function rand5() that returns an integer from 1 to 5 (inclusive) with
 uniform probability, implement a function rand7() that returns an integer from 1
 to 7 (inclusive).
 
 ## Problem-46:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a string, find the longest palindromic contiguous substring. If there are
 more than one with the maximum length, return any one.
@@ -758,9 +758,9 @@ For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The
 longest palindromic substring of "bananas" is "anana".
 
 ## Problem-47:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a array of numbers representing the stock prices of a company in
 chronological order, write a function that calculates the maximum profit you
@@ -771,9 +771,9 @@ For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could
 buy the stock at 5 dollars and sell it at 10 dollars.
 
 ## Problem-48:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given pre-order and in-order traversals of a binary tree, write a function to
 reconstruct the tree.
@@ -796,9 +796,9 @@ d  e f  g
 
 
 ## Problem-49:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given an array of numbers, find the maximum sum of any contiguous subarray of
 the array.
@@ -812,9 +812,9 @@ take any elements.
 Do this in O(N) time.
 
 ## Problem-50:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Suppose an arithmetic expression is given as a binary tree. Each leaf is an
 integer and each internal node is one of '+', '−', '∗', or '/'.
@@ -833,9 +833,9 @@ For example, given the following tree:
 You should return 45, as it is (3 + 2) * (4 + 5).
 
 ## Problem-51:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a function that generates perfectly random numbers between 1 and k
 (inclusive), where k is an input, write a function that shuffles a deck of cards
@@ -846,9 +846,9 @@ It should run in O(N) time.
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
 ## Problem-52:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement an LRU (Least Recently Used) cache. It should be able to be
 initialized with a cache size n, and contain the following methods:
@@ -861,18 +861,18 @@ initialized with a cache size n, and contain the following methods:
 Each operation should run in O(1) time.
 
 ## Problem-53:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in,
 first-out) data structure with the following methods: enqueue, which inserts an
 element into the queue, and dequeue, which removes it.
 
 ## Problem-54:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Sudoku is a puzzle where you're given a partially-filled 9 by 9 grid with
 digits. The objective is to fill the grid with the constraint that every row,
@@ -881,9 +881,9 @@ column, and box (3 by 3 subgrid) must contain all of the digits from 1 to 9.
 Implement an efficient sudoku solver.
 
 ## Problem-55:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Implement a URL shortener with the following methods:
 
@@ -895,18 +895,18 @@ Implement a URL shortener with the following methods:
 Hint: What if we enter the same URL twice?
 
 ## Problem-56:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an undirected graph represented as an adjacency matrix and an integer k,
 write a function to determine whether each vertex in the graph can be colored
 such that no two adjacent vertices share the same color using at most k colors.
 
 ## Problem-57:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a string s and an integer k, break up the string into multiple texts such
 that each text has a length of k or less. You must break it up so that words
@@ -921,9 +921,9 @@ k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy",
 "dog"]. No string in the list has a length of more than 10.
 
 ## Problem-58:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 An sorted array of integers was rotated an unknown number of times.
 
@@ -936,17 +936,17 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4
 You can assume all the integers in the array are unique.
 
 ## Problem-59:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement a file syncing algorithm for two computers over a low-bandwidth
 network. What if we know the files in the two computers are mostly the same?
 
 ## Problem-60:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a multiset of integers, return whether it can be partitioned into two
 subsets whose sums are the same.
@@ -959,9 +959,9 @@ Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't
 split it up into two subsets that add up to the same sum.
 
 ## Problem-61:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement integer exponentiation. That is, implement the pow(x, y) function,
 where x and y are integers and returns x^y.
@@ -971,9 +971,9 @@ Do this faster than the naive method of repeated multiplication.
 For example, pow(2, 10) should return 1024.
 
 ## Problem-62:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 There is an N by M matrix of zeroes. Given N and M, write a function to count
 the number of ways of starting at the top-left corner and getting to the
@@ -988,9 +988,9 @@ ways to get to the bottom-right:
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
 ## Problem-63:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given a 2D matrix of characters and a target word, write a function that returns
 whether the word can be found in the matrix by going left-to-right, or
@@ -1009,9 +1009,9 @@ column. Similarly, given the target word 'MASS', you should return true, since
 it's the last row.
 
 ## Problem-64:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 A knight's tour is a sequence of moves by a knight on a chessboard such that all
 squares are visited once.
@@ -1020,9 +1020,9 @@ Given N, write a function to return the number of knight's tours on an N by N
 chessboard.
 
 ## Problem-65:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a N by M matrix of numbers, print out the matrix in a clockwise spiral.
 
@@ -1059,9 +1059,9 @@ You should print out the following:
 
 
 ## Problem-66:waxing_crescent_moon:
-> 
 
-This problem was asked by Square.
+
+> This problem was asked by Square.
 
 Assume you have access to a function toss_biased() which returns 0 or 1 with a
 probability that's not 50-50 (but also not 0-100 or 100-0). You do not know the
@@ -1070,9 +1070,9 @@ bias of the coin.
 Write a function to simulate an unbiased coin toss.
 
 ## Problem-67:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement an LFU (Least Frequently Used) cache. It should be able to be
 initialized with a cache size n, and contain the following methods:
@@ -1086,9 +1086,9 @@ initialized with a cache size n, and contain the following methods:
 Each operation should run in O(1) time.
 
 ## Problem-68:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 On our special chessboard, two bishops attack each other if they share the same
 diagonal. This includes bishops that have another bishop located between them,
@@ -1119,9 +1119,9 @@ You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 3 and 4.
 
 ## Problem-69:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a list of integers, return the largest product that can be made by
 multiplying any three integers.
@@ -1132,9 +1132,9 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 You can assume the list has at least three integers.
 
 ## Problem-70:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 A number is considered perfect if its digits sum up to exactly 10.
 
@@ -1143,18 +1143,18 @@ Given a positive integer n, return the n-th perfect number.
 For example, given 1, you should return 19. Given 2, you should return 28.
 
 ## Problem-71:waxing_crescent_moon:
-> 
 
-This problem was asked by Two Sigma.
+
+> This problem was asked by Two Sigma.
 
 Using a function rand7() that returns an integer from 1 to 7 (inclusive) with
 uniform probability, implement a function rand5() that returns an integer from 1
 to 5 (inclusive).
 
 ## Problem-72:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 In a directed graph, each node is assigned an uppercase letter. We define a
 path's value as the number of most frequently-occurring letter along that path.
@@ -1194,16 +1194,16 @@ A
 Should return null, since we have an infinite loop.
 
 ## Problem-73:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the head of a singly linked list, reverse it in-place.
 
 ## Problem-74:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Suppose you have a multiplication table that is N by N. That is, a 2D array
 where the value at the i-th row and j-th column is (i + 1) * (j + 1) (if
@@ -1230,9 +1230,9 @@ multiplication table looks like this:
 And there are 4 12's in the table.
 
 ## Problem-75:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given an array of numbers, find the length of the longest increasing subsequence
 in the array. The subsequence does not necessarily have to be contiguous.
@@ -1241,9 +1241,9 @@ For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7,
 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
 ## Problem-76:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given an N by M 2D matrix of lowercase letters. Determine the minimum
 number of columns that can be removed to ensure that each row is ordered from
@@ -1287,9 +1287,9 @@ Your function should return 3, since we would need to remove all the columns to
 order it.
 
 ## Problem-77:waxing_crescent_moon:
-> 
 
-This problem was asked by Snapchat.
+
+> This problem was asked by Snapchat.
 
 Given a list of possibly overlapping intervals, return a new list of intervals
 where all overlapping intervals have been merged.
@@ -1300,17 +1300,17 @@ For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1,
 3), (4, 10), (20, 25)].
 
 ## Problem-78:waxing_crescent_moon:
-> 
 
-This problem was asked recently by Google.
+
+> This problem was asked recently by Google.
 
 Given k sorted singly linked lists, write a function to merge all the lists into
 one sorted singly linked list.
 
 ## Problem-79:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an array of integers, write a function to determine whether the array
 could become non-decreasing by modifying at most 1 element.
@@ -1322,9 +1322,9 @@ Given the array [10, 5, 1], you should return false, since we can't modify any
 one element to get a non-decreasing array.
 
 ## Problem-80:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the root of a binary tree, return a deepest node. For example, in the
 following tree, return d.
@@ -1337,9 +1337,9 @@ d
 
 
 ## Problem-81:waxing_crescent_moon:
-> 
 
-This problem was asked by Yelp.
+
+> This problem was asked by Yelp.
 
 Given a mapping of digits to letters (as in a phone number), and a digit string,
 return all possible letters the number could represent. You can assume each
@@ -1349,9 +1349,9 @@ For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f
 return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
 ## Problem-82:waxing_crescent_moon:
-> 
 
-This problem was asked Microsoft.
+
+> This problem was asked Microsoft.
 
 Using a read7() method that returns 7 characters from a file, implement readN(n)
 which reads n characters.
@@ -1360,9 +1360,9 @@ For example, given a file with the content “Hello world”, three read7() retu
 “Hello w”, “orld” and then “”.
 
 ## Problem-83:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Invert a binary tree.
 
@@ -1385,9 +1385,9 @@ should become:
 
 
 ## Problem-84:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a matrix of 1s and 0s, return the number of "islands" in the matrix. A 1
 represents land and 0 represents water, so an island is a group of 1s that are
@@ -1404,17 +1404,17 @@ For example, this matrix has 4 islands.
 
 
 ## Problem-85:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0,
 using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
 ## Problem-86:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a string of parentheses, write a function to compute the minimum number of
 parentheses to be removed to make the string valid (i.e. each open parenthesis
@@ -1424,9 +1424,9 @@ For example, given the string "()())()", you should return 1. Given the string
 ")(", you should return 2, since we must remove all of them.
 
 ## Problem-87:waxing_crescent_moon:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 A rule looks like this:
 
@@ -1454,18 +1454,18 @@ A N B
 is considered valid.
 
 ## Problem-88:waxing_crescent_moon:
-> 
 
-This question was asked by ContextLogic.
+
+> This question was asked by ContextLogic.
 
 Implement division of two positive integers without using the division,
 multiplication, or modulus operators. Return the quotient as an integer,
 ignoring the remainder.
 
 ## Problem-89:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 Determine whether a tree is a valid binary search tree.
 
@@ -1474,17 +1474,17 @@ the constraint that the key in the left child must be less than or equal to the
 root and the key in the right child must be greater than or equal to the root.
 
 ## Problem-90:waxing_crescent_moon:
-> 
 
-This question was asked by Google.
+
+> This question was asked by Google.
 
 Given an integer n and a list of integers l, write a function that randomly
 generates a number from 0 to n-1 that isn't in l (uniform).
 
 ## Problem-91:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 What does the below code snippet print out? How can we fix the anonymous
 functions to behave as we'd expect?
@@ -1498,9 +1498,9 @@ for f in functions:
 
 
 ## Problem-92:waxing_crescent_moon:
-> 
 
-This problem was asked by Airbnb.
+
+> This problem was asked by Airbnb.
 
 We're given a hashmap with a key courseId and value a list of courseIds, which
 represents that the prerequsite of courseId is courseIds. Return a sorted
@@ -1512,27 +1512,27 @@ For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'],
 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
 ## Problem-93:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
 ## Problem-94:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a binary tree of integers, find the maximum path sum between two nodes.
 The path must go through at least one node, and does not need to go through the
 root.
 
 ## Problem-95:waxing_crescent_moon:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 Given a number represented by a list of digits, find the next greater
 permutation of a number, in terms of lexicographic ordering. If there is not
@@ -1546,9 +1546,9 @@ Can you perform the operation without allocating extra memory (disregarding the
 input memory)?
 
 ## Problem-96:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given a number in the form of a list of digits, return all possible
 permutations.
@@ -1557,9 +1557,9 @@ For example, given [1,2,3], return
 [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]].
 
 ## Problem-97:waxing_crescent_moon:
-> 
 
-This problem was asked by Stripe.
+
+> This problem was asked by Stripe.
 
 Write a map implementation with a get function that lets you retrieve the value
 of a key at a particular time.
@@ -1593,9 +1593,9 @@ d.get(1, 0) # get key 1 at time 0 should be 2
 
 
 ## Problem-98:waxing_crescent_moon:
-> 
 
-This problem was asked by Coursera.
+
+> This problem was asked by Coursera.
 
 Given a 2D board of characters and a word, find if the word exists in the grid.
 
@@ -1616,9 +1616,9 @@ exists(board, "ABCCED") returns true,exists(board, "SEE") returns true,
 exists(board, "ABCB") returns false.
 
 ## Problem-99:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given an unsorted array of integers, find the length of the longest consecutive
 elements sequence.
@@ -1629,9 +1629,9 @@ sequence is [1, 2, 3, 4]. Return its length: 4.
 Your algorithm should run in O(n) complexity.
 
 ## Problem-100:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are in an infinite 2D grid where you can move in any of the 8 directions:
 
@@ -1660,9 +1660,9 @@ It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move
 from (1, 1) to (1, 2).
 
 ## Problem-101:waxing_crescent_moon:
-> 
 
-This problem was asked by Alibaba.
+
+> This problem was asked by Alibaba.
 
 Given an even number (greater than 2), return two prime numbers whose sum will
 be equal to the given number.
@@ -1688,9 +1688,9 @@ d, then
 If a < c OR a==c AND b < d.
 
 ## Problem-102:waxing_crescent_moon:
-> 
 
-This problem was asked by Lyft.
+
+> This problem was asked by Lyft.
 
 Given a list of integers and a number K, return which contiguous elements of the
 list sum to K.
@@ -1699,9 +1699,9 @@ For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return
 [2, 3, 4].
 
 ## Problem-103:waxing_crescent_moon:
-> 
 
-This problem was asked by Square.
+
+> This problem was asked by Square.
 
 Given a string and a set of characters, return the shortest substring containing
 all the characters in the set.
@@ -1712,9 +1712,9 @@ you should return "aeci".
 If there is no substring containing all the characters in the set, return null.
 
 ## Problem-104:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Determine whether a doubly linked list is a palindrome. What if it’s singly
 linked?
@@ -1722,9 +1722,9 @@ linked?
 For example, 1 -> 4 -> 3 -> 4 -> 1 returns true while 1 -> 4 returns false.
 
 ## Problem-105:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a function f, and N return a debounced f of N milliseconds.
 
@@ -1732,9 +1732,9 @@ That is, as long as the debounced f continues to be invoked, f itself will not
 be called for N milliseconds.
 
 ## Problem-106:waxing_crescent_moon:
-> 
 
-This problem was asked by Pinterest.
+
+> This problem was asked by Pinterest.
 
 Given an integer list where each number represents the number of hops you can
 make, determine whether you can reach to the last index starting at index 0.
@@ -1742,9 +1742,9 @@ make, determine whether you can reach to the last index starting at index 0.
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
 ## Problem-107:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Print the nodes in a binary tree level-wise. For example, the following should
 print 1, 2, 3, 4, 5.
@@ -1757,9 +1757,9 @@ print 1, 2, 3, 4, 5.
 
 
 ## Problem-108:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given two strings A and B, return whether or not A can be shifted some number of
 times to get B.
@@ -1768,9 +1768,9 @@ For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb
 , return false.
 
 ## Problem-109:waxing_crescent_moon:
-> 
 
-This problem was asked by Cisco.
+
+> This problem was asked by Cisco.
 
 Given an unsigned 8-bit integer, swap its even and odd bits. The 1st and 2nd bit
 should be swapped, the 3rd and 4th bit should be swapped, and so on.
@@ -1780,9 +1780,9 @@ For example, 10101010 should be 01010101. 11100010 should be 11010001.
 Bonus: Can you do this in one line?
 
 ## Problem-110:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a binary tree, return all paths from the root to leaves.
 
@@ -1798,9 +1798,9 @@ For example, given the tree
 it should return [[1, 2], [1, 3, 4], [1, 3, 5]].
 
 ## Problem-111:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a word W and a string S, find all starting indices in S which are anagrams
 of W.
@@ -1808,9 +1808,9 @@ of W.
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
 ## Problem-112:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in
 the tree. Assume that each node in the tree also has a pointer to its parent.
@@ -1822,9 +1822,9 @@ both v and w as descendants (where we allow a node to be a descendant of
 itself).”
 
 ## Problem-113:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a string of words delimited by spaces, reverse the words in string. For
 example, given "hello world here", return "here world hello"
@@ -1833,9 +1833,9 @@ Follow-up: given a mutable string representation, can you perform this operation
 in-place?
 
 ## Problem-114:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a string and a set of delimiters, reverse the words in the string while
 maintaining the relative order of the delimiters. For example, given
@@ -1845,9 +1845,9 @@ Follow-up: Does your solution work for the following cases: "hello/world:here/",
 "hello//world:here"
 
 ## Problem-115:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given two non-empty binary trees s and t, check whether tree t has exactly the
 same structure and node values with a subtree of s. A subtree of s is a tree
@@ -1855,25 +1855,25 @@ consists of a node in s and all of this node's descendants. The tree s could
 also be considered as a subtree of itself.
 
 ## Problem-116:waxing_crescent_moon:
-> 
 
-This problem was asked by Jane Street.
+
+> This problem was asked by Jane Street.
 
 Generate a finite, but an arbitrarily large binary tree quickly in O(1).
 
 That is, generate() should return a tree whose size is unbounded but finite.
 
 ## Problem-117:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a binary tree, return the level of the tree with minimum sum.
 
 ## Problem-118:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a sorted list of integers, square the elements and give the output in
 sorted order.
@@ -1881,9 +1881,9 @@ sorted order.
 For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
 
 ## Problem-119:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a set of closed intervals, find the smallest set of numbers that covers
 all the intervals. If there are multiple smallest sets, return any of them.
@@ -1892,9 +1892,9 @@ For example, given the intervals [0, 3], [2, 6], [3, 4], [6, 9], one set of
 numbers that covers all these intervals is {3, 6}.
 
 ## Problem-120:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Implement the singleton pattern with a twist. First, instead of storing one
 instance, store two instances. And in every even call of getInstance(), return
@@ -1902,9 +1902,9 @@ the first instance and in every odd call of getInstance(), return the second
 instance.
 
 ## Problem-121:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a string which we can delete at most k, return whether you can make a
 palindrome.
@@ -1913,9 +1913,9 @@ For example, given 'waterrfetawx' and a k of 2, you could delete f and x to get
 'waterretaw'.
 
 ## Problem-122:waxing_crescent_moon:
-> 
 
-This question was asked by Zillow.
+
+> This question was asked by Zillow.
 
 You are given a 2-d matrix where each cell represents number of coins in that
 cell. Assuming we start at matrix[0][0], and can only move right or down, find
@@ -1931,9 +1931,9 @@ For example, in this matrix
 The most we can collect is 0 + 2 + 1 + 5 + 3 + 1 = 12 coins.
 
 ## Problem-123:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 Given a string, return whether it represents a number. Here are the different
 kinds of numbers:
@@ -1952,9 +1952,9 @@ And here are examples of non-numbers:
  * "-"
 
 ## Problem-124:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 You have 100 fair coins and you flip them all at the same time. Any that come up
 tails you set aside. The ones that come up heads you flip again. How many rounds
@@ -1964,9 +1964,9 @@ Write a function that, given n, returns the number of rounds you'd expect to
 play until one coin remains.
 
 ## Problem-125:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the root of a binary search tree, and a target K, return two nodes in the
 tree whose sum equals K.
@@ -1983,18 +1983,18 @@ For example, given the following tree and K of 20
 Return the nodes 5 and 15.
 
 ## Problem-126:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5,
 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating
 a copy of the list. How many swap or move operations do you need?
 
 ## Problem-127:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Let's represent an integer in a linked list format by having each node represent
 a digit in the number. The nodes make up the number in reversed order.
@@ -2023,7 +2023,7 @@ return 124 (99 + 25) as:
 
 
 ## Problem-128:waxing_crescent_moon:
-> 
+
 
 The Tower of Hanoi is a puzzle game with three rods and n disks, each a
 different size.
@@ -2055,15 +2055,15 @@ Move 1 to 3
 
 
 ## Problem-129:waxing_crescent_moon:
-> 
+
 
 Given a real number n, find the square root of n. For example, given n = 9,
 return 3.
 
 ## Problem-130:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an array of numbers representing the stock prices of a company in
 chronological order and an integer k, return the maximum profit you can make
@@ -2073,17 +2073,17 @@ must sell the stock before you can buy it again.
 For example, given k = 2 and the array [5, 2, 4, 0, 1], you should return 3.
 
 ## Problem-131:waxing_crescent_moon:
-> 
 
-This question was asked by Snapchat.
+
+> This question was asked by Snapchat.
 
 Given the head to a singly linked list, where each node also has a “random”
 pointer that points to anywhere in the linked list, deep clone the list.
 
 ## Problem-132:waxing_crescent_moon:
-> 
 
-This question was asked by Riot Games.
+
+> This question was asked by Riot Games.
 
 Design and implement a HitCounter class that keeps track of requests (or hits).
 It should support the following operations:
@@ -2096,9 +2096,9 @@ It should support the following operations:
 Follow-up: What if our system has limited memory?
 
 ## Problem-133:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a node in a binary tree, return the next bigger element, also known as the
 inorder successor.
@@ -2115,9 +2115,9 @@ For example, the inorder successor of 22 is 30.
 You can assume each node has a parent pointer.
 
 ## Problem-134:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 You have a large array with most of the elements as zero.
 
@@ -2129,9 +2129,9 @@ interface:
  * get(i): gets the value at index i.
 
 ## Problem-135:waxing_crescent_moon:
-> 
 
-This question was asked by Apple.
+
+> This question was asked by Apple.
 
 Given a binary tree, find a minimum path sum from root to a leaf.
 
@@ -2147,9 +2147,9 @@ For example, the minimum path in this tree is [10, 5, 1, -1], which has sum 15.
 
 
 ## Problem-136:waxing_crescent_moon:
-> 
 
-This question was asked by Google.
+
+> This question was asked by Google.
 
 Given an N by M matrix consisting only of 1's and 0's, find the largest
 rectangle containing only 1's and return its area.
@@ -2165,9 +2165,9 @@ For example, given the following matrix:
 Return 4.
 
 ## Problem-137:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Implement a bit array.
 
@@ -2179,9 +2179,9 @@ index.
  * get(i): gets the value at index i.
 
 ## Problem-138:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Find the minimum number of coins required to make n cents.
 
@@ -2191,9 +2191,9 @@ For example, given n = 16, return 3 since we can make it with a 10¢, a 5¢, and
 1¢.
 
 ## Problem-139:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an iterator with methods next() and hasNext(), create a wrapper iterator, 
 PeekableInterface, which also implements peek(). peek shows the next element
@@ -2216,9 +2216,9 @@ class PeekableInterface(object):
 
 
 ## Problem-140:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an array of integers in which two elements appear exactly once and all
 other elements appear exactly twice, find the two elements that appear only
@@ -2230,9 +2230,9 @@ order does not matter.
 Follow-up: Can you do this in linear time and constant space?
 
 ## Problem-141:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Implement 3 stacks using a single list:
 
@@ -2248,9 +2248,9 @@ class Stack:
 
 
 ## Problem-142:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You're given a string consisting solely of (, ), and *. * can represent either a 
 (, ), or an empty string. Determine whether the parentheses are balanced.
@@ -2258,9 +2258,9 @@ You're given a string consisting solely of (, ), and *. * can represent either a
 For example, (()* and (*) are balanced. )*( is not balanced.
 
 ## Problem-143:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a pivot x, and a list lst, partition the list into three parts.
 
@@ -2274,9 +2274,9 @@ For example, given x = 10 and lst = [9, 12, 3, 5, 14, 10, 10], one partition may
 be `[9, 3, 5, 10, 10, 12, 14].
 
 ## Problem-144:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of numbers and an index i, return the index of the nearest larger
 number of the number at index i, where distance is measured in array indices.
@@ -2289,9 +2289,9 @@ If the array at i doesn't have a nearest larger integer, then return null.
 Follow-up: If you can preprocess the array, can you do this in constant time?
 
 ## Problem-145:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the head of a singly linked list, swap every two nodes and return its
 head.
@@ -2299,9 +2299,9 @@ head.
 For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
 
 ## Problem-146:waxing_crescent_moon:
-> 
 
-This question was asked by BufferBox.
+
+> This question was asked by BufferBox.
 
 Given a binary tree where all nodes are either 0 or 1, prune the tree so that
 subtrees containing all 0s are removed.
@@ -2330,15 +2330,15 @@ We do not remove the tree at the root or its left child because it still has a 1
 as a descendant.
 
 ## Problem-147:waxing_crescent_moon:
-> 
+
 
 Given a list, sort it using this method: reverse(lst, i, j), which sorts lst 
 from i to j`.
 
 ## Problem-148:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Gray code [https://en.wikipedia.org/wiki/Gray_code] is a binary code where each
 successive value differ in only one bit, as well as when wrapping around. Gray
@@ -2350,9 +2350,9 @@ Given a number of bits n, generate a possible gray code for it.
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
 ## Problem-148:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Gray code [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwazm5j8luycj3n89fhYoThV3RxoDsfQMxS-2BUGiGG5Ry-2F_2pTQ-2Bc3clF-2BjL9RdpDRywyk03GrQi3QeazuszaWzx0gZWh7-2B6yudE-2B-2BG8yJNJ6Fy92YLfByeuMvTQUabC-2Fqcb01AYS1YAiCib7YCB4-2FAizNYPph567bmQv1AXyqAa-2F-2BwA5P6IIoZkvnML-2F4hD7vrpN0lxBnCTyIjFfRj-2BlS9-2Bws31lVVhXV-2F-2B8meHdziltlawnVIjYoS1v0KbFzwo-2FzJFb84SaRLCiVNazz-2BDcWeMoA-3D] is a binary code where each
 successive value differ in only one bit, as well as when wrapping around. Gray
@@ -2364,9 +2364,9 @@ Given a number of bits n, generate a possible gray code for it.
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
 ## Problem-149:waxing_crescent_moon:
-> 
 
-This problem was asked by Goldman Sachs.
+
+> This problem was asked by Goldman Sachs.
 
 Given a list of numbers L, implement a method sum(i, j) which returns the sum
 from the sublist L[i:j] (including i, excluding j).
@@ -2378,9 +2378,9 @@ You can assume that you can do some pre-processing. sum() should be optimized
 over the pre-processing step.
 
 ## Problem-150:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 Given a list of points, a central point, and an integer k, find the nearest k 
 points from the central point.
@@ -2389,7 +2389,7 @@ For example, given the list of points [(0, 0), (5, 4), (3, 1)], the central
 point (1, 2), and k = 2, return[(0, 0), (3, 1)].
 
 ## Problem-151:waxing_crescent_moon:
-> 
+
 
 Given a 2-D matrix representing an image, a location of a pixel in the screen
 and a color C, replace the color of the given pixel and all adjacent same
@@ -2413,9 +2413,9 @@ B B B
 
 
 ## Problem-152:waxing_crescent_moon:
-> 
 
-This problem was asked by Triplebyte.
+
+> This problem was asked by Triplebyte.
 
 You are given n numbers as well as n probabilities that sum up to 1. Write a
 function to generate one of the numbers with its corresponding probability.
@@ -2427,7 +2427,7 @@ and 4 20% of the time.
 You can generate random numbers between 0 and 1 uniformly.
 
 ## Problem-153:waxing_crescent_moon:
-> 
+
 
 Find an efficient algorithm to find the smallest distance (measured in number of
 words) between any two given words in a string.
@@ -2437,9 +2437,9 @@ hello cat dog dog hello cat world", return 1 because there's only one word "cat"
 in between the two words.
 
 ## Problem-154:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Implement a stack API using only a heap. A stack implements the following
 methods:
@@ -2454,9 +2454,9 @@ Recall that a heap has the following operations:
  * pop(), which removes and returns the max value of the heap
 
 ## Problem-155:waxing_crescent_moon:
-> 
 
-This problem was asked by MongoDB.
+
+> This problem was asked by MongoDB.
 
 Given a list of elements, find the majority element, which appears more than
 half the time (> floor(len(lst) / 2.0)).
@@ -2466,9 +2466,9 @@ You can assume that such element exists.
 For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
 ## Problem-156:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a positive integer n, find the smallest number of squared integers which
 sum to n.
@@ -2478,9 +2478,9 @@ For example, given n = 13, return 2 since 13 = 32 + 22 = 9 + 4.
 Given n = 27, return 3 since 27 = 32 + 32 + 32 = 9 + 9 + 9.
 
 ## Problem-157:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a string, determine whether any permutation of it is a palindrome.
 
@@ -2489,9 +2489,9 @@ racecar, which is a palindrome. daily should return false, since there's no
 rearrangement that can form a palindrome.
 
 ## Problem-158:waxing_crescent_moon:
-> 
 
-This problem was asked by Slack.
+
+> This problem was asked by Slack.
 
 You are given an N by M matrix of 0s and 1s. Starting from the top left corner,
 how many ways are there to reach the bottom right corner?
@@ -2514,9 +2514,9 @@ Return two, as there are only two ways to get to the bottom right:
 The top left corner and bottom right corner will always be 0.
 
 ## Problem-159:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a string, return the first recurring character in it, or null if there is
 no recurring character.
@@ -2525,9 +2525,9 @@ For example, given the string "acbbac", return "b". Given the string "abcdef",
 return null.
 
 ## Problem-160:waxing_crescent_moon:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 Given a tree where each edge has a weight, compute the length of the longest
 path in the tree.
@@ -2550,9 +2550,9 @@ The path does not have to pass through the root, and each node can have any
 amount of children.
 
 ## Problem-161:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a 32-bit integer, return the number with its bits reversed.
 
@@ -2560,9 +2560,9 @@ For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000,
 return 0000 1111 0000 1111 0000 1111 0000 1111.
 
 ## Problem-162:waxing_crescent_moon:
-> 
 
-This problem was asked by Square.
+
+> This problem was asked by Square.
 
 Given a list of words, return the shortest unique prefix of each word. For
 example, given the list:
@@ -2582,9 +2582,9 @@ Return the list:
  * f
 
 ## Problem-163:waxing_crescent_moon:
-> 
 
-This problem was asked by Jane Street.
+
+> This problem was asked by Jane Street.
 
 Given an arithmetic expression in Reverse Polish Notation
 [https://en.wikipedia.org/wiki/Reverse_Polish_notation], write a program to
@@ -2600,18 +2600,18 @@ return 5, since it is equivalent to ((15 / (7 - (1 + 1))) * 3) - (2 + (1 + 1)) =
 You can assume the given expression is always valid.
 
 ## Problem-164:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given an array of length n + 1 whose elements belong to the set {1, 2,
 ..., n}. By the pigeonhole principle, there must be a duplicate. Find it in
 linear time and space.
 
 ## Problem-165:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of integers, return a new array where each element in the new
 array is the number of smaller elements to the right of that element in the
@@ -2626,9 +2626,9 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
  * There are no smaller elements to the right of 1
 
 ## Problem-166:waxing_crescent_moon:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 Implement a 2D iterator class. It will be initialized with an array of arrays,
 and should implement the following methods:
@@ -2644,9 +2644,9 @@ Do not use flatten or otherwise clone the arrays. Some of the arrays can be
 empty.
 
 ## Problem-167:waxing_crescent_moon:
-> 
 
-This problem was asked by Airbnb.
+
+> This problem was asked by Airbnb.
 
 Given a list of words, find all pairs of unique indices such that the
 concatenation of the two words is a palindrome.
@@ -2655,9 +2655,9 @@ For example, given the list ["code", "edoc", "da", "d"], return [(0, 1), (1, 0),
 (2, 3)].
 
 ## Problem-168:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an N by N matrix, rotate it by 90 degrees clockwise.
 
@@ -2678,9 +2678,9 @@ you should return:
 Follow-up: What if you couldn't use any extra space?
 
 ## Problem-169:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a linked list, sort it in O(n log n) time and constant space.
 
@@ -2688,9 +2688,9 @@ For example, the linked list 4 -> 1 -> -3 -> 99 should become -3 -> 1 -> 4 -> 99
 .
 
 ## Problem-170:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a start word, an end word, and a dictionary of valid words, find the
 shortest transformation sequence from start to end such that only one letter is
@@ -2705,9 +2705,9 @@ Given start = "dog", end = "cat", and dictionary = {"dot", "tod", "dat", "dar"},
 return null as there is no possible transformation from dog to cat.
 
 ## Problem-171:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 You are given a list of data entries that represent entries and exits of groups
 of people into a building. An entry looks like this:
@@ -2726,9 +2726,9 @@ in the building. Return it as a pair of (start, end) timestamps. You can assume
 the building always starts off and ends up empty, i.e. with 0 people inside.
 
 ## Problem-172:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Given a string s and a list of words words, where each word is the same length,
 find all starting indices of substrings in sthat is a concatenation of every
@@ -2743,9 +2743,9 @@ are no substrings composed of "dog" and "cat" in s.
 The order of the indices does not matter.
 
 ## Problem-173:waxing_crescent_moon:
-> 
 
-This problem was asked by Stripe.
+
+> This problem was asked by Stripe.
 
 Write a function to flatten a nested dictionary. Namespace the keys with a
 period.
@@ -2775,9 +2775,9 @@ it should become:
 You can assume keys do not contain dots in them, i.e. no clobbering will occur.
 
 ## Problem-174:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Describe and give an example of each of the following types of polymorphism:
 
@@ -2786,9 +2786,9 @@ Describe and give an example of each of the following types of polymorphism:
  * Subtype polymorphism
 
 ## Problem-175:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given a starting state start, a list of transition probabilities for a
 Markov chain, and a number of steps num_steps. Run the Markov chain starting
@@ -2814,9 +2814,9 @@ One instance of running this Markov chain might produce { 'a': 3012, 'b': 1656,
 'c': 332 }.
 
 ## Problem-176:waxing_crescent_moon:
-> 
 
-This problem was asked by Bloomberg.
+
+> This problem was asked by Bloomberg.
 
 Determine whether there exists a one-to-one character mapping from one string s1 
 to another s2.
@@ -2828,9 +2828,9 @@ Given s1 = foo and s2 = bar, return false since the o cannot map to two
 characters.
 
 ## Problem-177:waxing_crescent_moon:
-> 
 
-This problem was asked by Airbnb.
+
+> This problem was asked by Airbnb.
 
 Given a linked list and a positive integer k, rotate the list to the right by k 
 places.
@@ -2842,9 +2842,9 @@ Given the linked list 1 -> 2 -> 3 -> 4 -> 5 and k = 3, it should become 3 -> 4
 -> 5 -> 1 -> 2.
 
 ## Problem-178:waxing_crescent_moon:
-> 
 
-This problem was asked by Two Sigma.
+
+> This problem was asked by Two Sigma.
 
 Alice wants to join her school's Probability Student Club. Membership dues are
 computed via one of two simple probabilistic games.
@@ -2859,9 +2859,9 @@ Which of the two games should Alice elect to play? Does it even matter? Write a
 program to simulate the two games and calculate their expected value.
 
 ## Problem-179:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given the sequence of keys visited by a postorder traversal of a binary search
 tree, reconstruct the tree.
@@ -2877,9 +2877,9 @@ following tree:
 
 
 ## Problem-180:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a stack of N elements, interleave the first half of the stack with the
 second half reversed using only one other queue. This should be done in-place.
@@ -2893,9 +2893,9 @@ If the stack is [1, 2, 3, 4], it should become [1, 4, 2, 3].
 Hint: Try working backwards from the end state.
 
 ## Problem-181:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a string, split it into as few strings as possible such that each string
 is a palindrome.
@@ -2906,9 +2906,9 @@ For example, given the input string racecarannakayak, return ["racecar", "anna",
 Given the input string abc, return ["a", "b", "c"].
 
 ## Problem-182:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 A graph is minimally-connected if it is connected and there is no edge that can
 be removed while still leaving the graph connected. For example, any binary tree
@@ -2918,25 +2918,25 @@ Given an undirected graph, check if the graph is minimally-connected. You can
 choose to represent the graph as either an adjacency matrix or adjacency list.
 
 ## Problem-183:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitch.
+
+> This problem was asked by Twitch.
 
 Describe what happens when you type a URL into your browser and press Enter.
 
 ## Problem-184:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given n numbers, find the greatest common denominator between them.
 
 For example, given the numbers [42, 56, 14], return 14.
 
 ## Problem-185:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given two rectangles on a 2D graph, return the area of their intersection. If
 the rectangles don't intersect, return 0.
@@ -2960,9 +2960,9 @@ and
 return 6.
 
 ## Problem-186:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given an array of positive integers, divide the array into two subsets such that
 the difference between the sum of the subsets is as small as possible.
@@ -2971,9 +2971,9 @@ For example, given [5, 10, 15, 20, 25], return the sets {10, 25} and {5, 15, 20}
 , which has a difference of 5, which is the smallest possible difference.
 
 ## Problem-187:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given given a list of rectangles represented by min and max x- and
 y-coordinates. Compute whether or not a pair of rectangles overlap each other.
@@ -2998,9 +2998,9 @@ For example, given the following rectangles:
 return true as the first and third rectangle overlap each other.
 
 ## Problem-188:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 What will this code print out?
 
@@ -3022,9 +3022,9 @@ for f in functions:
 How can we make it print out what we apparently want?
 
 ## Problem-189:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given an array of elements, return the length of the longest subarray where all
 its elements are distinct.
@@ -3033,9 +3033,9 @@ For example, given the array [5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest
 subarray of distinct elements is [5, 2, 3, 4, 1].
 
 ## Problem-190:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a circular array, compute its maximum subarray sum in O(n) time.
 
@@ -3045,9 +3045,9 @@ where the 8 is obtained from wrapping around.
 Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
 
 ## Problem-191:waxing_crescent_moon:
-> 
 
-This problem was asked by Stripe.
+
+> This problem was asked by Stripe.
 
 Given a collection of intervals, find the minimum number of intervals you need
 to remove to make the rest of the intervals non-overlapping.
@@ -3061,9 +3061,9 @@ interval can be removed and the first two won't overlap.
 The intervals are not necessarily sorted in any order.
 
 ## Problem-192:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given an array of nonnegative integers. Let's say you start at the
 beginning of the array and are trying to advance to the end. You can advance at
@@ -3076,9 +3076,9 @@ For example, given the array [1, 3, 1, 2, 0, 1], we can go from indices 0 -> 1
 Given the array [1, 2, 1, 0, 0], we can't reach the end, so return false.
 
 ## Problem-193:waxing_crescent_moon:
-> 
 
-This problem was asked by Affirm.
+
+> This problem was asked by Affirm.
 
 Given a array of numbers representing the stock prices of a company in
 chronological order, write a function that calculates the maximum profit you
@@ -3094,9 +3094,9 @@ dollars and sell it at 10 dollars. Since we did two transactions, there is a 4
 dollar fee, so we have 7 + 6 = 13 profit minus 4 dollars of fees.
 
 ## Problem-194:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Suppose you are given two lists of n points, one list p1, p2, ..., pnon the line
 y = 0 and the other list q1, q2, ..., qn on the line y = 1. Imagine a set of n 
@@ -3104,9 +3104,9 @@ line segments connecting each point pi to qi. Write an algorithm to determine
 how many pairs of the line segments intersect.
 
 ## Problem-195:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Let A be an N by M matrix in which every row and every column is sorted.
 
@@ -3126,9 +3126,9 @@ And i1 = 1, j1 = 1, i2 = 3, j2 = 3, return 15 as there are 15 numbers in the
 matrix smaller than 6 or greater than 23.
 
 ## Problem-196:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Given the root of a binary tree, find the most frequent subtree sum. The subtree
 sum of a node is the sum of all values under a node, including the node itself.
@@ -3144,17 +3144,17 @@ Return 2 as it occurs twice: once as the left leaf, and once as the sum of 2 + 5
 - 5.
 
 ## Problem-197:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given an array and a number k that's smaller than the length of the array,
 rotate the array to the right k elements in-place.
 
 ## Problem-198:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Given a set of distinct positive integers, find the largest subset such that
 every pair of elements in the subset (i, j) satisfies either i % j = 0 or j % i
@@ -3164,9 +3164,9 @@ For example, given the set [3, 5, 10, 20, 21], you should return [5, 10, 20].
 Given [1, 3, 6, 24], return [1, 3, 6, 24].
 
 ## Problem-199:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a string of parentheses, find the balanced string that can be produced
 from it using the minimum number of insertions and deletions. If there are
@@ -3176,9 +3176,9 @@ For example, given "(()", you could return "(())". Given "))()(", you could
 return "()()()()".
 
 ## Problem-200:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Let X be a set of n intervals on the real line. We say that a set of points P
 "stabs" X if every interval in X contains at least one point in P. Compute the
@@ -3188,9 +3188,9 @@ For example, given the intervals [(1, 4), (4, 5), (7, 9), (9, 12)], you should
 return [4, 9].
 
 ## Problem-201:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 You are given an array of arrays of integers, where each array corresponds to a
 row in a triangle of numbers. For example, [[1], [2, 3], [1, 5, 1]] represents
@@ -3208,18 +3208,18 @@ For example, 1 -> 3 -> 5. The weight of the path is the sum of the entries.
 Write a program that returns the weight of the maximum weight path.
 
 ## Problem-202:waxing_crescent_moon:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 Write a program that checks whether an integer is a palindrome. For example, 121 
 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the
 integer into a string.
 
 ## Problem-203:waxing_crescent_moon:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to
 you beforehand. Find the minimum element in O(log N) time. You may assume the
@@ -3228,26 +3228,26 @@ array does not contain duplicates.
 For example, given [5, 7, 10, 3, 4], return 3.
 
 ## Problem-204:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a complete binary tree, count the number of nodes in faster than O(n)
 time. Recall that a complete binary tree has every level filled except the last,
 and the nodes in the last level are filled starting from the left.
 
 ## Problem-205:waxing_crescent_moon:
-> 
 
-This problem was asked by IBM.
+
+> This problem was asked by IBM.
 
 Given an integer, find the next permutation of it in absolute order. For
 example, given 48975, the next permutation would be 49578.
 
 ## Problem-206:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 A permutation can be specified by an array P, where P[i] represents the location
 of the element at i in the permutation. For example, [2, 1, 0] represents the
@@ -3258,18 +3258,18 @@ example, given the array ["a", "b", "c"] and the permutation [2, 1, 0], return
 ["c", "b", "a"].
 
 ## Problem-207:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Given an undirected graph G, check whether it is bipartite. Recall that a graph
 is bipartite if its vertices can be divided into two independent sets, U and V,
 such that no edge connects vertices of the same set.
 
 ## Problem-208:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 Given a linked list of numbers and a pivot k, partition the linked list so that
 all nodes less than k come before nodes greater than or equal to k. 
@@ -3278,9 +3278,9 @@ For example, given the linked list 5 -> 1 -> 8 -> 0 -> 3 and k = 3, the solution
 could be 1 -> 0 -> 5 -> 8 -> 3.
 
 ## Problem-209:waxing_crescent_moon:
-> 
 
-This problem was asked by YouTube.
+
+> This problem was asked by YouTube.
 
 Write a program that computes the length of the longest common subsequence of
 three given strings. For example, given "epidemiologist", "refrigeration", and
@@ -3288,9 +3288,9 @@ three given strings. For example, given "epidemiologist", "refrigeration", and
 common subsequence is "eieio".
 
 ## Problem-210:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 A Collatz sequence in mathematics can be defined as follows. Starting with any
 positive integer:
@@ -3304,18 +3304,18 @@ this conjecture.
 Bonus: What input n <= 1000000 gives the longest sequence?
 
 ## Problem-211:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Given a string and a pattern, find the starting indices of all occurrences of
 the pattern in the string. For example, given the string "abracadabra" and the
 pattern "abr", you should return [0, 7].
 
 ## Problem-212:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Spreadsheets often use this alphabetical encoding for its columns: "A", "B",
 "C", ..., "AA", "AB", ..., "ZZ", "AAA", "AAB", ....
@@ -3324,9 +3324,9 @@ Given a column number, return its alphabetical column id. For example, given 1,
 return "A". Given 27, return "AA".
 
 ## Problem-213:waxing_crescent_moon:
-> 
 
-This problem was asked by Snapchat.
+
+> This problem was asked by Snapchat.
 
 Given a string of digits, generate all possible valid IP address combinations.
 
@@ -3338,9 +3338,9 @@ For example, given "2542540123", you should return ['254.25.40.123',
 '254.254.0.123'].
 
 ## Problem-214:waxing_crescent_moon:
-> 
 
-This problem was asked by Stripe.
+
+> This problem was asked by Stripe.
 
 Given an integer n, return the length of the longest consecutive run of 1s in
 its binary representation.
@@ -3348,9 +3348,9 @@ its binary representation.
 For example, given 156, you should return 3.
 
 ## Problem-215:waxing_crescent_moon:
-> 
 
-This problem was asked by Yelp.
+
+> This problem was asked by Yelp.
 
 The horizontal distance of a binary tree node describes how far left or right
 the node will be when the tree is printed out.
@@ -3381,9 +3381,9 @@ For this tree, for example, the bottom view could be [0, 1, 3, 6, 8, 9].
 Given the root to a binary tree, return its bottom view.
 
 ## Problem-216:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a number in Roman numeral [https://en.wikipedia.org/wiki/Roman_numerals] 
 format, convert it to decimal.
@@ -3408,9 +3408,9 @@ XL.
 For the input XIV, for instance, you should return 14.
 
 ## Problem-217:waxing_crescent_moon:
-> 
 
-This problem was asked by Oracle.
+
+> This problem was asked by Oracle.
 
 We say a number is sparse if there are no adjacent ones in its binary
 representation. For example, 21 (10101) is sparse, but 22 (10110) is not. For a
@@ -3419,17 +3419,17 @@ given input N, find the smallest sparse number greater than or equal to N.
 Do this in faster than O(N log N) time.
 
 ## Problem-218:waxing_crescent_moon:
-> 
 
-This problem was asked by Yahoo.
+
+> This problem was asked by Yahoo.
 
 Write an algorithm that computes the reversal of a directed graph. For example,
 if a graph consists of A -> B -> C, it should become A <- B <- C.
 
 ## Problem-219:waxing_crescent_moon:
-> 
 
-This problem was asked by Salesforce.
+
+> This problem was asked by Salesforce.
 
 Connect 4 is a game where opponents take turns dropping red or black discs into
 a 7 x 6 vertically suspended grid. The game ends either when one player creates
@@ -3439,9 +3439,9 @@ diagonally), or when there are no more spots left in the grid.
 Design and implement Connect 4.
 
 ## Problem-220:waxing_crescent_moon:
-> 
 
-This problem was asked by Square.
+
+> This problem was asked by Square.
 
 In front of you is a row of N coins, with values v1, v1, ..., vn.
 
@@ -3453,18 +3453,18 @@ Write a program that returns the maximum amount of money you can win with
 certainty, if you move first, assuming your opponent plays optimally.
 
 ## Problem-221:waxing_crescent_moon:
-> 
 
-This problem was asked by Zillow.
+
+> This problem was asked by Zillow.
 
 Let's define a "sevenish" number to be one which is either a power of 7, or the
 sum of unique powers of 7. The first few sevenish numbers are 1, 7, 8, 49, and
 so on. Create an algorithm to find the nth sevenish number.
 
 ## Problem-222:waxing_crescent_moon:
-> 
 
-This problem was asked by Quora.
+
+> This problem was asked by Quora.
 
 Given an absolute pathname that may have . or .. as part of it, return the
 shortest standardized path.
@@ -3472,18 +3472,18 @@ shortest standardized path.
 For example, given "/usr/bin/../bin/./scripts/../", return "/usr/bin/".
 
 ## Problem-223:waxing_crescent_moon:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 Typically, an implementation of in-order traversal of a binary tree has O(h) 
 space complexity, where h is the height of the tree. Write a program to compute
 the in-order traversal of a binary tree using O(1) space.
 
 ## Problem-224:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given a sorted array, find the smallest positive integer that is not the sum of
 a subset of the array.
@@ -3493,9 +3493,9 @@ For example, for the input [1, 2, 3, 10], you should return 7.
 Do this in O(N) time.
 
 ## Problem-225:waxing_crescent_moon:
-> 
 
-This problem was asked by Bloomberg.
+
+> This problem was asked by Bloomberg.
 
 There are N prisoners standing in a circle, waiting to be executed. The
 executions are carried out starting with the kth person, and removing every
@@ -3510,9 +3510,9 @@ For example, if N = 5 and k = 2, the order of executions would be [2, 4, 1, 5,
 Bonus: Find an O(log N) solution if k = 2.
 
 ## Problem-226:waxing_crescent_moon:
-> 
 
-This problem was asked by Airbnb.
+
+> This problem was asked by Airbnb.
 
 You come across a dictionary of sorted words in a language you've never seen
 before. Write a program that returns the correct order of letters in this
@@ -3522,9 +3522,9 @@ For example, given ['xww', 'wxyz', 'wxyw', 'ywx', 'ywz'], you should return
 ['x', 'z', 'w', 'y'].
 
 ## Problem-227:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many
 words as possible that can be formed by a sequence of adjacent letters in the
@@ -3532,18 +3532,18 @@ grid, using each cell at most once. Given a game board and a dictionary of valid
 words, implement a Boggle solver.
 
 ## Problem-228:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 Given a list of numbers, create an algorithm that arranges them in order to form
 the largest possible integer. For example, given [10, 7, 76, 415], you should
 return 77641510.
 
 ## Problem-229:waxing_crescent_moon:
-> 
 
-This problem was asked by Flipkart.
+
+> This problem was asked by Flipkart.
 
 Snakes and Ladders [https://en.wikipedia.org/wiki/Snakes_and_Ladders] is a game
 played on a 10 x 10 board, the goal of which is get from square 1 to square 100.
@@ -3561,9 +3561,9 @@ ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
 
 
 ## Problem-230:waxing_crescent_moon:
-> 
 
-This problem was asked by Goldman Sachs.
+
+> This problem was asked by Goldman Sachs.
 
 You are given N identical eggs and access to a building with k floors. Your task
 is to find the lowest floor that will cause an egg to break, if dropped from
@@ -3579,9 +3579,9 @@ floor, beginning with the first, until we reach the fifth floor, so our solution
 will be 5.
 
 ## Problem-231:waxing_crescent_moon:
-> 
 
-This problem was asked by IBM.
+
+> This problem was asked by IBM.
 
 Given a string with repeated characters, rearrange the string so that no two
 adjacent characters are the same. If this is not possible, return None.
@@ -3590,9 +3590,9 @@ For example, given "aaabbc", you could return "ababac". Given "aaab", return
 None.
 
 ## Problem-232:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 Implement a PrefixMapSum class with the following methods:
 
@@ -3611,34 +3611,34 @@ assert mapsum.sum("col") == 5
 
 
 ## Problem-233:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 Implement the function fib(n), which returns the nth number in the Fibonacci
 sequence, using only O(1) space.
 
 ## Problem-234:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 Recall that the minimum spanning tree is the subset of edges of a tree that
 connect all its vertices with the smallest possible total edge weight. Given an
 undirected graph with weighted edges, compute the maximum weight spanning tree.
 
 ## Problem-235:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given an array of numbers of length N, find both the minimum and maximum using
 less than 2 * (N - 2) comparisons.
 
 ## Problem-236:waxing_crescent_moon:
-> 
 
-This problem was asked by Nvidia.
+
+> This problem was asked by Nvidia.
 
 You are given a list of N points (x1, y1), (x2, y2), ..., (xN, yN) representing
 a polygon. You can assume these points are given in order; that is, you can
@@ -3649,9 +3649,9 @@ Determine if a new point p lies inside this polygon. (If p is on the boundary of
 the polygon, you should return False).
 
 ## Problem-237:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 A tree is symmetric if its data and shape remain unchanged when it is reflected
 about the root node. The following tree is an example:
@@ -3666,9 +3666,9 @@ about the root node. The following tree is an example:
 Given a k-ary tree, determine whether it is symmetric.
 
 ## Problem-238:waxing_crescent_moon:
-> 
 
-This problem was asked by MIT.
+
+> This problem was asked by MIT.
 
 Blackjack [https://en.wikipedia.org/wiki/Blackjack] is a two player card game
 whose rules are as follows:
@@ -3687,9 +3687,9 @@ Given perfect knowledge of the sequence of cards in the deck, implement a
 blackjack solver that maximizes the player's score (that is, wins minus losses).
 
 ## Problem-239:waxing_crescent_moon:
-> 
 
-This problem was asked by Uber.
+
+> This problem was asked by Uber.
 
 One way to unlock an Android phone is through a pattern of swipes across a 1-9 
 keypad.
@@ -3705,9 +3705,9 @@ For example, 4 - 2 - 1 - 7 is a valid pattern, whereas 2 - 1 - 7 is not.
 Find the total number of valid unlock patterns of length N, where 1 <= N <= 9.
 
 ## Problem-240:waxing_crescent_moon:
-> 
 
-This problem was asked by Spotify.
+
+> This problem was asked by Spotify.
 
 There are N couples sitting in a row of length 2 * N. They are currently ordered
 randomly, but would like to rearrange themselves so that each couple's partners
@@ -3716,9 +3716,9 @@ can sit side by side.
 What is the minimum number of swaps necessary for this to happen?
 
 ## Problem-241:waxing_crescent_moon:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 In academia, the h-index is a metric used to calculate the impact of a
 researcher's papers. It is calculated as follows:
@@ -3733,9 +3733,9 @@ at least 3 citations.
 Given a list of paper citations of a researcher, calculate their h-index.
 
 ## Problem-242:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 You are given an array of length 24, where each element represents the number of
 new subscribers during the corresponding hour. Implement a data structure that
@@ -3749,9 +3749,9 @@ You can assume that all values get cleared at the end of the day, and that you
 will not be asked for start and end values that wrap around midnight.
 
 ## Problem-243:waxing_crescent_moon:
-> 
 
-This problem was asked by Etsy.
+
+> This problem was asked by Etsy.
 
 Given an array of numbers N and an integer k, your task is to split N into k 
 partitions such that the maximum sum of any partition is minimized. Return this
@@ -3761,9 +3761,9 @@ For example, given N = [5, 1, 2, 7, 3, 4] and k = 3, you should return 8, since
 the optimal partition is [5, 1, 2], [7], [3, 4].
 
 ## Problem-244:waxing_crescent_moon:
-> 
 
-This problem was asked by Square.
+
+> This problem was asked by Square.
 
 The Sieve of Eratosthenes is an algorithm used to generate all prime numbers
 smaller than N. The method is to take increasingly larger prime numbers, and
@@ -3780,9 +3780,9 @@ Bonus: Create a generator that produces primes indefinitely (that is, without
 taking N as an input).
 
 ## Problem-245:waxing_crescent_moon:
-> 
 
-This problem was asked by Yelp.
+
+> This problem was asked by Yelp.
 
 You are given an array of integers, where each element represents the maximum
 number of steps that can be jumped going forward from that element. Write a
@@ -3793,9 +3793,9 @@ For example, given [6, 2, 4, 0, 5, 1, 1, 4, 2, 9], you should return 2, as the
 optimal solution involves jumping from 6 to 5, and then from 5 to 9.
 
 ## Problem-246:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Given a list of words, determine whether the words can be chained to form a
 circle. A word X can be placed in front of another word Y in a circle if the
@@ -3805,33 +3805,33 @@ For example, the words ['chair', 'height', 'racket', touch', 'tunic'] can form
 the following circle: chair --> racket --> touch --> height --> tunic --> chair.
 
 ## Problem-247:waxing_crescent_moon:
-> 
 
-This problem was asked by PayPal.
+
+> This problem was asked by PayPal.
 
 Given a binary tree, determine whether or not it is height-balanced. A
 height-balanced binary tree can be defined as one in which the heights of the
 two subtrees of any node never differ by more than one.
 
 ## Problem-248:waxing_crescent_moon:
-> 
 
-This problem was asked by Nvidia.
+
+> This problem was asked by Nvidia.
 
 Find the maximum of two numbers without using any if-else statements, branching,
 or direct comparisons.
 
 ## Problem-249:waxing_crescent_moon:
-> 
 
-This problem was asked by Salesforce.
+
+> This problem was asked by Salesforce.
 
 Given an array of integers, find the maximum XOR of any two elements.
 
 ## Problem-250:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 A cryptarithmetic puzzle is a mathematical game where the digits of some numbers
 are represented by letters. Each letter represents a unique digit.
@@ -3853,18 +3853,18 @@ Given a three-word puzzle like the one above, create an algorithm that finds a
 solution.
 
 ## Problem-251:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given an array of a million integers between zero and a billion, out of order,
 how can you efficiently sort it? Assume that you cannot store an array of a
 billion elements in memory.
 
 ## Problem-252:waxing_crescent_moon:
-> 
 
-This problem was asked by Palantir.
+
+> This problem was asked by Palantir.
 
 The ancient Egyptians used to express fractions as a sum of several terms where
 each numerator is one. For example, 4 / 13 can be represented as 1 / 4 + 1 / 18
@@ -3877,9 +3877,9 @@ Egyptian fraction.
 --------------------------------------------------------------------------------
 
 ## Problem-253:waxing_crescent_moon:
-> 
 
-This problem was asked by PayPal.
+
+> This problem was asked by PayPal.
 
 Given a string and a number of lines k, print the string in zigzag form. In
 zigzag, characters are printed out diagonally from top left to bottom right
@@ -3897,9 +3897,9 @@ t     a     g
 --------------------------------------------------------------------------------
 
 ## Problem-254:waxing_crescent_moon:
-> 
 
-This problem was asked by Yahoo.
+
+> This problem was asked by Yahoo.
 
 Recall that a full binary tree is one in which each node is either a leaf node,
 or has two children. Given a binary tree, convert it to a full one by removing
@@ -3929,9 +3929,9 @@ You should convert it to:
 --------------------------------------------------------------------------------
 
 ## Problem-255:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 The transitive closure of a graph is a measure of which vertices are reachable
 from other vertices. It can be represented as a matrix M, where M[i][j] == 1 if
@@ -3961,9 +3961,9 @@ Given a graph, find its transitive closure.
 --------------------------------------------------------------------------------
 
 ## Problem-256:waxing_crescent_moon:
-> 
 
-This problem was asked by Fitbit.
+
+> This problem was asked by Fitbit.
 
 Given a linked list, rearrange the node values such that they appear in
 alternating low -> high -> low -> high ... form. For example, given 1 -> 2 -> 3
@@ -3973,9 +3973,9 @@ alternating low -> high -> low -> high ... form. For example, given 1 -> 2 -> 3
 --------------------------------------------------------------------------------
 
 ## Problem-257:waxing_crescent_moon:
-> 
 
-This problem was asked by WhatsApp.
+
+> This problem was asked by WhatsApp.
 
 Given an array of integers out of order, determine the bounds of the smallest
 window that must be sorted in order for the entire array to be sorted. For
@@ -3985,9 +3985,9 @@ example, given [3, 7, 5, 6, 9], you should return (1, 3).
 --------------------------------------------------------------------------------
 
 ## Problem-258:waxing_crescent_moon:
-> 
 
-This problem was asked by Morgan Stanley.
+
+> This problem was asked by Morgan Stanley.
 
 In Ancient Greece, it was common to write text with the first line going left to
 right, the second line going right to left, and continuing to go back and forth.
@@ -4011,9 +4011,9 @@ You should return [1, 3, 2, 4, 5, 6, 7].
 --------------------------------------------------------------------------------
 
 ## Problem-259:waxing_crescent_moon:
-> 
 
-This problem was asked by Two Sigma.
+
+> This problem was asked by Two Sigma.
 
 Ghost is a two-person word game where players alternate appending letters to a
 word. The first person who spells out a word, or creates a prefix for which
@@ -4035,9 +4035,9 @@ winning start letter would be b.
 --------------------------------------------------------------------------------
 
 ## Problem-260:waxing_crescent_moon:
-> 
 
-This problem was asked by Pinterest.
+
+> This problem was asked by Pinterest.
 
 The sequence [0, 1, ..., N] has been jumbled, and the only clue you have for its
 order is an array representing whether each number is larger or smaller than the
@@ -4048,9 +4048,9 @@ For example, given [None, +, +, -, +], you could return [1, 2, 3, 0, 4].
 --------------------------------------------------------------------------------
 
 ## Problem-261:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Huffman coding is a method of encoding characters based on their frequency. Each
 letter is assigned a variable-length binary string, such as 0101 or 111110,
@@ -4079,9 +4079,9 @@ determine a mapping between characters and their encoded binary strings.
 --------------------------------------------------------------------------------
 
 ## Problem-262:waxing_crescent_moon:
-> 
 
-This problem was asked by Mozilla.
+
+> This problem was asked by Mozilla.
 
 A bridge in a connected (undirected) graph is an edge that, if removed, causes
 the graph to become disconnected. Find all the bridges in a graph.
@@ -4090,9 +4090,9 @@ the graph to become disconnected. Find all the bridges in a graph.
 --------------------------------------------------------------------------------
 
 ## Problem-263:waxing_crescent_moon:
-> 
 
-This problem was asked by Nest.
+
+> This problem was asked by Nest.
 
 Create a basic sentence checker that takes in a stream of characters and
 determines whether they form valid sentences. If a sentence is valid, the
@@ -4111,9 +4111,9 @@ We can consider a sentence valid if it conforms to the following rules:
 --------------------------------------------------------------------------------
 
 ## Problem-264:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 Given a set of characters C and an integer k, a De Bruijn sequence is a cyclic
 sequence in which every possible k-length string of characters in C occurs
@@ -4129,9 +4129,9 @@ Create an algorithm that finds a De Bruijn sequence.
 --------------------------------------------------------------------------------
 
 ## Problem-265:waxing_crescent_moon:
-> 
 
-This problem was asked by Atlassian.
+
+> This problem was asked by Atlassian.
 
 MegaCorp wants to give bonuses to its employees based on how many lines of codes
 they have written. They would like to give the smallest positive amount to each
@@ -4148,9 +4148,9 @@ For example, given [10, 40, 200, 1000, 60, 30], you should return [1, 2, 3, 4,
 --------------------------------------------------------------------------------
 
 ## Problem-266:waxing_crescent_moon:
-> 
 
-This problem was asked by Pivotal.
+
+> This problem was asked by Pivotal.
 
 A step word is formed by taking a given word, adding a letter, and anagramming
 the result. For example, starting with the word "APPLE", you can add an "A" and
@@ -4163,9 +4163,9 @@ all valid step words.
 --------------------------------------------------------------------------------
 
 ## Problem-267:waxing_crescent_moon:
-> 
 
-This problem was asked by Oracle.
+
+> This problem was asked by Oracle.
 
 You are presented with an 8 by 8 matrix representing the positions of pieces on
 a chess board. The only pieces on the board are the black king and various white
@@ -4192,9 +4192,9 @@ You should return True, since the bishop is attacking the king diagonally.
 --------------------------------------------------------------------------------
 
 ## Problem-268:waxing_crescent_moon:
-> 
 
-This problem was asked by Indeed.
+
+> This problem was asked by Indeed.
 
 Given a 32-bit positive integer N, determine whether it is a power of four in
 faster than O(log N) time.
@@ -4203,9 +4203,9 @@ faster than O(log N) time.
 --------------------------------------------------------------------------------
 
 ## Problem-269:waxing_crescent_moon:
-> 
 
-This problem was asked by Microsoft.
+
+> This problem was asked by Microsoft.
 
 You are given an string representing the initial conditions of some dominoes.
 Each element can take one of three values:
@@ -4226,9 +4226,9 @@ Given the string ..R...L.L, you should return ..RR.LLLL.
 --------------------------------------------------------------------------------
 
 ## Problem-270:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 A network consists of nodes labeled 0 to N. You are given a list of edges (a, b,
 t), describing the time t it takes for a message to be sent from node a to node 
@@ -4258,9 +4258,9 @@ take that much time.
 --------------------------------------------------------------------------------
 
 ## Problem-271:waxing_crescent_moon:
-> 
 
-This problem was asked by Netflix.
+
+> This problem was asked by Netflix.
 
 Given a sorted list of integers of length N, determine if an element x is in the
 list without performing any multiplication, division, or bit-shift operations.
@@ -4271,9 +4271,9 @@ Do this in O(log N) time.
 --------------------------------------------------------------------------------
 
 ## Problem-272:waxing_crescent_moon:
-> 
 
-This problem was asked by Spotify.
+
+> This problem was asked by Spotify.
 
 Write a function, throw_dice(N, faces, total), that determines how many ways it
 is possible to throw N dice with some number of faces each to get a specific
@@ -4285,9 +4285,9 @@ For example, throw_dice(3, 6, 7) should equal 15.
 --------------------------------------------------------------------------------
 
 ## Problem-273:waxing_crescent_moon:
-> 
 
-This problem was asked by Apple.
+
+> This problem was asked by Apple.
 
 A fixed point in an array is an element whose value is equal to its index. Given
 a sorted array of distinct elements, return a fixed point, if one exists.
@@ -4300,9 +4300,9 @@ should return False.
 --------------------------------------------------------------------------------
 
 ## Problem-274:waxing_crescent_moon:
-> 
 
-This problem was asked by Facebook.
+
+> This problem was asked by Facebook.
 
 Given a string consisting of parentheses, single digits, and positive and
 negative signs, convert the string into a mathematical expression to obtain the
@@ -4316,9 +4316,9 @@ For example, given '-1 + (2 + 3)', you should return 4.
 --------------------------------------------------------------------------------
 
 ## Problem-275:waxing_crescent_moon:
-> 
 
-This problem was asked by Epic.
+
+> This problem was asked by Epic.
 
 The "look and say" sequence is defined as follows: beginning with the term 1,
 each subsequent term visually describes the digits appearing in the previous
@@ -4340,9 +4340,9 @@ Given an integer N, print the Nth term of this sequence.
 --------------------------------------------------------------------------------
 
 ## Problem-276:waxing_crescent_moon:
-> 
 
-This problem was asked by Dropbox.
+
+> This problem was asked by Dropbox.
 
 Implement an efficient string matching algorithm.
 
@@ -4357,9 +4357,9 @@ False.
 --------------------------------------------------------------------------------
 
 ## Problem-277:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 UTF-8 is a character encoding that maps each symbol to one, two, three, or four
 bytes.
@@ -4388,9 +4388,9 @@ returns whether it is a valid UTF-8 encoding.
 --------------------------------------------------------------------------------
 
 ## Problem-278:waxing_crescent_moon:
-> 
 
-This problem was asked by Amazon.
+
+> This problem was asked by Amazon.
 
 Given an integer N, construct all possible binary search trees with N nodes.
 
@@ -4398,9 +4398,9 @@ Given an integer N, construct all possible binary search trees with N nodes.
 --------------------------------------------------------------------------------
 
 ## Problem-279:waxing_crescent_moon:
-> 
 
-This problem was asked by Twitter.
+
+> This problem was asked by Twitter.
 
 A classroom consists of N students, whose friendships can be represented in an
 adjacency list. For example, the following descibes a situation where 0 is
@@ -4428,9 +4428,9 @@ groups in the class.
 --------------------------------------------------------------------------------
 
 ## Problem-280:waxing_crescent_moon:
-> 
 
-This problem was asked by Pandora.
+
+> This problem was asked by Pandora.
 
 Given an undirected graph, determine if it contains a cycle.
 
@@ -4438,9 +4438,9 @@ Given an undirected graph, determine if it contains a cycle.
 --------------------------------------------------------------------------------
 
 ## Problem-281:waxing_crescent_moon:
-> 
 
-This problem was asked by LinkedIn.
+
+> This problem was asked by LinkedIn.
 
 A wall consists of several rows of bricks of various integer lengths and uniform
 height. Your goal is to find a vertical line going from the top to the bottom of
@@ -4468,9 +4468,9 @@ return the fewest number of bricks that must be cut to create a vertical line.
 --------------------------------------------------------------------------------
 
 ## Problem-282:waxing_crescent_moon:
-> 
 
-This problem was asked by Netflix.
+
+> This problem was asked by Netflix.
 
 Given an array of integers, determine whether it contains a Pythagorean triplet.
 Recall that a Pythogorean triplet (a, b, c) is defined by the equation a2+ b2= c
@@ -4480,9 +4480,9 @@ Recall that a Pythogorean triplet (a, b, c) is defined by the equation a2+ b2= c
 --------------------------------------------------------------------------------
 
 ## Problem-283:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 A regular number in mathematics is defined as one which evenly divides some
 power of 60. Equivalently, we can say that a regular number is one whose only
@@ -4498,9 +4498,9 @@ numbers.
 --------------------------------------------------------------------------------
 
 ## Problem-284:waxing_crescent_moon:
-> 
 
-This problem was asked by Yext.
+
+> This problem was asked by Yext.
 
 Two nodes in a binary tree can be called cousins if they are on the same level
 of the tree but have different parents. For example, in the following diagram 4 
@@ -4519,9 +4519,9 @@ Given a binary tree and a particular node, find all cousins of that node.
 --------------------------------------------------------------------------------
 
 ## Problem-285:waxing_crescent_moon:
-> 
 
-This problem was asked by Mailchimp.
+
+> This problem was asked by Mailchimp.
 
 You are given an array representing the heights of neighboring buildings on a
 city street, from east to west. The city assessor would like you to write an
@@ -4538,9 +4538,9 @@ Can you do this using just one forward pass through the array?
 --------------------------------------------------------------------------------
 
 ## Problem-286:waxing_crescent_moon:
-> 
 
-This problem was asked by VMware.
+
+> This problem was asked by VMware.
 
 The skyline of a city is composed of several buildings of various widths and
 heights, possibly overlapping one another when viewed from a distance. We can
@@ -4573,9 +4573,9 @@ As a result, your function should return [(0, 3), (4, 5), (11, 3), (15, 0), (19,
 --------------------------------------------------------------------------------
 
 ## Problem-287:waxing_crescent_moon:
-> 
 
-This problem was asked by Quora.
+
+> This problem was asked by Quora.
 
 You are given a list of (website, user) pairs that represent users visiting
 websites. Come up with a program that identifies the top k pairs of websites
@@ -4597,9 +4597,9 @@ the most similar, so your program should return [('a', 'e')].
 --------------------------------------------------------------------------------
 
 ## Problem-288:waxing_crescent_moon:
-> 
 
-This problem was asked by Salesforce.
+
+> This problem was asked by Salesforce.
 
 The number 6174 is known as Kaprekar's contant, after the mathematician who
 discovered an associated property: for all four-digit numbers with at least two
@@ -4622,9 +4622,9 @@ Write a function that returns how many steps this will take for a given input N.
 --------------------------------------------------------------------------------
 
 ## Problem-289:waxing_crescent_moon:
-> 
 
-This problem was asked by Google.
+
+> This problem was asked by Google.
 
 The game of Nim is played as follows. Starting with three heaps, each containing
 a variable number of items, two players take turns removing one or more items
