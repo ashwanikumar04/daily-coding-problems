@@ -737,7 +737,7 @@ For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has
 three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten
 inversions: every distinct pair forms an inversion.
 
-## Problem-45:waxing_crescent_moon:
+## [Problem-45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45):sunny:
 
 
 > This problem was asked by Two Sigma.

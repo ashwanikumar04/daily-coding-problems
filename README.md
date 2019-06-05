@@ -64,10 +64,14 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 ## **Quora (1)**
 - [Problem34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)
 
+## **Two Sigma (1)**
+- [Problem45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)
+
  # Pending Questions:
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)
 - [Problem34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)
+
 
 
 
