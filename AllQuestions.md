@@ -795,7 +795,7 @@ You should return the following tree:
 d  e f  g
 
 
-## Problem-49:waxing_crescent_moon:
+## [Problem-49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49):sunny:
 
 
 > This problem was asked by Amazon.

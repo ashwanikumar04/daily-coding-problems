@@ -29,12 +29,13 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)
 - [Problem47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)
 
-## **Amazon (5)**
+## **Amazon (6)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
 - [Problem13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)
 - [Problem29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)
 - [Problem43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)
 - [Problem46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)
+- [Problem49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)
 
 ## **Microsoft (3)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
