@@ -18,7 +18,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem42](src/main/java/in/ashwanik/dcp/problems/p31_60/p42)
 - [Problem44](src/main/java/in/ashwanik/dcp/problems/p31_60/p44)
 
-## **Facebook (7)**
+## **Facebook (8)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)
 - [Problem15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15)
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
@@ -26,6 +26,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27)
 - [Problem30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)
 - [Problem41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)
+- [Problem47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)
 
 ## **Amazon (5)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
