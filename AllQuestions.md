@@ -719,7 +719,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-## Problem-44:waxing_crescent_moon:
+## [Problem-44](src/main/java/in/ashwanik/dcp/problems/p31_60/p44):sunny:
 
 
 > This problem was asked by Google.
