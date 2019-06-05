@@ -746,7 +746,7 @@ Using a function rand5() that returns an integer from 1 to 5 (inclusive) with
 uniform probability, implement a function rand7() that returns an integer from 1
 to 7 (inclusive).
 
-## Problem-46:waxing_crescent_moon:
+## [Problem-46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46):sunny:
 
 
 > This problem was asked by Amazon.

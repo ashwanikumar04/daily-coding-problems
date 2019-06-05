@@ -27,11 +27,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)
 - [Problem41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)
 
-## **Amazon (4)**
+## **Amazon (5)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
 - [Problem13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)
 - [Problem29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)
 - [Problem43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)
+- [Problem46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)
 
 ## **Microsoft (3)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
@@ -71,11 +72,3 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
 - [Problem25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)
 - [Problem34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)
-
-
-
-
-
-
-
-
