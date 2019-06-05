@@ -1,6 +1,8 @@
 package in.ashwanik.dcp.common;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 /**
@@ -12,16 +14,17 @@ public class TreeNode<T> {
     private TreeNode<T> left;
     private TreeNode<T> right;
 
+    private List<T> values;
+
     public TreeNode(T data) {
-        this.data = data;
-        this.left = null;
-        this.right = null;
+        this(data, null, null);
     }
 
     public TreeNode(T data, TreeNode<T> left, TreeNode<T> right) {
         this.data = data;
         this.left = left;
         this.right = right;
+        values = new ArrayList<>();
     }
 
     public TreeNode<T> getRight() {
@@ -73,6 +76,36 @@ public class TreeNode<T> {
         }
         System.out.print("\n");
         System.out.print("\n");
+    }
+
+    public List<T> inorder() {
+        values.clear();
+        inorderHelper(this);
+        return values;
+    }
+
+    public List<T> preorder() {
+        values.clear();
+        preorderHelper(this);
+        return values;
+    }
+
+    private void inorderHelper(TreeNode<T> root) {
+        if (root == null) {
+            return;
+        }
+        inorderHelper(root.getLeft());
+        values.add(root.getData());
+        inorderHelper(root.getRight());
+    }
+
+    private void preorderHelper(TreeNode<T> root) {
+        if (root == null) {
+            return;
+        }
+        values.add(root.getData());
+        preorderHelper(root.getLeft());
+        preorderHelper(root.getRight());
     }
 
     @Override

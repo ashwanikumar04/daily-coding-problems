@@ -770,7 +770,7 @@ can sell it.
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could
 buy the stock at 5 dollars and sell it at 10 dollars.
 
-## Problem-48:waxing_crescent_moon:
+## [Problem-48](src/main/java/in/ashwanik/dcp/problems/p31_60/p48):sunny:
 
 
 > This problem was asked by Google.
