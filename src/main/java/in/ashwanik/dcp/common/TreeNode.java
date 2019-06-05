@@ -90,6 +90,21 @@ public class TreeNode<T> {
         return values;
     }
 
+    public List<T> postorder() {
+        values.clear();
+        postorderHelper(this);
+        return values;
+    }
+
+    private void postorderHelper(TreeNode<T> root) {
+        if (root == null) {
+            return;
+        }
+        postorderHelper(root.getLeft());
+        postorderHelper(root.getRight());
+        values.add(root.getData());
+    }
+
     private void inorderHelper(TreeNode<T> root) {
         if (root == null) {
             return;

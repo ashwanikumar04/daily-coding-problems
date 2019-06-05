@@ -811,7 +811,7 @@ take any elements.
 
 Do this in O(N) time.
 
-## Problem-50:waxing_crescent_moon:
+## [Problem-50](src/main/java/in/ashwanik/dcp/problems/p31_60/p50):sunny:
 
 
 > This problem was asked by Microsoft.

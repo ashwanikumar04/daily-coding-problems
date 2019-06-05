@@ -37,10 +37,11 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)
 - [Problem49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)
 
-## **Microsoft (3)**
+## **Microsoft (4)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
 - [Problem33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)
 - [Problem38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38)
+- [Problem50](src/main/java/in/ashwanik/dcp/problems/p31_60/p50)
 
 ## **Twitter (2)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)
