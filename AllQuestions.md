@@ -845,7 +845,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-## Problem-52:waxing_crescent_moon:
+## [Problem-52](src/main/java/in/ashwanik/dcp/problems/p31_60/p52):sunny:
 
 
 > This problem was asked by Google.
