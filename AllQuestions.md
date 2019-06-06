@@ -880,7 +880,7 @@ column, and box (3 by 3 subgrid) must contain all of the digits from 1 to 9.
 
 Implement an efficient sudoku solver.
 
-## Problem-55:waxing_crescent_moon:
+## [Problem-55](src/main/java/in/ashwanik/dcp/problems/p31_60/p55):sunny:
 
 
 > This problem was asked by Microsoft.
