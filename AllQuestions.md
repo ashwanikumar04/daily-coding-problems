@@ -860,7 +860,7 @@ initialized with a cache size n, and contain the following methods:
 
 Each operation should run in O(1) time.
 
-## Problem-53:waxing_crescent_moon:
+## [Problem-53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53):sunny:
 
 
 > This problem was asked by Apple.

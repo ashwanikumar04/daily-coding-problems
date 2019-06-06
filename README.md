@@ -1,7 +1,7 @@
 # daily-coding-problem
 Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
-## **Google (17)**
+## **Google (18)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1_30/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p1_30/p3)
 - [Problem8](src/main/java/in/ashwanik/dcp/problems/p1_30/p8)
@@ -19,6 +19,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem44](src/main/java/in/ashwanik/dcp/problems/p31_60/p44)
 - [Problem48](src/main/java/in/ashwanik/dcp/problems/p31_60/p48)
 - [Problem52](src/main/java/in/ashwanik/dcp/problems/p31_60/p52)
+- [Problem56](src/main/java/in/ashwanik/dcp/problems/p31_60/p56)
 
 ## **Facebook (9)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)
@@ -31,27 +32,31 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)
 - [Problem51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51)
 
-## **Amazon (6)**
+## **Amazon (8)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
 - [Problem13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)
 - [Problem29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)
 - [Problem43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)
 - [Problem46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)
 - [Problem49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)
+- [Problem57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)
+- [Problem58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)
 
-## **Microsoft (4)**
+## **Microsoft (5)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
 - [Problem33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)
 - [Problem38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38)
 - [Problem50](src/main/java/in/ashwanik/dcp/problems/p31_60/p50)
+- [Problem55](src/main/java/in/ashwanik/dcp/problems/p31_60/p55)
+
+## **Dropbox (3)**
+- [Problem36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36)
+- [Problem39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39)
+- [Problem54](src/main/java/in/ashwanik/dcp/problems/p31_60/p54)
 
 ## **Twitter (2)**
 - [Problem11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)
 - [Problem16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16)
-
-## **Dropbox (2)**
-- [Problem36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36)
-- [Problem39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39)
 
 ## **Uber (1)**
 - [Problem2](src/main/java/in/ashwanik/dcp/problems/p1_30/p2)
@@ -73,6 +78,9 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## **Two Sigma (1)**
 - [Problem45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)
+
+## **Apple (1)**
+- [Problem53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)
 
  # Pending Questions:
 - [Problem19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)
