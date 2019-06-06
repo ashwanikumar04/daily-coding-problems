@@ -832,7 +832,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-## Problem-51:waxing_crescent_moon:
+## [Problem-51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51):sunny:
 
 
 > This problem was asked by Facebook.
