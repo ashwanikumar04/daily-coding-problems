@@ -3,7 +3,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 
 ## For all questions, see [here](AllQuestions.md)
 
-## **Google (18)**
+## **Google (19)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1_30/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p1_30/p3)
 - [Problem8](src/main/java/in/ashwanik/dcp/problems/p1_30/p8)
@@ -22,6 +22,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem48](src/main/java/in/ashwanik/dcp/problems/p31_60/p48)
 - [Problem52](src/main/java/in/ashwanik/dcp/problems/p31_60/p52)
 - [Problem56](src/main/java/in/ashwanik/dcp/problems/p31_60/p56)
+- [Problem61](src/main/java/in/ashwanik/dcp/problems/p61_90/p61)
 
 ## **Facebook (10)**
 - [Problem7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)

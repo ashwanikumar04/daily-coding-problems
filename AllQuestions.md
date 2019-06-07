@@ -958,7 +958,7 @@ add up to 55.
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't
 split it up into two subsets that add up to the same sum.
 
-## Problem-61:waxing_crescent_moon:
+## [Problem-61](src/main/java/in/ashwanik/dcp/problems/p61_90/p61):sunny:
 
 
 > This problem was asked by Google.
