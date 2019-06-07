@@ -935,7 +935,7 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4
 
 You can assume all the integers in the array are unique.
 
-## Problem-59:waxing_crescent_moon:
+## Problem-59:new_moon:
 
 
 > This problem was asked by Google.
@@ -943,7 +943,7 @@ You can assume all the integers in the array are unique.
 Implement a file syncing algorithm for two computers over a low-bandwidth
 network. What if we know the files in the two computers are mostly the same?
 
-## Problem-60:waxing_crescent_moon:
+## [Problem-60](src/main/java/in/ashwanik/dcp/problems/p31_60/p60):sunny:
 
 
 > This problem was asked by Facebook.
