@@ -920,7 +920,7 @@ For example, given the string "the quick brown fox jumps over the lazy dog" and
 k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy",
 "dog"]. No string in the list has a length of more than 10.
 
-## Problem-58:waxing_crescent_moon:
+## [Problem-58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58):sunny:
 
 
 > This problem was asked by Amazon.

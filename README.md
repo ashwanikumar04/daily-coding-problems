@@ -1,6 +1,8 @@
 # daily-coding-problem
 Solutions to the coding problems from [Daily coding problem](https://dailycodingproblem.com/)
 
+## For all questions, see [here](AllQuestions.md)
+
 ## **Google (18)**
 - [Problem1](src/main/java/in/ashwanik/dcp/problems/p1_30/p1)
 - [Problem3](src/main/java/in/ashwanik/dcp/problems/p1_30/p3)
@@ -32,7 +34,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)
 - [Problem51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51)
 
-## **Amazon (7)**
+## **Amazon (8)**
 - [Problem12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)
 - [Problem13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)
 - [Problem29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)
@@ -40,6 +42,7 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 - [Problem46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)
 - [Problem49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)
 - [Problem57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)
+- [Problem58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)
 
 ## **Microsoft (5)**
 - [Problem22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)
