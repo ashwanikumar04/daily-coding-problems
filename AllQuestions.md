@@ -1069,7 +1069,7 @@ bias of the coin.
 
 Write a function to simulate an unbiased coin toss.
 
-## Problem-67:waxing_crescent_moon:
+## [Problem-67](src/main/java/in/ashwanik/dcp/problems/p61_90/p67):sunny:
 
 
 > This problem was asked by Google.
