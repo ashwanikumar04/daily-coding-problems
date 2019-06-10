@@ -1008,7 +1008,7 @@ and the target word 'FOAM', you should return true, since it's the leftmost
 column. Similarly, given the target word 'MASS', you should return true, since
 it's the last row.
 
-## [Problem-64](src/main/java/in/ashwanik/dcp/problems/p61_90/p64):sunny:
+## Problem-64:waxing_crescent_moon:
 
 
 > This problem was asked by Google.
@@ -1058,7 +1058,7 @@ You should print out the following:
 12
 
 
-## Problem-66:waxing_crescent_moon:
+## [Problem-66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66):sunny:
 
 
 > This problem was asked by Square.

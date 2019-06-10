@@ -88,6 +88,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)|
 
 
+## **Square (1)**
+| |
+|--|
+|[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|
+
+
  # Pending Questions:
 | | | | | | | | |
 |--|--|--|--|--|--|--|--|
