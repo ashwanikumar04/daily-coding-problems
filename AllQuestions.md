@@ -1008,7 +1008,7 @@ and the target word 'FOAM', you should return true, since it's the leftmost
 column. Similarly, given the target word 'MASS', you should return true, since
 it's the last row.
 
-## Problem-64:waxing_crescent_moon:
+## [Problem-64](src/main/java/in/ashwanik/dcp/problems/p61_90/p64):sunny:
 
 
 > This problem was asked by Google.
@@ -1019,7 +1019,7 @@ squares are visited once.
 Given N, write a function to return the number of knight's tours on an N by N
 chessboard.
 
-## Problem-65:waxing_crescent_moon:
+## [Problem-65](src/main/java/in/ashwanik/dcp/problems/p61_90/p65):sunny:
 
 
 > This problem was asked by Amazon.
