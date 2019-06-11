@@ -1118,7 +1118,7 @@ The board would look like this:
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 3 and 4.
 
-## Problem-69:waxing_crescent_moon:
+## [Problem-69](src/main/java/in/ashwanik/dcp/problems/p61_90/p69):sunny:
 
 
 > This problem was asked by Facebook.
