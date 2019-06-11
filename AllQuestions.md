@@ -1200,7 +1200,7 @@ Should return null, since we have an infinite loop.
 
 Given the head of a singly linked list, reverse it in-place.
 
-## Problem-74:waxing_crescent_moon:
+## [Problem-74](src/main/java/in/ashwanik/dcp/problems/p61_90/p74):sunny:
 
 
 > This problem was asked by Apple.

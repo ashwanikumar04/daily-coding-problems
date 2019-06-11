@@ -40,6 +40,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)|[P16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16)|
 
 
+## **Apple (2)**
+| | |
+|--|--|
+|[P53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)|[P74](src/main/java/in/ashwanik/dcp/problems/p61_90/p74)|
+
+
 ## **Uber (1)**
 | |
 |--|
@@ -80,12 +86,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)|
-
-
-## **Apple (1)**
-| |
-|--|
-|[P53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)|
 
 
 ## **Square (1)**
