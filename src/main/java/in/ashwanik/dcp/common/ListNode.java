@@ -1,5 +1,8 @@
 package in.ashwanik.dcp.common;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  */
@@ -41,6 +44,16 @@ public class ListNode<T> {
             current = current.next;
         }
         System.out.println();
+    }
+
+    public List<T> data() {
+        List<T> values = new ArrayList<>();
+        ListNode<T> current = this;
+        while (current != null) {
+            values.add(current.data);
+            current = current.next;
+        }
+        return values;
     }
 
     public int length() {

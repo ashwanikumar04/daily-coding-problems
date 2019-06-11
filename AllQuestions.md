@@ -1142,7 +1142,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-## Problem-71:waxing_crescent_moon:
+## Problem-71:new_moon:
 
 
 > This problem was asked by Two Sigma.
@@ -1193,7 +1193,7 @@ A
 
 Should return null, since we have an infinite loop.
 
-## Problem-73:waxing_crescent_moon:
+## [Problem-73](src/main/java/in/ashwanik/dcp/problems/p61_90/p73):sunny:
 
 
 > This problem was asked by Google.
