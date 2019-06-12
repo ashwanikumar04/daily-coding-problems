@@ -1240,7 +1240,7 @@ in the array. The subsequence does not necessarily have to be contiguous.
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7,
 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
-## Problem-76:waxing_crescent_moon:
+## [Problem-76](src/main/java/in/ashwanik/dcp/problems/p61_90/p76):sunny:
 
 
 > This problem was asked by Google.
@@ -1286,7 +1286,7 @@ tsr
 Your function should return 3, since we would need to remove all the columns to
 order it.
 
-## Problem-77:waxing_crescent_moon:
+## [Problem-77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77):sunny:
 
 
 > This problem was asked by Snapchat.
