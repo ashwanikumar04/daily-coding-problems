@@ -21,6 +21,15 @@ public class ListNode<T> {
         this.next = next;
     }
 
+    public ListNode(List<T> list) {
+        ListNode<T> current = this;
+        current.data = list.get(0);
+        for (int index = 1; index < list.size(); index++) {
+            current.next = new ListNode<>(list.get(index));
+            current = current.getNext();
+        }
+    }
+
     public T getData() {
         return data;
     }
