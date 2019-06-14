@@ -1384,7 +1384,7 @@ should become:
   f e  d
 
 
-## Problem-84:waxing_crescent_moon:
+## [Problem-84](src/main/java/in/ashwanik/dcp/problems/p61_90/p84):sunny:
 
 
 > This problem was asked by Amazon.

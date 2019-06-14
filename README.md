@@ -16,10 +16,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)|[P15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15)|[P19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)|[P25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)|[P27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27)|[P30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)|[P41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)|[P47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)|[P51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51)|[P60](src/main/java/in/ashwanik/dcp/problems/p31_60/p60)|[P62](src/main/java/in/ashwanik/dcp/problems/p61_90/p62)|[P69](src/main/java/in/ashwanik/dcp/problems/p61_90/p69)|[P79](src/main/java/in/ashwanik/dcp/problems/p61_90/p79)|
 
 
-## **Amazon (9)**
-| | | | | | | | | |
-|--|--|--|--|--|--|--|--|--|
-|[P12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)|[P13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)|[P29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)|[P43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)|[P46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)|[P49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)|[P57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)|[P58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)|[P65](src/main/java/in/ashwanik/dcp/problems/p61_90/p65)|
+## **Amazon (10)**
+| | | | | | | | | | |
+|--|--|--|--|--|--|--|--|--|--|
+|[P12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)|[P13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)|[P29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)|[P43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)|[P46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)|[P49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)|[P57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)|[P58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)|[P65](src/main/java/in/ashwanik/dcp/problems/p61_90/p65)|[P84](src/main/java/in/ashwanik/dcp/problems/p61_90/p84)|
 
 
 ## **Microsoft (8)**
