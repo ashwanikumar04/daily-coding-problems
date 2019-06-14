@@ -10,10 +10,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P48](src/main/java/in/ashwanik/dcp/problems/p31_60/p48)|[P52](src/main/java/in/ashwanik/dcp/problems/p31_60/p52)|[P56](src/main/java/in/ashwanik/dcp/problems/p31_60/p56)|[P61](src/main/java/in/ashwanik/dcp/problems/p61_90/p61)|[P64](src/main/java/in/ashwanik/dcp/problems/p61_90/p64)|[P67](src/main/java/in/ashwanik/dcp/problems/p61_90/p67)|[P68](src/main/java/in/ashwanik/dcp/problems/p61_90/p68)|[P72](src/main/java/in/ashwanik/dcp/problems/p61_90/p72)|[P73](src/main/java/in/ashwanik/dcp/problems/p61_90/p73)|[P76](src/main/java/in/ashwanik/dcp/problems/p61_90/p76)|[P78](src/main/java/in/ashwanik/dcp/problems/p61_90/p78)|[P80](src/main/java/in/ashwanik/dcp/problems/p61_90/p80)|[P83](src/main/java/in/ashwanik/dcp/problems/p61_90/p83)|
 
 
-## **Facebook (13)**
-| | | | | | | | | | | | | |
-|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|[P7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)|[P15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15)|[P19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)|[P25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)|[P27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27)|[P30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)|[P41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)|[P47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)|[P51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51)|[P60](src/main/java/in/ashwanik/dcp/problems/p31_60/p60)|[P62](src/main/java/in/ashwanik/dcp/problems/p61_90/p62)|[P69](src/main/java/in/ashwanik/dcp/problems/p61_90/p69)|[P79](src/main/java/in/ashwanik/dcp/problems/p61_90/p79)|
+## **Facebook (14)**
+| | | | | | | | | | | | | | |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|[P7](src/main/java/in/ashwanik/dcp/problems/p1_30/p7)|[P15](src/main/java/in/ashwanik/dcp/problems/p1_30/p15)|[P19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)|[P25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)|[P27](src/main/java/in/ashwanik/dcp/problems/p1_30/p27)|[P30](src/main/java/in/ashwanik/dcp/problems/p1_30/p30)|[P41](src/main/java/in/ashwanik/dcp/problems/p31_60/p41)|[P47](src/main/java/in/ashwanik/dcp/problems/p31_60/p47)|[P51](src/main/java/in/ashwanik/dcp/problems/p31_60/p51)|[P60](src/main/java/in/ashwanik/dcp/problems/p31_60/p60)|[P62](src/main/java/in/ashwanik/dcp/problems/p61_90/p62)|[P69](src/main/java/in/ashwanik/dcp/problems/p61_90/p69)|[P79](src/main/java/in/ashwanik/dcp/problems/p61_90/p79)|[P85](src/main/java/in/ashwanik/dcp/problems/p61_90/p85)|
 
 
 ## **Amazon (10)**
