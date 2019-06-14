@@ -1411,7 +1411,7 @@ For example, this matrix has 4 islands.
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0,
 using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
-## Problem-86:waxing_crescent_moon:
+## [Problem-86](src/main/java/in/ashwanik/dcp/problems/p61_90/p86):sunny:
 
 
 > This problem was asked by Google.
