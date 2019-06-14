@@ -1348,7 +1348,7 @@ valid number in the mapping is a single digit.
 For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should
 return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
-## Problem-82:waxing_crescent_moon:
+## Problem-82:new_moon:
 
 
 > This problem was asked Microsoft.
@@ -1359,7 +1359,7 @@ which reads n characters.
 For example, given a file with the content “Hello world”, three read7() returns
 “Hello w”, “orld” and then “”.
 
-## Problem-83:waxing_crescent_moon:
+## [Problem-83](src/main/java/in/ashwanik/dcp/problems/p61_90/p83):sunny:
 
 
 > This problem was asked by Google.
