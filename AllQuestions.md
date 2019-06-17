@@ -1453,7 +1453,7 @@ A N B
 
 is considered valid.
 
-## Problem-88:waxing_crescent_moon:
+## [Problem-88](src/main/java/in/ashwanik/dcp/problems/p61_90/p88):sunny:
 
 
 > This question was asked by ContextLogic.
