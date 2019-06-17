@@ -1473,7 +1473,7 @@ A binary search tree is a tree with two children, left and right, and satisfies
 the constraint that the key in the left child must be less than or equal to the
 root and the key in the right child must be greater than or equal to the root.
 
-## Problem-90:waxing_crescent_moon:
+## [Problem-90](src/main/java/in/ashwanik/dcp/problems/p61_90/p90):sunny:
 
 
 > This question was asked by Google.
