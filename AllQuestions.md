@@ -1462,7 +1462,7 @@ Implement division of two positive integers without using the division,
 multiplication, or modulus operators. Return the quotient as an integer,
 ignoring the remainder.
 
-## Problem-89:waxing_crescent_moon:
+## [Problem-89](src/main/java/in/ashwanik/dcp/problems/p61_90/p89):sunny:
 
 
 > This problem was asked by LinkedIn.
