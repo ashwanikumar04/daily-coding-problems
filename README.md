@@ -40,6 +40,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P2](src/main/java/in/ashwanik/dcp/problems/p1_30/p2)|[P87](src/main/java/in/ashwanik/dcp/problems/p61_90/p87)|
 
 
+## **Airbnb (2)**
+| | |
+|--|--|
+|[P9](src/main/java/in/ashwanik/dcp/problems/p1_30/p9)|[P92](src/main/java/in/ashwanik/dcp/problems/p91_120/p92)|
+
+
 ## **Twitter (2)**
 | | |
 |--|--|
@@ -62,12 +68,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4)|
-
-
-## **Airbnb (1)**
-| |
-|--|
-|[P9](src/main/java/in/ashwanik/dcp/problems/p1_30/p9)|
 
 
 ## **Palantir (1)**

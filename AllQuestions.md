@@ -1481,7 +1481,7 @@ root and the key in the right child must be greater than or equal to the root.
 Given an integer n and a list of integers l, write a function that randomly
 generates a number from 0 to n-1 that isn't in l (uniform).
 
-## Problem-91:waxing_crescent_moon:
+## Problem-91:new_moon:
 
 
 > This problem was asked by Dropbox.
@@ -1497,7 +1497,7 @@ for f in functions:
     print(f())
 
 
-## Problem-92:waxing_crescent_moon:
+## [Problem-92](src/main/java/in/ashwanik/dcp/problems/p91_120/p92):sunny:
 
 
 > This problem was asked by Airbnb.
