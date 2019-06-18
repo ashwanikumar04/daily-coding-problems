@@ -18,10 +18,13 @@ class Solution {
 
         Deque<String> stack = new ArrayDeque<>();
         Set<String> visited = new HashSet<>();
+        Set<String> visiting = new HashSet<>();
 
         for (Map.Entry<String, List<String>> entry : data.entrySet()) {
             if (!visited.contains(entry.getKey())) {
-                dfs(data, entry.getKey(), entry.getValue(), stack, visited);
+                if (!dfs(data, entry.getKey(), entry.getValue(), stack, visited, visiting)) {
+                    return null;
+                }
             }
         }
 
@@ -32,13 +35,24 @@ class Solution {
         return order;
     }
 
-    private void dfs(Map<String, List<String>> data, String key, List<String> value, Deque<String> stack, Set<String> visited) {
-        visited.add(key);
+    private boolean dfs(Map<String, List<String>> data, String key, List<String> value, Deque<String> stack, Set<String> visited, Set<String> visiting) {
+        if (visited.contains(key)) {
+            return true;
+        }
+        visiting.add(key);
         for (String c : value) {
+            if (visiting.contains(c)) {
+                return false;
+            }
             if (!visited.contains(c)) {
-                dfs(data, c, data.get(c), stack, visited);
+                if (!(dfs(data, c, data.get(c), stack, visited, visiting))) {
+                    return false;
+                }
             }
         }
+        visiting.remove(key);
+        visited.add(key);
         stack.push(key);
+        return true;
     }
 }

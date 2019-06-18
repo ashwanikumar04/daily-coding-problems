@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class SolutionTest {
     @Test
@@ -21,5 +22,11 @@ public class SolutionTest {
         data.put("CSC100", new ArrayList<>());
 
         assertArrayEquals(new String[]{"CSC100", "CSC200", "CSC300"}, new Solution().getSortedCourse(data).toArray());
+
+        data.clear();
+        data.put("CSC300", Collections.singletonList("CSC100"));
+        data.put("CSC100", Collections.singletonList("CSC300"));
+
+        assertNull(new Solution().getSortedCourse(data));
     }
 }
