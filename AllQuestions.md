@@ -1520,7 +1520,7 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-## Problem-94:waxing_crescent_moon:
+## [Problem-94](src/main/java/in/ashwanik/dcp/problems/p91_120/p94):sunny:
 
 
 > This problem was asked by Google.
