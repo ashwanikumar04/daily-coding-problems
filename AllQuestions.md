@@ -1529,7 +1529,7 @@ Given a binary tree of integers, find the maximum path sum between two nodes.
 The path must go through at least one node, and does not need to go through the
 root.
 
-## Problem-95:waxing_crescent_moon:
+## [Problem-95](src/main/java/in/ashwanik/dcp/problems/p91_120/p95):sunny:
 
 
 > This problem was asked by Palantir.

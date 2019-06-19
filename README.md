@@ -65,16 +65,16 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|
 
 
+## **Palantir (2)**
+| | |
+|--|--|
+|[P28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28)|[P95](src/main/java/in/ashwanik/dcp/problems/p91_120/p95)|
+
+
 ## **Stripe (1)**
 | |
 |--|
 |[P4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4)|
-
-
-## **Palantir (1)**
-| |
-|--|
-|[P28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28)|
 
 
 ## **Quora (1)**
