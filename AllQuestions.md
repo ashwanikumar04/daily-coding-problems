@@ -1628,7 +1628,7 @@ sequence is [1, 2, 3, 4]. Return its length: 4.
 
 Your algorithm should run in O(n) complexity.
 
-## Problem-100:waxing_crescent_moon:
+## [Problem-100](src/main/java/in/ashwanik/dcp/problems/p91_120/p100):sunny:
 
 
 > This problem was asked by Google.
