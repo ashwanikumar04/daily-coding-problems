@@ -1615,7 +1615,7 @@ For example, given the following board:
 exists(board, "ABCCED") returns true,exists(board, "SEE") returns true,
 exists(board, "ABCB") returns false.
 
-## Problem-99:waxing_crescent_moon:
+## [Problem-99](src/main/java/in/ashwanik/dcp/problems/p91_120/p99):sunny:
 
 
 > This problem was asked by Microsoft.

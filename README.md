@@ -23,10 +23,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)|[P13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)|[P29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)|[P43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)|[P46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)|[P49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)|[P57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)|[P58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)|[P65](src/main/java/in/ashwanik/dcp/problems/p61_90/p65)|[P84](src/main/java/in/ashwanik/dcp/problems/p61_90/p84)|
 
 
-## **Microsoft (9)**
-| | | | | | | | | |
-|--|--|--|--|--|--|--|--|--|
-|[P22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)|[P33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)|[P38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38)|[P50](src/main/java/in/ashwanik/dcp/problems/p31_60/p50)|[P55](src/main/java/in/ashwanik/dcp/problems/p31_60/p55)|[P63](src/main/java/in/ashwanik/dcp/problems/p61_90/p63)|[P70](src/main/java/in/ashwanik/dcp/problems/p61_90/p70)|[P75](src/main/java/in/ashwanik/dcp/problems/p61_90/p75)|[P96](src/main/java/in/ashwanik/dcp/problems/p91_120/p96)|
+## **Microsoft (10)**
+| | | | | | | | | | |
+|--|--|--|--|--|--|--|--|--|--|
+|[P22](src/main/java/in/ashwanik/dcp/problems/p1_30/p22)|[P33](src/main/java/in/ashwanik/dcp/problems/p31_60/p33)|[P38](src/main/java/in/ashwanik/dcp/problems/p31_60/p38)|[P50](src/main/java/in/ashwanik/dcp/problems/p31_60/p50)|[P55](src/main/java/in/ashwanik/dcp/problems/p31_60/p55)|[P63](src/main/java/in/ashwanik/dcp/problems/p61_90/p63)|[P70](src/main/java/in/ashwanik/dcp/problems/p61_90/p70)|[P75](src/main/java/in/ashwanik/dcp/problems/p61_90/p75)|[P96](src/main/java/in/ashwanik/dcp/problems/p91_120/p96)|[P99](src/main/java/in/ashwanik/dcp/problems/p91_120/p99)|
 
 
 ## **Dropbox (3)**
