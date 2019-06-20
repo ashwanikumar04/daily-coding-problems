@@ -1556,7 +1556,7 @@ permutations.
 For example, given [1,2,3], return 
 [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]].
 
-## Problem-97:waxing_crescent_moon:
+## [Problem-97](src/main/java/in/ashwanik/dcp/problems/p91_120/p97):sunny:
 
 
 > This problem was asked by Stripe.
