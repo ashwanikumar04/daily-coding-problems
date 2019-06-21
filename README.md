@@ -125,6 +125,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P101](src/main/java/in/ashwanik/dcp/problems/p91_120/p101)|
 
 
+## **Lyft (1)**
+| |
+|--|
+|[P102](src/main/java/in/ashwanik/dcp/problems/p91_120/p102)|
+
+
  # [Pending Questions](PendingQuestions.md):16
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|

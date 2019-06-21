@@ -1687,7 +1687,7 @@ d, then
 
 If a < c OR a==c AND b < d.
 
-## Problem-102:waxing_crescent_moon:
+## [Problem-102](src/main/java/in/ashwanik/dcp/problems/p91_120/p102):sunny:
 
 
 > This problem was asked by Lyft.
