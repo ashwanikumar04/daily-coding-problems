@@ -119,6 +119,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P98](src/main/java/in/ashwanik/dcp/problems/p91_120/p98)|
 
 
+## **Alibaba (1)**
+| |
+|--|
+|[P101](src/main/java/in/ashwanik/dcp/problems/p91_120/p101)|
+
+
  # [Pending Questions](PendingQuestions.md):16
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
