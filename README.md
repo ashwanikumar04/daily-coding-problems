@@ -77,6 +77,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28)|[P95](src/main/java/in/ashwanik/dcp/problems/p91_120/p95)|
 
 
+## **Square (2)**
+| | |
+|--|--|
+|[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|[P103](src/main/java/in/ashwanik/dcp/problems/p91_120/p103)|
+
+
 ## **Quora (1)**
 | |
 |--|
@@ -87,12 +93,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)|
-
-
-## **Square (1)**
-| |
-|--|
-|[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|
 
 
 ## **Yelp (1)**
