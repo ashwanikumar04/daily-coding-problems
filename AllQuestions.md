@@ -1721,7 +1721,7 @@ linked?
 
 For example, 1 -> 4 -> 3 -> 4 -> 1 returns true while 1 -> 4 returns false.
 
-## [Problem-105](src/main/java/in/ashwanik/dcp/problems/p91_120/p105):sunny:
+## Problem-105:new_moon:
 
 
 > This problem was asked by Facebook.
