@@ -10,10 +10,12 @@ public class ListNode<T> {
 
     private T data;
     private ListNode<T> next;
+    private ListNode<T> prev;
 
     public ListNode(T data) {
         this.data = data;
         this.next = null;
+        this.prev = null;
     }
 
     public ListNode(T data, ListNode<T> next) {
@@ -21,13 +23,24 @@ public class ListNode<T> {
         this.next = next;
     }
 
+    public ListNode(T data, ListNode<T> next, ListNode<T> prev) {
+        this.data = data;
+        this.next = next;
+        this.prev = prev;
+    }
+
     public ListNode(List<T> list) {
         ListNode<T> current = this;
         current.data = list.get(0);
         for (int index = 1; index < list.size(); index++) {
             current.next = new ListNode<>(list.get(index));
+            current.next.prev = current;
             current = current.getNext();
         }
+    }
+
+    public ListNode<T> getPrev() {
+        return prev;
     }
 
     public T getData() {
