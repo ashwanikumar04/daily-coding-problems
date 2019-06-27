@@ -1767,7 +1767,7 @@ times to get B.
 For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb
 , return false.
 
-## Problem-109:waxing_crescent_moon:
+## Problem-109:new_moon:
 
 
 > This problem was asked by Cisco.
@@ -1779,7 +1779,7 @@ For example, 10101010 should be 01010101. 11100010 should be 11010001.
 
 Bonus: Can you do this in one line?
 
-## Problem-110:waxing_crescent_moon:
+## [Problem-110](src/main/java/in/ashwanik/dcp/problems/p91_120/p110):sunny:
 
 
 > This problem was asked by Facebook.
