@@ -1807,7 +1807,7 @@ of W.
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-## Problem-112:waxing_crescent_moon:
+## [Problem-112](src/main/java/in/ashwanik/dcp/problems/p91_120/p112):sunny:
 
 
 > This problem was asked by Twitter.
