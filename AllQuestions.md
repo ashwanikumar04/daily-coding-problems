@@ -1844,7 +1844,7 @@ maintaining the relative order of the delimiters. For example, given
 Follow-up: Does your solution work for the following cases: "hello/world:here/",
 "hello//world:here"
 
-## Problem-115:waxing_crescent_moon:
+## [Problem-115](src/main/java/in/ashwanik/dcp/problems/p91_120/p115):sunny:
 
 
 > This problem was asked by Google.
