@@ -138,6 +138,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P106](src/main/java/in/ashwanik/dcp/problems/p91_120/p106)|
 
 
+## **Jane Street (1)**
+| |
+|--|
+|[P116](src/main/java/in/ashwanik/dcp/problems/p91_120/p116)|
+
+
  # [Pending Questions](PendingQuestions.md):17
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
