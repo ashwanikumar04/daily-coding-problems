@@ -1951,7 +1951,7 @@ And here are examples of non-numbers:
  * "a -2"
  * "-"
 
-## Problem-124:waxing_crescent_moon:
+## Problem-124:new_moon:
 
 
 > This problem was asked by Microsoft.
