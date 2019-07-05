@@ -1901,7 +1901,7 @@ instance, store two instances. And in every even call of getInstance(), return
 the first instance and in every odd call of getInstance(), return the second
 instance.
 
-## Problem-121:waxing_crescent_moon:
+## [Problem-121](src/main/java/in/ashwanik/dcp/problems/p121_150/p121):sunny:
 
 
 > This problem was asked by Google.
