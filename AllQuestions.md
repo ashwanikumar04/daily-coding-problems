@@ -1930,7 +1930,7 @@ For example, in this matrix
 
 The most we can collect is 0 + 2 + 1 + 5 + 3 + 1 = 12 coins.
 
-## Problem-123:waxing_crescent_moon:
+## Problem-123:new_moon:
 
 
 > This problem was asked by LinkedIn.
