@@ -1963,7 +1963,7 @@ do you expect to play before only one coin remains?
 Write a function that, given n, returns the number of rounds you'd expect to
 play until one coin remains.
 
-## Problem-125:waxing_crescent_moon:
+## [Problem-125](src/main/java/in/ashwanik/dcp/problems/p121_150/p125):sunny:
 
 
 > This problem was asked by Google.
