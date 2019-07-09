@@ -2022,7 +2022,7 @@ return 124 (99 + 25) as:
 4 -> 2 -> 1
 
 
-## Problem-128:waxing_crescent_moon:
+## [Problem-128](src/main/java/in/ashwanik/dcp/problems/p121_150/p128):sunny:
 
 
 The Tower of Hanoi is a puzzle game with three rods and n disks, each a
