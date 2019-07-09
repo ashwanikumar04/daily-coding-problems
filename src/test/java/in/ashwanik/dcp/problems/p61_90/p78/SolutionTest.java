@@ -21,6 +21,6 @@ public class SolutionTest {
         lists.add(list1);
         lists.add(list2);
         lists.add(list3);
-        assertArrayEquals(new int[]{1, 1, 2, 3, 4, 4, 5, 6}, new Solution().mergeList(lists).data().stream().mapToInt(x -> x).toArray());
+        assertArrayEquals(new Integer[]{1, 1, 2, 3, 4, 4, 5, 6}, new Solution().mergeList(lists).data());
     }
 }

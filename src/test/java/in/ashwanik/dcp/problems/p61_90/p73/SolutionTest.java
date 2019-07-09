@@ -4,7 +4,6 @@ import in.ashwanik.dcp.common.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SolutionTest {
     @Test
@@ -16,6 +15,6 @@ public class SolutionTest {
                                         new ListNode<>(5)))));
 
 
-        assertArrayEquals(new int[]{5, 4, 3, 2, 1}, new Solution().reverse(head).data().stream().mapToInt(x -> x).toArray());
+        assertArrayEquals(new Integer[]{5, 4, 3, 2, 1}, new Solution().reverse(head).data());
     }
 }

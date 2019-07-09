@@ -68,14 +68,14 @@ public class ListNode<T> {
         System.out.println();
     }
 
-    public List<T> data() {
+    public T[] data() {
         List<T> values = new ArrayList<>();
         ListNode<T> current = this;
         while (current != null) {
             values.add(current.data);
             current = current.next;
         }
-        return values;
+        return (T[]) new Object[values.size()];
     }
 
     public int length() {
