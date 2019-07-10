@@ -84,6 +84,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|[P103](src/main/java/in/ashwanik/dcp/problems/p91_120/p103)|
 
 
+## **General (2)**
+| | |
+|--|--|
+|[P128](src/main/java/in/ashwanik/dcp/problems/p121_150/p128)|[P129](src/main/java/in/ashwanik/dcp/problems/p121_150/p129)|
+
+
 ## **Quora (1)**
 | |
 |--|
@@ -148,12 +154,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P122](src/main/java/in/ashwanik/dcp/problems/p121_150/p122)|
-
-
-## **General (1)**
-| |
-|--|
-|[P128](src/main/java/in/ashwanik/dcp/problems/p121_150/p128)|
 
 
  # [Pending Questions](PendingQuestions.md):18
