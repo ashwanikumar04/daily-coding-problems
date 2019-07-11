@@ -2060,7 +2060,7 @@ Move 1 to 3
 Given a real number n, find the square root of n. For example, given n = 9,
 return 3.
 
-## Problem-130:waxing_crescent_moon:
+## [Problem-130](src/main/java/in/ashwanik/dcp/problems/p121_150/p130):sunny:
 
 
 > This problem was asked by Facebook.
