@@ -2060,7 +2060,7 @@ Move 1 to 3
 Given a real number n, find the square root of n. For example, given n = 9,
 return 3.
 
-## [Problem-130](src/main/java/in/ashwanik/dcp/problems/p121_150/p130):sunny:
+## Problem-130:waxing_crescent_moon:
 
 
 > This problem was asked by Facebook.
@@ -2072,7 +2072,7 @@ must sell the stock before you can buy it again.
 
 For example, given k = 2 and the array [5, 2, 4, 0, 1], you should return 3.
 
-## Problem-131:waxing_crescent_moon:
+## [Problem-131](src/main/java/in/ashwanik/dcp/problems/p121_150/p131):sunny:
 
 
 > This question was asked by Snapchat.

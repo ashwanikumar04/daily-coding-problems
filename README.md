@@ -36,6 +36,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)|[P16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16)|[P112](src/main/java/in/ashwanik/dcp/problems/p91_120/p112)|
 
 
+## **Snapchat (3)**
+| | | |
+|--|--|--|
+|[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|[P131](src/main/java/in/ashwanik/dcp/problems/p121_150/p131)|
+
+
 ## **Dropbox (3)**
 | | | |
 |--|--|--|
@@ -64,12 +70,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | | |
 |--|--|
 |[P9](src/main/java/in/ashwanik/dcp/problems/p1_30/p9)|[P92](src/main/java/in/ashwanik/dcp/problems/p91_120/p92)|
-
-
-## **Snapchat (2)**
-| | |
-|--|--|
-|[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|
 
 
 ## **Palantir (2)**
@@ -156,9 +156,9 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P122](src/main/java/in/ashwanik/dcp/problems/p121_150/p122)|
 
 
- # [Pending Questions](PendingQuestions.md):18
+ # [Pending Questions](PendingQuestions.md):19
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |[P19](src/main/java/in/ashwanik/dcp/problems/p1_30/p19)|[P25](src/main/java/in/ashwanik/dcp/problems/p1_30/p25)|[P34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)|[P54](src/main/java/in/ashwanik/dcp/problems/p31_60/p54)|[P56](src/main/java/in/ashwanik/dcp/problems/p31_60/p56)|[P62](src/main/java/in/ashwanik/dcp/problems/p61_90/p62)|[P63](src/main/java/in/ashwanik/dcp/problems/p61_90/p63)|[P64](src/main/java/in/ashwanik/dcp/problems/p61_90/p64)|[P68](src/main/java/in/ashwanik/dcp/problems/p61_90/p68)|[P72](src/main/java/in/ashwanik/dcp/problems/p61_90/p72)|[P75](src/main/java/in/ashwanik/dcp/problems/p61_90/p75)|[P76](src/main/java/in/ashwanik/dcp/problems/p61_90/p76)|[P87](src/main/java/in/ashwanik/dcp/problems/p61_90/p87)|[P93](src/main/java/in/ashwanik/dcp/problems/p91_120/p93)|[P96](src/main/java/in/ashwanik/dcp/problems/p91_120/p96)|
-|[P98](src/main/java/in/ashwanik/dcp/problems/p91_120/p98)|[P106](src/main/java/in/ashwanik/dcp/problems/p91_120/p106)|[P122](src/main/java/in/ashwanik/dcp/problems/p121_150/p122)|
+|[P98](src/main/java/in/ashwanik/dcp/problems/p91_120/p98)|[P106](src/main/java/in/ashwanik/dcp/problems/p91_120/p106)|[P122](src/main/java/in/ashwanik/dcp/problems/p121_150/p122)|[P130](src/main/java/in/ashwanik/dcp/problems/p121_150/p130)|
 
