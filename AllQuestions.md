@@ -2114,7 +2114,7 @@ For example, the inorder successor of 22 is 30.
 
 You can assume each node has a parent pointer.
 
-## Problem-134:waxing_crescent_moon:
+## [Problem-134](src/main/java/in/ashwanik/dcp/problems/p121_150/p134):sunny:
 
 
 > This problem was asked by Facebook.
