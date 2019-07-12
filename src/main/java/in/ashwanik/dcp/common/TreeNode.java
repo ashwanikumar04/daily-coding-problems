@@ -13,7 +13,7 @@ public class TreeNode<T> {
     private T data;
     private TreeNode<T> left;
     private TreeNode<T> right;
-
+    private TreeNode<T> parent;
     private List<T> values;
 
     public TreeNode(T data) {
@@ -25,6 +25,14 @@ public class TreeNode<T> {
         this.left = left;
         this.right = right;
         values = new ArrayList<>();
+    }
+
+    public TreeNode<T> getParent() {
+        return parent;
+    }
+
+    public void setParent(TreeNode<T> parent) {
+        this.parent = parent;
     }
 
     public TreeNode<T> getRight() {

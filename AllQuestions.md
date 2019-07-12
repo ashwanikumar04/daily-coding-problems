@@ -2080,7 +2080,7 @@ For example, given k = 2 and the array [5, 2, 4, 0, 1], you should return 3.
 Given the head to a singly linked list, where each node also has a “random”
 pointer that points to anywhere in the linked list, deep clone the list.
 
-## [Problem-132](src/main/java/in/ashwanik/dcp/problems/p121_150/p132):sunny:
+## Problem-132:waxing_crescent_moon:
 
 
 > This question was asked by Riot Games.
@@ -2095,7 +2095,7 @@ It should support the following operations:
 
 Follow-up: What if our system has limited memory?
 
-## Problem-133:waxing_crescent_moon:
+## [Problem-133](src/main/java/in/ashwanik/dcp/problems/p121_150/p133):sunny:
 
 
 > This problem was asked by Amazon.
