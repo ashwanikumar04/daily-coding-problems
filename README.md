@@ -156,6 +156,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P122](src/main/java/in/ashwanik/dcp/problems/p121_150/p122)|
 
 
+## **Riot Games (1)**
+| |
+|--|
+|[P132](src/main/java/in/ashwanik/dcp/problems/p121_150/p132)|
+
+
  # [Pending Questions](PendingQuestions.md):19
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
