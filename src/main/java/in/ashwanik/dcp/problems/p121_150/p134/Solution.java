@@ -5,7 +5,7 @@ import java.util.Map;
 
 class Solution {
 
-    Map<Integer, Integer> map;
+    private Map<Integer, Integer> map;
 
     Solution() {
         map = new HashMap<>();
