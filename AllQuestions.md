@@ -2215,7 +2215,7 @@ class PeekableInterface(object):
         pass
 
 
-## Problem-140:waxing_crescent_moon:
+## Problem-140:new_moon:
 
 
 > This problem was asked by Facebook.
