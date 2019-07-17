@@ -10,6 +10,6 @@ public class SolutionTest {
     void testIsBalanced() {
         assertTrue(new Solution().isBalanced("(()*"));
         assertTrue(new Solution().isBalanced("(*)"));
-        assertFalse(new Solution().isBalanced(")*( "));
+        assertFalse(new Solution().isBalanced(")*("));
     }
 }
