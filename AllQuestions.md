@@ -2257,7 +2257,7 @@ You're given a string consisting solely of (, ), and *. * can represent either a
 
 For example, (()* and (*) are balanced. )*( is not balanced.
 
-## Problem-143:waxing_crescent_moon:
+## [Problem-143](src/main/java/in/ashwanik/dcp/problems/p121_150/p143):sunny:
 
 
 > This problem was asked by Amazon.
