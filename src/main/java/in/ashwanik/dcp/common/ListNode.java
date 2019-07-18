@@ -1,5 +1,6 @@
 package in.ashwanik.dcp.common;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -68,14 +69,20 @@ public class ListNode<T> {
         System.out.println();
     }
 
-    public T[] data() {
+    public T[] data(Class<T> clazz) {
         List<T> values = new ArrayList<>();
         ListNode<T> current = this;
         while (current != null) {
             values.add(current.data);
             current = current.next;
         }
-        return (T[]) new Object[values.size()];
+
+        T[] arr = (T[]) Array.newInstance(clazz, values.size());
+
+        for (int i = 0; i < values.size(); ++i) {
+            arr[i] = values.get(i);
+        }
+        return arr;
     }
 
     public int length() {

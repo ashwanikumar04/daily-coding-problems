@@ -12,3 +12,4 @@ public class SolutionTest {
         assertArrayEquals(new int[]{9, 3, 5, 10, 10, 14, 12}, array);
     }
 }
+

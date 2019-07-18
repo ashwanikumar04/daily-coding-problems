@@ -15,6 +15,6 @@ public class SolutionTest {
                                         new ListNode<>(5)))));
 
 
-        assertArrayEquals(new Integer[]{5, 4, 3, 2, 1}, new Solution().reverse(head).data());
+        assertArrayEquals(new Integer[]{5, 4, 3, 2, 1}, new Solution().reverse(head).data(Integer.class));
     }
 }
