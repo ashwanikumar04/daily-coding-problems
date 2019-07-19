@@ -163,6 +163,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P132](src/main/java/in/ashwanik/dcp/problems/p121_150/p132)|
 
 
+## **BufferBox (1)**
+| |
+|--|
+|[P146](src/main/java/in/ashwanik/dcp/problems/p121_150/p146)|
+
+
  # [Pending Questions](PendingQuestions.md):22
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|

@@ -2298,7 +2298,7 @@ head.
 
 For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
 
-## Problem-146:waxing_crescent_moon:
+## [Problem-146](src/main/java/in/ashwanik/dcp/problems/p121_150/p146):sunny:
 
 
 > This question was asked by BufferBox.
