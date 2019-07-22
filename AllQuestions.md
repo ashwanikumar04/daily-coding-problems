@@ -2329,7 +2329,7 @@ should be pruned to:
 We do not remove the tree at the root or its left child because it still has a 1 
 as a descendant.
 
-## Problem-147:waxing_crescent_moon:
+## [Problem-147](src/main/java/in/ashwanik/dcp/problems/p121_150/p147):sunny:
 
 
 Given a list, sort it using this method: reverse(lst, i, j), which sorts lst 

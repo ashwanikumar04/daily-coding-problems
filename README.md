@@ -55,6 +55,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36)|[P39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39)|[P54](src/main/java/in/ashwanik/dcp/problems/p31_60/p54)|
 
 
+## **General (3)**
+| | | |
+|--|--|--|
+|[P128](src/main/java/in/ashwanik/dcp/problems/p121_150/p128)|[P129](src/main/java/in/ashwanik/dcp/problems/p121_150/p129)|[P147](src/main/java/in/ashwanik/dcp/problems/p121_150/p147)|
+
+
 ## **Uber (2)**
 | | |
 |--|--|
@@ -83,12 +89,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | | |
 |--|--|
 |[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|[P103](src/main/java/in/ashwanik/dcp/problems/p91_120/p103)|
-
-
-## **General (2)**
-| | |
-|--|--|
-|[P128](src/main/java/in/ashwanik/dcp/problems/p121_150/p128)|[P129](src/main/java/in/ashwanik/dcp/problems/p121_150/p129)|
 
 
 ## **Quora (1)**
