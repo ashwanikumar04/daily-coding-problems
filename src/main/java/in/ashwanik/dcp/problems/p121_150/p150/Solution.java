@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 
 class Solution {
 
-    List<int[]> KNearestPoints(int[][] points, int[] origin, int k) {
+    List<int[]> kNearestPoints(int[][] points, int[] origin, int k) {
         if (points == null || points.length == 0) {
             return null;
         }
