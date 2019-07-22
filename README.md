@@ -169,6 +169,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P146](src/main/java/in/ashwanik/dcp/problems/p121_150/p146)|
 
 
+## **Goldman Sachs (1)**
+| |
+|--|
+|[P149](src/main/java/in/ashwanik/dcp/problems/p121_150/p149)|
+
+
  # [Pending Questions](PendingQuestions.md):22
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
