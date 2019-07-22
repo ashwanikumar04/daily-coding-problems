@@ -2363,7 +2363,7 @@ which is 5.
 You can assume that you can do some pre-processing. sum() should be optimized
 over the pre-processing step.
 
-## Problem-150:waxing_crescent_moon:
+## [Problem-150](src/main/java/in/ashwanik/dcp/problems/p121_150/p150):sunny:
 
 
 > This problem was asked by LinkedIn.

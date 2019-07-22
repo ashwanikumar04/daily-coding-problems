@@ -91,6 +91,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P66](src/main/java/in/ashwanik/dcp/problems/p61_90/p66)|[P103](src/main/java/in/ashwanik/dcp/problems/p91_120/p103)|
 
 
+## **LinkedIn (2)**
+| | |
+|--|--|
+|[P89](src/main/java/in/ashwanik/dcp/problems/p61_90/p89)|[P150](src/main/java/in/ashwanik/dcp/problems/p121_150/p150)|
+
+
 ## **Quora (1)**
 | |
 |--|
@@ -113,12 +119,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P88](src/main/java/in/ashwanik/dcp/problems/p61_90/p88)|
-
-
-## **LinkedIn (1)**
-| |
-|--|
-|[P89](src/main/java/in/ashwanik/dcp/problems/p61_90/p89)|
 
 
 ## **Coursera (1)**
