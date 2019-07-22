@@ -2349,20 +2349,6 @@ Given a number of bits n, generate a possible gray code for it.
 
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
-## [Problem-148](src/main/java/in/ashwanik/dcp/problems/p121_150/p148):sunny:
-
-
-> This problem was asked by Apple.
-
-Gray code [http://links.dailycodingproblem.com/wf/click?upn=-2F03iMydR750DKx07F4BRwazm5j8luycj3n89fhYoThV3RxoDsfQMxS-2BUGiGG5Ry-2F_2pTQ-2Bc3clF-2BjL9RdpDRywyk03GrQi3QeazuszaWzx0gZWh7-2B6yudE-2B-2BG8yJNJ6Fy92YLfByeuMvTQUabC-2Fqcb01AYS1YAiCib7YCB4-2FAizNYPph567bmQv1AXyqAa-2F-2BwA5P6IIoZkvnML-2F4hD7vrpN0lxBnCTyIjFfRj-2BlS9-2Bws31lVVhXV-2F-2B8meHdziltlawnVIjYoS1v0KbFzwo-2FzJFb84SaRLCiVNazz-2BDcWeMoA-3D] is a binary code where each
-successive value differ in only one bit, as well as when wrapping around. Gray
-code is common in hardware so that we don't see temporary spurious values during
-transitions.
-
-Given a number of bits n, generate a possible gray code for it.
-
-For example, for n = 2, one gray code would be [00, 01, 11, 10].
-
 ## [Problem-149](src/main/java/in/ashwanik/dcp/problems/p121_150/p149):sunny:
 
 
