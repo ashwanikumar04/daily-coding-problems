@@ -2335,7 +2335,7 @@ as a descendant.
 Given a list, sort it using this method: reverse(lst, i, j), which sorts lst 
 from i to j`.
 
-## Problem-148:waxing_crescent_moon:
+## [Problem-148](src/main/java/in/ashwanik/dcp/problems/p121_150/p148):sunny:
 
 
 > This problem was asked by Apple.
@@ -2349,7 +2349,7 @@ Given a number of bits n, generate a possible gray code for it.
 
 For example, for n = 2, one gray code would be [00, 01, 11, 10].
 
-## Problem-148:waxing_crescent_moon:
+## [Problem-148](src/main/java/in/ashwanik/dcp/problems/p121_150/p148):sunny:
 
 
 > This problem was asked by Apple.
