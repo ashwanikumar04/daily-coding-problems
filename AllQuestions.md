@@ -2374,7 +2374,7 @@ points from the central point.
 For example, given the list of points [(0, 0), (5, 4), (3, 1)], the central
 point (1, 2), and k = 2, return[(0, 0), (3, 1)].
 
-## Problem-151:waxing_crescent_moon:
+## [Problem-151](src/main/java/in/ashwanik/dcp/problems/p151_180/p151):sunny:
 
 
 Given a 2-D matrix representing an image, a location of a pixel in the screen
