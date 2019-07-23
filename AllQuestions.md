@@ -2412,7 +2412,7 @@ and 4 20% of the time.
 
 You can generate random numbers between 0 and 1 uniformly.
 
-## Problem-153:waxing_crescent_moon:
+## [Problem-153](src/main/java/in/ashwanik/dcp/problems/p151_180/p153):sunny:
 
 
 Find an efficient algorithm to find the smallest distance (measured in number of
