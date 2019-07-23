@@ -2398,7 +2398,7 @@ G G G
 B B B
 
 
-## Problem-152:waxing_crescent_moon:
+## Problem-152:new_moon:
 
 
 > This problem was asked by Triplebyte.
