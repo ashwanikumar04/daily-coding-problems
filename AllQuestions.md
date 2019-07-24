@@ -2499,7 +2499,7 @@ Return two, as there are only two ways to get to the bottom right:
 
 The top left corner and bottom right corner will always be 0.
 
-## Problem-159:waxing_crescent_moon:
+## [Problem-159](src/main/java/in/ashwanik/dcp/problems/p151_180/p159):sunny:
 
 
 > This problem was asked by Google.
