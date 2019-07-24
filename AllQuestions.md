@@ -2463,7 +2463,7 @@ For example, given n = 13, return 2 since 13 = 32 + 22 = 9 + 4.
 
 Given n = 27, return 3 since 27 = 32 + 32 + 32 = 9 + 9 + 9.
 
-## Problem-157:waxing_crescent_moon:
+## [Problem-157](src/main/java/in/ashwanik/dcp/problems/p151_180/p157):sunny:
 
 
 > This problem was asked by Amazon.
