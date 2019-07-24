@@ -2451,7 +2451,7 @@ You can assume that such element exists.
 
 For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
-## Problem-156:waxing_crescent_moon:
+## [Problem-156](src/main/java/in/ashwanik/dcp/problems/p151_180/p156):sunny:
 
 
 > This problem was asked by Facebook.
