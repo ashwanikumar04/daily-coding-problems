@@ -175,6 +175,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P149](src/main/java/in/ashwanik/dcp/problems/p121_150/p149)|
 
 
+## **MongoDB (1)**
+| |
+|--|
+|[P155](src/main/java/in/ashwanik/dcp/problems/p151_180/p155)|
+
+
  # [Pending Questions](PendingQuestions.md):23
 | | | | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
