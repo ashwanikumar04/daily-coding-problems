@@ -2535,7 +2535,7 @@ longest path would be c -> a -> d -> f, with a length of 17.
 The path does not have to pass through the root, and each node can have any
 amount of children.
 
-## Problem-161:waxing_crescent_moon:
+## Problem-161:new_moon:
 
 
 > This problem was asked by Facebook.
