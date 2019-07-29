@@ -2611,7 +2611,7 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
  * There is 1 smaller element to the right of 6
  * There are no smaller elements to the right of 1
 
-## Problem-166:waxing_crescent_moon:
+## [Problem-166](src/main/java/in/ashwanik/dcp/problems/p151_180/p166):sunny:
 
 
 > This problem was asked by Uber.
