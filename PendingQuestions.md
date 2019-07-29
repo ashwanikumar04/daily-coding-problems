@@ -486,3 +486,14 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
  * There is 1 smaller element to the right of 6
  * There are no smaller elements to the right of 1
 
+## Problem-167
+
+
+> This problem was asked by Airbnb.
+
+Given a list of words, find all pairs of unique indices such that the
+concatenation of the two words is a palindrome.
+
+For example, given the list ["code", "edoc", "da", "d"], return [(0, 1), (1, 0),
+(2, 3)].
+
