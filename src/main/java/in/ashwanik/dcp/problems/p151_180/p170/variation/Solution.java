@@ -46,31 +46,13 @@ class Solution {
         return null;
     }
 
-    private boolean isDifferByOneCharacter(String a, String b) {
-        int count = 0;
-        for (int index = 0; index < a.length(); index++) {
-            if (a.charAt(index) == b.charAt(index)) {
-                continue;
-            }
-            if (count == 1) {
-                return false;
-            }
-            if (a.charAt(index) != b.charAt(index)) {
-                count = 1;
-            }
-        }
-
-        return count == 1;
-
-    }
-
     private void createGraph() {
         String letters = "abcdefghijklmnopqrstuvwxyz";
         for (String str : dictionary) {
             for (int index = 0; index < str.length(); index++) {
-                //addPathForDeleting(str, index);
+                addPathForDeleting(str, index);
                 addPathForChanging(letters, str, index);
-                //addPathForAdding(letters, str, index);
+                addPathForAdding(letters, str, index);
             }
         }
     }
