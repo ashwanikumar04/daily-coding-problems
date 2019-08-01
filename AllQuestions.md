@@ -2760,7 +2760,7 @@ it should become:
 
 You can assume keys do not contain dots in them, i.e. no clobbering will occur.
 
-## Problem-174:waxing_crescent_moon:
+## Problem-174:new_moon:
 
 
 > This problem was asked by Microsoft.
