@@ -2728,7 +2728,7 @@ are no substrings composed of "dog" and "cat" in s.
 
 The order of the indices does not matter.
 
-## Problem-173:waxing_crescent_moon:
+## [Problem-173](src/main/java/in/ashwanik/dcp/problems/p151_180/p173):sunny:
 
 
 > This problem was asked by Stripe.

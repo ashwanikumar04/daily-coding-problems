@@ -58,6 +58,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P36](src/main/java/in/ashwanik/dcp/problems/p31_60/p36)|[P39](src/main/java/in/ashwanik/dcp/problems/p31_60/p39)|[P54](src/main/java/in/ashwanik/dcp/problems/p31_60/p54)|[P172](src/main/java/in/ashwanik/dcp/problems/p151_180/p172)|
 
 
+## **Stripe (3)**
+| | | |
+|--|--|--|
+|[P4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4)|[P97](src/main/java/in/ashwanik/dcp/problems/p91_120/p97)|[P173](src/main/java/in/ashwanik/dcp/problems/p151_180/p173)|
+
+
 ## **Airbnb (3)**
 | | | |
 |--|--|--|
@@ -74,12 +80,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | | | |
 |--|--|--|
 |[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|[P131](src/main/java/in/ashwanik/dcp/problems/p121_150/p131)|
-
-
-## **Stripe (2)**
-| | |
-|--|--|
-|[P4](src/main/java/in/ashwanik/dcp/problems/p1_30/p4)|[P97](src/main/java/in/ashwanik/dcp/problems/p91_120/p97)|
 
 
 ## **Palantir (2)**
