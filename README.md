@@ -190,6 +190,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P158](src/main/java/in/ashwanik/dcp/problems/p151_180/p158)|
 
 
+## **Bloomberg (1)**
+| |
+|--|
+|[P176](src/main/java/in/ashwanik/dcp/problems/p151_180/p176)|
+
+
  # [Pending Questions](PendingQuestions.md):27
 | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|

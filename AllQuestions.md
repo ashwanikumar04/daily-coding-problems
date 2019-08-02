@@ -2799,7 +2799,7 @@ transition probabilities:
 One instance of running this Markov chain might produce { 'a': 3012, 'b': 1656,
 'c': 332 }.
 
-## Problem-176:waxing_crescent_moon:
+## [Problem-176](src/main/java/in/ashwanik/dcp/problems/p151_180/p176):sunny:
 
 
 > This problem was asked by Bloomberg.
