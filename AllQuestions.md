@@ -5619,3 +5619,655 @@ and skip straight to final interviews with top tech companies!
 
 --------------------------------------------------------------------------------
 
+## Problem-338:waxing_crescent_moon:
+
+
+> This problem was asked by Facebook.
+
+Given an integer n, find the next biggest integer with the same number of 1-bits
+on. For example, given the number 6 (0110 in binary), return 9 (1001).
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
+and skip straight to final interviews with top tech companies!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-339:waxing_crescent_moon:
+
+
+> This problem was asked by Microsoft.
+
+Given an array of numbers and a number k, determine if there are three entries
+in the array which add up to the specified number k. For example, given [20,
+303, 3, 4, 25] and k = 49, returntrue as 20 + 4 + 25 = 49.
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
+and skip straight to final interviews with top tech companies!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-340:waxing_crescent_moon:
+
+
+> This problem was asked by Google.
+
+Given a set of points (x, y) on a 2D cartesian plane, find the two closest
+points. For example, given the points [(1, 1), (-1, -1), (3, 4), (6, 1), (-1,
+-6), (-4, -3)], return [(-1, -1), (1, 1)].
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
+and skip straight to final interviews with top tech companies!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-341:waxing_crescent_moon:
+
+
+> This problem was asked by Google.
+
+You are given an N by N matrix of random letters and a dictionary of words. Find
+the maximum number of words that can be packed on the board from the given
+dictionary.
+
+A word is considered to be able to be packed on the board if:
+
+ * It can be found in the dictionary
+ * It can be constructed from untaken letters by other words found so far on the
+   board
+ * The letters are adjacent to each other (vertically and horizontally, not
+   diagonally).
+
+Each tile can be visited only once by any word.
+
+For example, given the following dictionary:
+
+{ 'eat', 'rain', 'in', 'rat' }
+
+
+and matrix:
+
+[['e', 'a', 'n'],
+ ['t', 't', 'i'],
+ ['a', 'r', 'a']]
+
+
+Your function should return 3, since we can make the words 'eat', 'in', and
+'rat' without them touching each other. We could have alternatively made 'eat'
+and 'rain', but that would be incorrect since that's only 2 words.
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
+and skip straight to final interviews with top tech companies!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-342:waxing_crescent_moon:
+
+
+> This problem was asked by Stripe.
+
+reduce (also known as fold) is a function that takes in an array, a combining
+function, and an initial value and builds up a result by calling the combining
+function on each element of the array, left to right. For example, we can write 
+sum() in terms of reduce:
+
+def add(a, b):
+    return a + b
+
+def sum(lst):
+    return reduce(lst, add, 0)
+
+
+This should call add on the initial value with the first element of the array,
+and then the result of that with the second element of the array, and so on
+until we reach the end, when we return the sum of the array.
+
+Implement your own version of reduce.
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
+and skip straight to final interviews with top tech companies!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-343:waxing_crescent_moon:
+
+
+> This problem was asked by Google.
+
+Given a binary search tree and a range [a, b] (inclusive), return the sum of the
+elements of the binary search tree within the range.
+
+For example, given the following tree:
+
+    5
+   / \
+  3   8
+ / \ / \
+2  4 6  10
+
+
+and the range [4, 9], return 23 (5 + 4 + 6 + 8).
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-344:waxing_crescent_moon:
+
+
+> This problem was asked by Adobe.
+
+You are given a tree with an even number of nodes. Consider each connection
+between a parent and child node to be an "edge". You would like to remove some
+of these edges, such that the disconnected subtrees that remain each have an
+even number of nodes.
+
+For example, suppose your input was the following tree:
+
+   1
+  / \ 
+ 2   3
+    / \ 
+   4   5
+ / | \
+6  7  8
+
+
+In this case, removing the edge (3, 4) satisfies our requirement.
+
+Write a function that returns the maximum number of edges you can remove while
+still satisfying this requirement.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-345:waxing_crescent_moon:
+
+
+> This problem was asked by Google.
+
+You are given a set of synonyms, such as (big, large) and (eat, consume). Using
+this set, determine if two sentences with the same number of words are
+equivalent.
+
+For example, the following two sentences are equivalent:
+
+ * "He wants to eat food."
+ * "He wants to consume food."
+
+Note that the synonyms (a, b) and (a, c) do not necessarily imply (b, c):
+consider the case of (coach, bus) and (coach, teacher).
+
+Follow-up: what if we can assume that (a, b) and (a, c) do in fact imply (b, c)?
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-346:waxing_crescent_moon:
+
+
+> This problem was asked by Airbnb.
+
+You are given a huge list of airline ticket prices between different cities
+around the world on a given day. These are all direct flights. Each element in
+the list has the format (source_city, destination, price).
+
+Consider a user who is willing to take up to k connections from their origin
+city A to their destination B. Find the cheapest fare possible for this journey
+and print the itinerary for that journey.
+
+For example, our traveler wants to go from JFK to LAX with up to 3 connections,
+and our input flights are as follows:
+
+[
+    ('JFK', 'ATL', 150),
+    ('ATL', 'SFO', 400),
+    ('ORD', 'LAX', 200),
+    ('LAX', 'DFW', 80),
+    ('JFK', 'HKG', 800),
+    ('ATL', 'ORD', 90),
+    ('JFK', 'LAX', 500),
+]
+
+
+Due to some improbably low flight prices, the cheapest itinerary would be JFK ->
+ATL -> ORD -> LAX, costing $440.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-347:waxing_crescent_moon:
+
+
+> This problem was asked by Yahoo.
+
+You are given a string of length N and a parameter k. The string can be
+manipulated by taking one of the first k letters and moving it to the end.
+
+Write a program to determine the lexicographically smallest string that can be
+created after an unlimited number of moves.
+
+For example, suppose we are given the string daily and k = 1. The best we can
+create in this case is ailyd.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-348:waxing_crescent_moon:
+
+
+> This problem was asked by Zillow.
+
+A ternary search tree is a trie-like data structure where each node may have up
+to three children. Here is an example which represents the words code, cob, be, 
+ax, war, and we.
+
+       c
+    /  |  \
+   b   o   w
+ / |   |   |
+a  e   d   a
+|    / |   | \ 
+x   b  e   r  e  
+
+
+The tree is structured according to the following rules:
+
+ * left child nodes link to words lexicographically earlier than the parent
+   prefix
+ * right child nodes link to words lexicographically later than the parent
+   prefix
+ * middle child nodes continue the current word
+
+For instance, since code is the first word inserted in the tree, and cob 
+lexicographically precedes cod, cob is represented as a left child extending
+from cod.
+
+Implement insertion and search functions for a ternary search tree.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-349:waxing_crescent_moon:
+
+
+> This problem was asked by Grammarly.
+
+Soundex [https://en.wikipedia.org/wiki/Soundex] is an algorithm used to
+categorize phonetically, such that two names that sound alike but are spelled
+differently have the same representation.
+
+Soundex maps every name to a string consisting of one letter and three numbers,
+like M460.
+
+One version of the algorithm is as follows:
+
+ 1. Remove consecutive consonants with the same sound (for example, change ck ->
+    c).
+ 2. Keep the first letter. The remaining steps only apply to the rest of the
+    string.
+ 3. Remove all vowels, including y, w, and h.
+ 4. Replace all consonants with the following digits: * b, f, p, v → 1
+     * c, g, j, k, q, s, x, z →
+       2
+     * d, t → 3
+     * l → 4
+     * m, n → 5
+     * r → 6
+    
+    
+ 5. If you don't have three numbers yet, append zeros until you do. Keep the
+    first three numbers.
+
+Using this scheme, Jackson and Jaxen both map to J250.
+
+Implement Soundex.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-350:waxing_crescent_moon:
+
+
+> This problem was asked by Uber.
+
+Write a program that determines the smallest number of perfect squares that sum
+up to N.
+
+Here are a few examples:
+
+ * Given N = 4, return 1 (4)
+ * Given N = 17, return 2 (16 + 1)
+ * Given N = 18, return 2 (9 + 9)
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-351:waxing_crescent_moon:
+
+
+> This problem was asked by Quora.
+
+Word sense disambiguation is the problem of determining which sense a word takes
+on in a particular setting, if that word has multiple meanings. For example, in
+the sentence "I went to get money from the bank", bank probably means the place
+where people deposit money, not the land beside a river or lake.
+
+Suppose you are given a list of meanings for several words, formatted like so:
+
+{
+    "word_1": ["meaning one", "meaning two", ...],
+    ...
+    "word_n": ["meaning one", "meaning two", ...]
+}
+
+
+Given a sentence, most of whose words are contained in the meaning list above,
+create an algorithm that determines the likely sense of each possibly ambiguous
+word.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-352:waxing_crescent_moon:
+
+
+> This problem was asked by Palantir.
+
+A typical American-style crossword puzzle grid is an N x N matrix with black and
+white squares, which obeys the following rules:
+
+ * Every white square must be part of an "across" word and a "down" word.
+ * No word can be fewer than three letters long.
+ * Every white square must be reachable from every other white square.
+ * The grid is rotationally symmetric (for example, the colors of the top left
+   and bottom right squares must match).
+
+Write a program to determine whether a given matrix qualifies as a crossword
+grid.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-353:waxing_crescent_moon:
+
+
+> This problem was asked by Square.
+
+You are given a histogram consisting of rectangles of different heights. These
+heights are represented in an input list, such that [1, 3, 2, 5] corresponds to
+the following diagram:
+
+      x
+      x  
+  x   x
+  x x x
+x x x x
+
+
+Determine the area of the largest rectangle that can be formed only from the
+bars of the histogram. For the diagram above, for example, this would be six,
+representing the 2 x 3 area at the bottom right.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-354:waxing_crescent_moon:
+
+
+> This problem was asked by Google.
+
+Design a system to crawl and copy all of Wikipedia using a distributed network
+of machines.
+
+More specifically, suppose your server has access to a set of client machines.
+Your client machines can execute code you have written to access Wikipedia
+pages, download and parse their data, and write the results to a database.
+
+Some questions you may want to consider as part of your solution are:
+
+ * How will you reach as many pages as possible?
+ * How can you keep track of pages that have already been visited?
+ * How will you deal with your client machines being blacklisted?
+ * How can you update your database when Wikipedia pages are added or updated?
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-355:waxing_crescent_moon:
+
+
+> This problem was asked by Airbnb.
+
+You are given an array X of floating-point numbers x1, x2, ... xn. These can be
+rounded up or down to create a corresponding array Y of integers y1, y2, ... yn.
+
+Write an algorithm that finds an appropriate Y array with the following
+properties:
+
+ * The rounded sums of both arrays should be equal.
+ * The absolute pairwise difference between elements is minimized. In other
+   words, |x1- y1| + |x2- y2| + ... + |xn- yn| should be as small as possible.
+
+For example, suppose your input is [1.3, 2.3, 4.4]. In this case you cannot do
+better than [1, 2, 5], which has an absolute difference of |1.3 - 1| + |2.3 - 2|
++ |4.4 - 5| = 1.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-356:waxing_crescent_moon:
+
+
+> This problem was asked by Netflix.
+
+Implement a queue using a set of fixed-length arrays.
+
+The queue should support enqueue, dequeue, and get_size operations.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-357:waxing_crescent_moon:
+
+
+> This problem was asked by LinkedIn.
+
+You are given a binary tree in a peculiar string representation. Each node is
+written in the form (lr), where l corresponds to the left child and r 
+corresponds to the right child.
+
+If either l or r is null, it will be represented as a zero. Otherwise, it will
+be represented by a new (lr) pair.
+
+Here are a few examples:
+
+ * A root node with no children: (00)
+ * A root node with two children: ((00)(00))
+ * An unbalanced tree with three consecutive left children: ((((00)0)0)0)
+
+Given this representation, determine the depth of the tree.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-358:waxing_crescent_moon:
+
+
+> This problem was asked by Dropbox.
+
+Create a data structure that performs all the following operations in O(1) time:
+
+ * plus: Add a key with value 1. If the key already exists, increment its value
+   by one.
+ * minus: Decrement the value of a key. If the key's value is currently 1,
+   remove it.
+ * get_max: Return a key with the highest value.
+ * get_min: Return a key with the lowest value.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-359:waxing_crescent_moon:
+
+
+> This problem was asked by Slack.
+
+You are given a string formed by concatenating several words corresponding to
+the integers zero through nine and then anagramming.
+
+For example, the input could be 'niesevehrtfeev', which is an anagram of
+'threefiveseven'. Note that there can be multiple instances of each integer.
+
+Given this string, return the original integers in sorted order. In the example
+above, this would be 357.
+
+
+--------------------------------------------------------------------------------
+
+Are you underpaid? See salary bands and career ladders at top tech companies on 
+Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
+
+
+--------------------------------------------------------------------------------
+
+## Problem-360:waxing_crescent_moon:
+
+
+> This problem was asked by Spotify.
+
+You have access to ranked lists of songs for various users. Each song is
+represented as an integer, and more preferred songs appear earlier in each list.
+For example, the list [4, 1, 7] indicates that a user likes song 4 the best,
+followed by songs 1 and 7.
+
+Given a set of these ranked lists, interleave them to create a playlist that
+satisfies everyone's priorities.
+
+For example, suppose your input is {[1, 7, 3], [2, 1, 6, 7, 9], [3, 9, 5]}. In
+this case a satisfactory playlist could be [2, 1, 6, 7, 3, 9, 5]. 
+
+
+--------------------------------------------------------------------------------
+
+Ready to interview? Apply to top tech companies and startups in seconds through 
+Talentvine, our exclusive candidate network
+[https://www.talentvine.io/?ref=dailycodingproblem]!
+
+
+--------------------------------------------------------------------------------
+
