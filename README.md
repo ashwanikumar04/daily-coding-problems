@@ -88,6 +88,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P28](src/main/java/in/ashwanik/dcp/problems/p1_30/p28)|[P95](src/main/java/in/ashwanik/dcp/problems/p91_120/p95)|
 
 
+## **Two Sigma (2)**
+| | |
+|--|--|
+|[P45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)|[P178](src/main/java/in/ashwanik/dcp/problems/p151_180/p178)|
+
+
 ## **Square (2)**
 | | |
 |--|--|
@@ -110,12 +116,6 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 | |
 |--|
 |[P34](src/main/java/in/ashwanik/dcp/problems/p31_60/p34)|
-
-
-## **Two Sigma (1)**
-| |
-|--|
-|[P45](src/main/java/in/ashwanik/dcp/problems/p31_60/p45)|
 
 
 ## **Yelp (1)**

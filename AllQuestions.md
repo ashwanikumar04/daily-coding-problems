@@ -2827,7 +2827,7 @@ For example, given the linked list 7 -> 7 -> 3 -> 5 and k = 2, it should become
 Given the linked list 1 -> 2 -> 3 -> 4 -> 5 and k = 3, it should become 3 -> 4
 -> 5 -> 1 -> 2.
 
-## Problem-178:waxing_crescent_moon:
+## [Problem-178](src/main/java/in/ashwanik/dcp/problems/p151_180/p178):sunny:
 
 
 > This problem was asked by Two Sigma.
