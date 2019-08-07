@@ -2844,7 +2844,7 @@ a five.
 Which of the two games should Alice elect to play? Does it even matter? Write a
 program to simulate the two games and calculate their expected value.
 
-## Problem-179:waxing_crescent_moon:
+## [Problem-179](src/main/java/in/ashwanik/dcp/problems/p151_180/p179):sunny:
 
 
 > This problem was asked by Google.
