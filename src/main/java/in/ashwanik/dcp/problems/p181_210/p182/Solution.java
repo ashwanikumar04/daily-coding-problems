@@ -23,7 +23,9 @@ class Solution {
     private boolean dfs(int v, int[][] graph, boolean[] visited) {
         visited[v] = true;
         for (int i : graph[v]) {
-            if (!visited[i] && !dfs(i, graph, visited)) {
+            if (visited[i]) {
+                return false;
+            } else if (!dfs(i, graph, visited)) {
                 return false;
             }
         }
