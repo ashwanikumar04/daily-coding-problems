@@ -2956,7 +2956,7 @@ the difference between the sum of the subsets is as small as possible.
 For example, given [5, 10, 15, 20, 25], return the sets {10, 25} and {5, 15, 20}
 , which has a difference of 5, which is the smallest possible difference.
 
-## Problem-187:waxing_crescent_moon:
+## Problem-187:new_moon:
 
 
 > This problem was asked by Google.
