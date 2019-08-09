@@ -2919,7 +2919,7 @@ Given n numbers, find the greatest common denominator between them.
 
 For example, given the numbers [42, 56, 14], return 14.
 
-## [Problem-185](src/main/java/in/ashwanik/dcp/problems/p181_210/p185):sunny:
+## Problem-185:new_moon:
 
 
 > This problem was asked by Google.
