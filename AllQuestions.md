@@ -2903,7 +2903,7 @@ is minimally-connected.
 Given an undirected graph, check if the graph is minimally-connected. You can
 choose to represent the graph as either an adjacency matrix or adjacency list.
 
-## Problem-183:waxing_crescent_moon:
+## Problem-183:new_moon:
 
 
 > This problem was asked by Twitch.
