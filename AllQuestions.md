@@ -2983,7 +2983,7 @@ For example, given the following rectangles:
 
 return true as the first and third rectangle overlap each other.
 
-## Problem-188:waxing_crescent_moon:
+## Problem-188:new_moon:
 
 
 > This problem was asked by Google.
