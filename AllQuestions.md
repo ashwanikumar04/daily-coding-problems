@@ -3018,7 +3018,7 @@ its elements are distinct.
 For example, given the array [5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest
 subarray of distinct elements is [5, 2, 3, 4, 1].
 
-## Problem-190:waxing_crescent_moon:
+## [Problem-190](src/main/java/in/ashwanik/dcp/problems/p181_210/p190):sunny:
 
 
 > This problem was asked by Facebook.
