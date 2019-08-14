@@ -571,3 +571,13 @@ you could buy the stock at 1 dollar, and sell at 8 dollars, and then buy it at 4
 dollars and sell it at 10 dollars. Since we did two transactions, there is a 4
 dollar fee, so we have 7 + 6 = 13 profit minus 4 dollars of fees.
 
+## Problem-194
+
+
+> This problem was asked by Facebook.
+
+Suppose you are given two lists of n points, one list p1, p2, ..., pnon the line
+y = 0 and the other list q1, q2, ..., qn on the line y = 1. Imagine a set of n 
+line segments connecting each point pi to qi. Write an algorithm to determine
+how many pairs of the line segments intersect.
+
