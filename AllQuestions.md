@@ -3046,7 +3046,7 @@ interval can be removed and the first two won't overlap.
 
 The intervals are not necessarily sorted in any order.
 
-## [Problem-192](src/main/java/in/ashwanik/dcp/problems/p181_210/p192):sunny:
+## Problem-192:waxing_crescent_moon:
 
 
 > This problem was asked by Google.
