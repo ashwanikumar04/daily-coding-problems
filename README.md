@@ -35,10 +35,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P127](src/main/java/in/ashwanik/dcp/problems/p121_150/p127)|[P141](src/main/java/in/ashwanik/dcp/problems/p121_150/p141)|[P186](src/main/java/in/ashwanik/dcp/problems/p181_210/p186)|
 
 
-## **Apple (5)**
-| | | | | |
-|--|--|--|--|--|
-|[P53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)|[P74](src/main/java/in/ashwanik/dcp/problems/p61_90/p74)|[P93](src/main/java/in/ashwanik/dcp/problems/p91_120/p93)|[P135](src/main/java/in/ashwanik/dcp/problems/p121_150/p135)|[P148](src/main/java/in/ashwanik/dcp/problems/p121_150/p148)|
+## **Apple (6)**
+| | | | | | |
+|--|--|--|--|--|--|
+|[P53](src/main/java/in/ashwanik/dcp/problems/p31_60/p53)|[P74](src/main/java/in/ashwanik/dcp/problems/p61_90/p74)|[P93](src/main/java/in/ashwanik/dcp/problems/p91_120/p93)|[P135](src/main/java/in/ashwanik/dcp/problems/p121_150/p135)|[P148](src/main/java/in/ashwanik/dcp/problems/p121_150/p148)|[P196](src/main/java/in/ashwanik/dcp/problems/p181_210/p196)|
 
 
 ## **General (5)**
