@@ -21,11 +21,11 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P190](src/main/java/in/ashwanik/dcp/problems/p181_210/p190)|[P194](src/main/java/in/ashwanik/dcp/problems/p181_210/p194)|
 
 
-## **Amazon (17)**
+## **Amazon (18)**
 | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|
 |[P12](src/main/java/in/ashwanik/dcp/problems/p1_30/p12)|[P13](src/main/java/in/ashwanik/dcp/problems/p1_30/p13)|[P29](src/main/java/in/ashwanik/dcp/problems/p1_30/p29)|[P43](src/main/java/in/ashwanik/dcp/problems/p31_60/p43)|[P46](src/main/java/in/ashwanik/dcp/problems/p31_60/p46)|[P49](src/main/java/in/ashwanik/dcp/problems/p31_60/p49)|[P57](src/main/java/in/ashwanik/dcp/problems/p31_60/p57)|[P58](src/main/java/in/ashwanik/dcp/problems/p31_60/p58)|[P65](src/main/java/in/ashwanik/dcp/problems/p61_90/p65)|[P84](src/main/java/in/ashwanik/dcp/problems/p61_90/p84)|[P133](src/main/java/in/ashwanik/dcp/problems/p121_150/p133)|[P137](src/main/java/in/ashwanik/dcp/problems/p121_150/p137)|
-|[P143](src/main/java/in/ashwanik/dcp/problems/p121_150/p143)|[P154](src/main/java/in/ashwanik/dcp/problems/p151_180/p154)|[P157](src/main/java/in/ashwanik/dcp/problems/p151_180/p157)|[P171](src/main/java/in/ashwanik/dcp/problems/p151_180/p171)|[P184](src/main/java/in/ashwanik/dcp/problems/p181_210/p184)|
+|[P143](src/main/java/in/ashwanik/dcp/problems/p121_150/p143)|[P154](src/main/java/in/ashwanik/dcp/problems/p151_180/p154)|[P157](src/main/java/in/ashwanik/dcp/problems/p151_180/p157)|[P171](src/main/java/in/ashwanik/dcp/problems/p151_180/p171)|[P184](src/main/java/in/ashwanik/dcp/problems/p181_210/p184)|[P197](src/main/java/in/ashwanik/dcp/problems/p181_210/p197)|
 
 
 ## **Microsoft (15)**
