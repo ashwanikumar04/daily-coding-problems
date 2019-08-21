@@ -3202,7 +3202,7 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the
 integer into a string.
 
-## Problem-203:waxing_crescent_moon:
+## [Problem-203](src/main/java/in/ashwanik/dcp/problems/p181_210/p203):sunny:
 
 
 > This problem was asked by Uber.
