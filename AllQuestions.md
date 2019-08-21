@@ -3213,7 +3213,7 @@ array does not contain duplicates.
 
 For example, given [5, 7, 10, 3, 4], return 3.
 
-## Problem-204:waxing_crescent_moon:
+## [Problem-204](src/main/java/in/ashwanik/dcp/problems/p181_210/p204):sunny:
 
 
 > This problem was asked by Amazon.
