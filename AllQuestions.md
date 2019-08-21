@@ -3193,7 +3193,7 @@ For example, 1 -> 3 -> 5. The weight of the path is the sum of the entries.
 
 Write a program that returns the weight of the maximum weight path.
 
-## Problem-202:waxing_crescent_moon:
+## [Problem-202](src/main/java/in/ashwanik/dcp/problems/p181_210/p202):sunny:
 
 
 > This problem was asked by Palantir.
