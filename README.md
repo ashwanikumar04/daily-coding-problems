@@ -203,6 +203,12 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P193](src/main/java/in/ashwanik/dcp/problems/p181_210/p193)|
 
 
+## **IBM (1)**
+| |
+|--|
+|[P205](src/main/java/in/ashwanik/dcp/problems/p181_210/p205)|
+
+
  # [Pending Questions](PendingQuestions.md):34
 | | | | | | | | | | | | |
 |--|--|--|--|--|--|--|--|--|--|--|--|

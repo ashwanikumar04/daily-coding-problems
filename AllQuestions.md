@@ -3222,7 +3222,7 @@ Given a complete binary tree, count the number of nodes in faster than O(n)
 time. Recall that a complete binary tree has every level filled except the last,
 and the nodes in the last level are filled starting from the left.
 
-## Problem-205:waxing_crescent_moon:
+## [Problem-205](src/main/java/in/ashwanik/dcp/problems/p181_210/p205):sunny:
 
 
 > This problem was asked by IBM.
