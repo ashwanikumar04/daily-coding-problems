@@ -3230,7 +3230,7 @@ and the nodes in the last level are filled starting from the left.
 Given an integer, find the next permutation of it in absolute order. For
 example, given 48975, the next permutation would be 49578.
 
-## Problem-206:waxing_crescent_moon:
+## [Problem-206](src/main/java/in/ashwanik/dcp/problems/p181_210/p206):sunny:
 
 
 > This problem was asked by Twitter.
