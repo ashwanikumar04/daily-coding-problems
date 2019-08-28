@@ -3252,7 +3252,7 @@ Given an undirected graph G, check whether it is bipartite. Recall that a graph
 is bipartite if its vertices can be divided into two independent sets, U and V,
 such that no edge connects vertices of the same set.
 
-## Problem-208:waxing_crescent_moon:
+## [Problem-208](src/main/java/in/ashwanik/dcp/problems/p181_210/p208):sunny:
 
 
 > This problem was asked by LinkedIn.
