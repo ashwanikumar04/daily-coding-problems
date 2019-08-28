@@ -593,3 +593,12 @@ smallest set of points that stabs X.
 For example, given the intervals [(1, 4), (4, 5), (7, 9), (9, 12)], you should
 return [4, 9].
 
+## Problem-207
+
+
+> This problem was asked by Dropbox.
+
+Given an undirected graph G, check whether it is bipartite. Recall that a graph
+is bipartite if its vertices can be divided into two independent sets, U and V,
+such that no edge connects vertices of the same set.
+
