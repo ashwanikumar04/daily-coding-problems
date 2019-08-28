@@ -602,3 +602,13 @@ Given an undirected graph G, check whether it is bipartite. Recall that a graph
 is bipartite if its vertices can be divided into two independent sets, U and V,
 such that no edge connects vertices of the same set.
 
+## Problem-209
+
+
+> This problem was asked by YouTube.
+
+Write a program that computes the length of the longest common subsequence of
+three given strings. For example, given "epidemiologist", "refrigeration", and
+"supercalifragilisticexpialodocious", it should return 5, since the longest
+common subsequence is "eieio".
+
