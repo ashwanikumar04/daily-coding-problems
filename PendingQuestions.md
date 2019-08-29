@@ -612,3 +612,12 @@ three given strings. For example, given "epidemiologist", "refrigeration", and
 "supercalifragilisticexpialodocious", it should return 5, since the longest
 common subsequence is "eieio".
 
+## Problem-211
+
+
+> This problem was asked by Microsoft.
+
+Given a string and a pattern, find the starting indices of all occurrences of
+the pattern in the string. For example, given the string "abracadabra" and the
+pattern "abr", you should return [0, 7].
+
