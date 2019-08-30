@@ -3298,7 +3298,7 @@ Given a string and a pattern, find the starting indices of all occurrences of
 the pattern in the string. For example, given the string "abracadabra" and the
 pattern "abr", you should return [0, 7].
 
-## Problem-212:waxing_crescent_moon:
+## [Problem-212](src/main/java/in/ashwanik/dcp/problems/p211_240/p212):sunny:
 
 
 > This problem was asked by Dropbox.
