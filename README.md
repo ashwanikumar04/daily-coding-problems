@@ -77,10 +77,10 @@ Solutions to the coding problems from [Daily coding problem](https://dailycoding
 |[P11](src/main/java/in/ashwanik/dcp/problems/p1_30/p11)|[P16](src/main/java/in/ashwanik/dcp/problems/p1_30/p16)|[P112](src/main/java/in/ashwanik/dcp/problems/p91_120/p112)|[P206](src/main/java/in/ashwanik/dcp/problems/p181_210/p206)|
 
 
-## **Snapchat (3)**
-| | | |
-|--|--|--|
-|[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|[P131](src/main/java/in/ashwanik/dcp/problems/p121_150/p131)|
+## **Snapchat (4)**
+| | | | |
+|--|--|--|--|
+|[P21](src/main/java/in/ashwanik/dcp/problems/p1_30/p21)|[P77](src/main/java/in/ashwanik/dcp/problems/p61_90/p77)|[P131](src/main/java/in/ashwanik/dcp/problems/p121_150/p131)|[P213](src/main/java/in/ashwanik/dcp/problems/p211_240/p213)|
 
 
 ## **Palantir (3)**
