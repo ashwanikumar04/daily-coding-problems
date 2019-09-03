@@ -8,6 +8,7 @@ public class SolutionTest {
     @Test
     void testRomanToDecimal() {
         Solution solution = new Solution();
+        assertEquals(5, solution.convertRomanToDecimal("V"));
         assertEquals(4, solution.convertRomanToDecimal("IV"));
         assertEquals(40, solution.convertRomanToDecimal("XL"));
         assertEquals(14, solution.convertRomanToDecimal("XIV"));

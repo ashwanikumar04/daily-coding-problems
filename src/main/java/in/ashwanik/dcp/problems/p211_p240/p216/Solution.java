@@ -24,6 +24,9 @@ class Solution {
         }
         int result = 0;
         int index = 0;
+        if (roman.length() == 1) {
+            return map.get(roman.charAt(0));
+        }
         while (index < roman.length()) {
             int current = map.get(roman.charAt(index));
             int next = map.get(roman.charAt(index + 1));
