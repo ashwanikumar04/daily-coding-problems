@@ -17,11 +17,13 @@ class Solution {
         int max = 0;
         for (int n : numbers) {
             int k = n;
-            int count = 1;
-            while (set.contains(++k)) {
-                count++;
+            if (!set.contains(k - 1)) {
+                int count = 1;
+                while (set.contains(++k)) {
+                    count++;
+                }
+                max = Math.max(max, count);
             }
-            max = Math.max(max, count);
         }
         return max;
     }
